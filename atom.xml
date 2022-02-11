@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>recursos para a aprendizagem de leitura e escrita musical</description>
+    <link>
+    http://0.0.0.0:4000</link>
+    
+      
+      <item>
+        <title>Reconhecimento das notas no instrumento</title>
+        
+          <description>&lt;p&gt;Tão importante quanto reconhecer os nomes das notas na pauta é saber localizá-las em um instrumento musical, como o piano e o violão.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 07 Feb 2022 16:49:00 -0300</pubDate>
+        <link>
+        http://0.0.0.0:4000/tonesavvy-instrumento</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/tonesavvy-instrumento</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Transcrições manuscritas de passagens conhecidas de hip hop</title>
+        
+          <description>&lt;p&gt;Quem disse que só se estuda ditado rítmico com música de concerto?&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
+        <link>
+        http://0.0.0.0:4000/hip-hop-transcriptions</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/hip-hop-transcriptions</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Reconhecimento das notas na pauta musical</title>
+        
+          <description>&lt;p&gt;Para realizar atividades sobre a pauta musical, é fundamental desenvolver uma leitura rápida e precisa dos nomes das notas musicais em várias claves.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
+        <link>
+        http://0.0.0.0:4000/tonesavvy-pauta</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/tonesavvy-pauta</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Editor de partituras gratuito e de código aberto</title>
+        
+          <description>&lt;p&gt;Entre os mais conhecidos softwares para edição de partituras, figuram &lt;em&gt;Sibelius&lt;/em&gt; e &lt;em&gt;Finale&lt;/em&gt;, que consistiram durante décadas no padrão da indústria musical.&lt;/p&gt;
+
+&lt;p&gt;Recentemente, uma aplicação de código aberto ganhou espaço, sobretudo por ser desenvolvido por uma comunidade de programadores de software livre. Trata-se do &lt;a href=&quot;https://musescore.org&quot;&gt;&lt;em&gt;MuseScore&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Além de estar disponível para Windows, Mac e Linux, o programa é gratuito, o que amplia as possibilidades de utilização em laboratórios de informática, escolas de educação básica, home studios e escolas de música.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Para download e outras informações, acesse o site&lt;/strong&gt;: &lt;a href=&quot;https://musescore.org&quot;&gt;musescore.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;e-ainda&quot;&gt;E ainda…&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;vale assistir ao &lt;a href=&quot;https://www.youtube.com/watch?v=SXNfvkoOX_Q&quot;&gt;vídeo&lt;/a&gt; de um painel realizado na conferência virtual da &lt;a href=&quot;https://mola-inc.org&quot;&gt;&lt;em&gt;Major Orchestra Librarians’ Association&lt;/em&gt; (MOLA)&lt;/a&gt;, em 2021, com um panorama comparativo de quatro softwares de editoração musical: Finale, Sibelius, MuseScore e Dorico (este último, uma adição recente ao arsenal do gênero).&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/SXNfvkoOX_Q&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+</description>
+        
+        <pubDate>Sat, 01 Jan 2000 00:00:00 -0200</pubDate>
+        <link>
+        http://0.0.0.0:4000/musescore</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/musescore</guid>
+      </item>
+      
+    
+  </channel>
+</rss>

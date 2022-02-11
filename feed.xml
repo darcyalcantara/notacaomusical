@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://0.0.0.0:4000/notacaomusical/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/notacaomusical/" rel="alternate" type="text/html" /><updated>2022-02-11T15:01:52-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/feed.xml</id><title type="html">notação musical</title><subtitle>recursos para a aprendizagem de leitura e escrita musical</subtitle><entry><title type="html">Reconhecimento das notas no instrumento</title><link href="http://0.0.0.0:4000/notacaomusical/tonesavvy-instrumento" rel="alternate" type="text/html" title="Reconhecimento das notas no instrumento" /><published>2022-02-07T16:49:00-03:00</published><updated>2022-02-07T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/tonesavvy-instrumento</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/tonesavvy-instrumento">&lt;p&gt;Tão importante quanto reconhecer os nomes das notas na pauta é saber localizá-las em um instrumento musical, como o piano e o violão.&lt;/p&gt;
+
+&lt;p&gt;O site &lt;em&gt;ToneSavvy&lt;/em&gt; oferece a oportunidade de um treinamento da associação entre a localização da nota na pauta e a posição no instrumento necessária para produzir o mesmo som, de forma semelhante à notação da disposição corporal.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/tonesavvy-piano.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A sugestão é praticar o reconhecimento em ao menos um instrumento harmônico (piano ou violão), independentemente de qual seja o instrumento que se prefere tocar. Caso você não tenha ideia de como localizar as notas, faça uma pesquisa na internet antes de jogar. Lembre-se de registrar escore e tempo, para acompanhar seu desenvolvimento.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Acesse aqui&lt;/strong&gt;:
+&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/13/piano-key-note-identification-game-grand&quot;&gt;piano&lt;/a&gt;,
+&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/227/sight-reading-guitar-fret-note-on-staff&quot;&gt;violão&lt;/a&gt;,
+&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/231/violin-fingerboard-sight-reading&quot;&gt;violino&lt;/a&gt;,
+&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/232/viola-fingerboard-sight-reading&quot;&gt;viola&lt;/a&gt;,
+&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/233/cello-fingerboard-sight-reading&quot;&gt;violoncelo&lt;/a&gt; e
+&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/234/double-bass-fingerboard-sight-reading&quot;&gt;contrabaixo&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="Jogos e Exercícios" /><summary type="html">Tão importante quanto reconhecer os nomes das notas na pauta é saber localizá-las em um instrumento musical, como o piano e o violão.</summary></entry><entry><title type="html">Reconhecimento das notas na pauta musical</title><link href="http://0.0.0.0:4000/notacaomusical/tonesavvy-pauta" rel="alternate" type="text/html" title="Reconhecimento das notas na pauta musical" /><published>2022-02-05T16:49:00-03:00</published><updated>2022-02-05T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/tonesavvy-pauta</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/tonesavvy-pauta">&lt;p&gt;Para realizar atividades sobre a pauta musical, é fundamental desenvolver uma leitura rápida e precisa dos nomes das notas musicais em várias claves.&lt;/p&gt;
+
+&lt;p&gt;Hoje em dia, existem inúmeros aplicativos e sites que ajudam a memorizar a posição das notas na pauta. Um destes recursos é o site &lt;em&gt;Tone Savvy&lt;/em&gt;, que permite realizar um &lt;strong&gt;treinamento altamente customizável&lt;/strong&gt;, o que o torna atrativo a todos - independentemente de sua familiaridade com a pauta musical. Algumas das opções de customização:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;claves diversas (sol, fá e dó em várias posições);&lt;/li&gt;
+  &lt;li&gt;âmbito melódico (extensão da nota mais grave à mais aguda);&lt;/li&gt;
+  &lt;li&gt;nomenclatura alfabética (C, D, E…), silábica (dó, ré, mi…), alemã (H - si natural, B - si bemol);&lt;/li&gt;
+  &lt;li&gt;sílabas de solfejo em dó fixo ou dó móvel;&lt;/li&gt;
+  &lt;li&gt;notas apenas nas linhas, ou apenas nos espaços;&lt;/li&gt;
+  &lt;li&gt;responder com o mouse, teclado ou controlador MIDI.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Além disso, o site oferece um medidor de acertos e de velocidade nas respostas, o que permite diagnosticar seu desempenho com mais precisão.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Acesse aqui:&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/1/note-name-sight-reading-grand-staff-game&quot;&gt;Claves de sol e fá (sistema de piano)&lt;/a&gt;,&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/2/note-name-sight-reading-treble-staff-game&quot;&gt;Clave de sol&lt;/a&gt;,&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/3/note-name-sight-reading-bass-staff-game&quot;&gt;Clave de fá&lt;/a&gt; e&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/22/note-name-sight-reading-alto-staff-game&quot;&gt;Clave de dó na 3ª linha&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="Jogos e Exercícios" /><summary type="html">Para realizar atividades sobre a pauta musical, é fundamental desenvolver uma leitura rápida e precisa dos nomes das notas musicais em várias claves.</summary></entry><entry><title type="html">Transcrições manuscritas de passagens conhecidas de hip hop</title><link href="http://0.0.0.0:4000/notacaomusical/hip-hop-transcriptions" rel="alternate" type="text/html" title="Transcrições manuscritas de passagens conhecidas de hip hop" /><published>2022-02-05T16:49:00-03:00</published><updated>2022-02-05T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/hip-hop-transcriptions</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/hip-hop-transcriptions">&lt;p&gt;Quem disse que só se estuda ditado rítmico com música de concerto?&lt;/p&gt;
+
+&lt;p&gt;Originalmente um Tumblr, esta página do Instagram apresenta detalhadas transcrições de bateria, percussão, voz, baixo, piano, guitarra etc., na forma de pequenos trechos interativos.&lt;/p&gt;
+
+&lt;p&gt;A folha quadriculada ajuda a compreender melhor a posição dos ataques dos sons em relação à pulsação e, por consequência, estipular a duração que devem ter na notação convencional.&lt;/p&gt;
+
+&lt;p&gt;Vale explorar os fragmentos de James Brown, Aretha Franklin, Beyoncé e artistas representativos do gênero.&lt;/p&gt;
+
+&lt;figure class=&quot;video_container&quot;&gt;
+  &lt;iframe src=&quot;https://ve.media.tumblr.com/tumblr_pkct0joOEj1r1ifk7.mp4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot; style=&quot;height:300px;&quot;&gt;
+  &lt;/iframe&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Offline&lt;/strong&gt;: Não.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sites&lt;/strong&gt;: &lt;a href=&quot;https://hiphoptranscriptions.tumblr.com&quot;&gt;Tumblr&lt;/a&gt; e 
+&lt;a href=&quot;https://www.instagram.com/hiphoptranscriptions&quot;&gt;Instagram&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="Repertório" /><summary type="html">Quem disse que só se estuda ditado rítmico com música de concerto?</summary></entry><entry><title type="html">Editor de partituras gratuito e de código aberto</title><link href="http://0.0.0.0:4000/notacaomusical/musescore" rel="alternate" type="text/html" title="Editor de partituras gratuito e de código aberto" /><published>2000-01-01T00:00:00-02:00</published><updated>2000-01-01T00:00:00-02:00</updated><id>http://0.0.0.0:4000/notacaomusical/musescore</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/musescore">&lt;p&gt;Entre os mais conhecidos softwares para edição de partituras, figuram &lt;em&gt;Sibelius&lt;/em&gt; e &lt;em&gt;Finale&lt;/em&gt;, que consistiram durante décadas no padrão da indústria musical.&lt;/p&gt;
+
+&lt;p&gt;Recentemente, uma aplicação de código aberto ganhou espaço, sobretudo por ser desenvolvido por uma comunidade de programadores de software livre. Trata-se do &lt;a href=&quot;https://musescore.org&quot;&gt;&lt;em&gt;MuseScore&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Além de estar disponível para Windows, Mac e Linux, o programa é gratuito, o que amplia as possibilidades de utilização em laboratórios de informática, escolas de educação básica, home studios e escolas de música.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Para download e outras informações, acesse o site&lt;/strong&gt;: &lt;a href=&quot;https://musescore.org&quot;&gt;musescore.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;e-ainda&quot;&gt;E ainda…&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;vale assistir ao &lt;a href=&quot;https://www.youtube.com/watch?v=SXNfvkoOX_Q&quot;&gt;vídeo&lt;/a&gt; de um painel realizado na conferência virtual da &lt;a href=&quot;https://mola-inc.org&quot;&gt;&lt;em&gt;Major Orchestra Librarians’ Association&lt;/em&gt; (MOLA)&lt;/a&gt;, em 2021, com um panorama comparativo de quatro softwares de editoração musical: Finale, Sibelius, MuseScore e Dorico (este último, uma adição recente ao arsenal do gênero).&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/SXNfvkoOX_Q&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="Editores" /><summary type="html">Entre os mais conhecidos softwares para edição de partituras, figuram Sibelius e Finale, que consistiram durante décadas no padrão da indústria musical. Recentemente, uma aplicação de código aberto ganhou espaço, sobretudo por ser desenvolvido por uma comunidade de programadores de software livre. Trata-se do MuseScore. Além de estar disponível para Windows, Mac e Linux, o programa é gratuito, o que amplia as possibilidades de utilização em laboratórios de informática, escolas de educação básica, home studios e escolas de música. Para download e outras informações, acesse o site: musescore.org. E ainda… vale assistir ao vídeo de um painel realizado na conferência virtual da Major Orchestra Librarians’ Association (MOLA), em 2021, com um panorama comparativo de quatro softwares de editoração musical: Finale, Sibelius, MuseScore e Dorico (este último, uma adição recente ao arsenal do gênero).</summary></entry></feed>
