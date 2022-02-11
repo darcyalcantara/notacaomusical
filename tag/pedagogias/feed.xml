@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="http://0.0.0.0:4000/notacaomusical/tag/pedagogias/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://0.0.0.0:4000/notacaomusical/" rel="alternate" type="text/html" />
+  <updated>2022-02-11T19:26:22-03:00</updated>
+  <id>http://0.0.0.0:4000/notacaomusical/tag/pedagogias/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">notação musical | </title>
+  
+
+  
+    <subtitle>recursos para a aprendizagem de leitura e escrita musical</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Método O Passo</title>
+      <link href="http://0.0.0.0:4000/notacaomusical/o-passo" rel="alternate" type="text/html" title="Método O Passo" />
+      <published>2022-02-05T16:49:00-03:00</published>
+      <updated>2022-02-05T16:49:00-03:00</updated>
+      <id>http://0.0.0.0:4000/notacaomusical/o-passo</id>
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/o-passo">&lt;p&gt;&lt;em&gt;O Passo&lt;/em&gt; é um método de educação musical criado em 1996. Difundido em vários países, o método propõe uma abordagem democrática e inclusiva para a aprendizagem musical.&lt;/p&gt;
+
+&lt;p&gt;Assista a entrevista com o criador do método, Lucas Ciavatta, que traz depoimentos de músicos e pesquisadores.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/H1nVzbHtRAw&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;O &lt;a href=&quot;https://www.institutodopasso.org&quot;&gt;site&lt;/a&gt; disponibiliza textos, vídeos e exercícios. Há também recursos complementares em um &lt;a href=&quot;https://www.youtube.com/user/opasso&quot;&gt;canal no YouTube&lt;/a&gt;. Para quem desejar se aprofundar, são oferecidos cursos e oficinas, inclusive online.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Fonte da imagem: site de O Passo.&lt;/em&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Pedagogias" />
+      
+
+      
+        <summary type="html">O Passo é um método de educação musical criado em 1996. Difundido em vários países, o método propõe uma abordagem democrática e inclusiva para a aprendizagem musical.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Interações rítmicas funcionais ou posicionais</title>
+      <link href="http://0.0.0.0:4000/notacaomusical/chrome-music-lab" rel="alternate" type="text/html" title="Interações rítmicas funcionais ou posicionais" />
+      <published>2022-02-05T16:49:00-03:00</published>
+      <updated>2022-02-05T16:49:00-03:00</updated>
+      <id>http://0.0.0.0:4000/notacaomusical/chrome-music-lab</id>
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/chrome-music-lab">&lt;p&gt;Uma abordagem funcional (ou posicional) para o ritmo reflete os estudos cognitivos mais recentes sobre a percepção temporal, pois analisa o ritmo métrico a partir da função que cada evento desempenha, de maneira similar à análise harmônica funcional (IIm-V7-I7M, etc.)&lt;/p&gt;
+
+&lt;p&gt;Dentre os conceitos essenciais, encontram-se as a pulsação e as posições dos ataques dos sons no tempo. O “sabor” rítmico de cada som é definido, não pelas durações de tempo (mais longas ou curtas), mas sim pelas &lt;strong&gt;posições dos ataques em relação à pulsação&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Você experimentará &lt;a href=&quot;https://musiclab.chromeexperiments.com/Rhythm&quot;&gt;neste módulo do Chrome Music Lab&lt;/a&gt; uma maneira lúdica de interagir com o tempo musical que reflete esta abordagem. Por trás da aparente simplicidade, o módulo “Ritmo”, no Chrome Music Lab/Google, promove uma interação musical pedagogicamente refinada, por se basear na intuição rítmica, materializando as posições no tempo (no caso, tempos e contratempos), e não as durações.&lt;/p&gt;
+
+&lt;video width=&quot;65%&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;assets/chrome-music-lab-ritmo.mov&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+&lt;p&gt;Esta forma de representação visual do conteúdo rítmico, aliás, já aparecia de maneira similar nos primeiros sequenciadores rítmicos, de bateria, as influentes “drum machines”, como se pode ver neste &lt;a href=&quot;https://www.youtube.com/watch?v=4d89S-jOsfY&quot;&gt;breve documentário&lt;/a&gt;.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Pedagogias" />
+      
+
+      
+        <summary type="html">Uma abordagem funcional (ou posicional) para o ritmo reflete os estudos cognitivos mais recentes sobre a percepção temporal, pois analisa o ritmo métrico a partir da função que cada evento desempenha, de maneira similar à análise harmônica funcional (IIm-V7-I7M, etc.)</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Pesquisa em pedagogia da teoria musical</title>
+      <link href="http://0.0.0.0:4000/notacaomusical/JMTP" rel="alternate" type="text/html" title="Pesquisa em pedagogia da teoria musical" />
+      <published>2022-02-05T16:49:00-03:00</published>
+      <updated>2022-02-05T16:49:00-03:00</updated>
+      <id>http://0.0.0.0:4000/notacaomusical/JMTP</id>
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/JMTP">&lt;p&gt;O site do periódico &lt;a href=&quot;https://jmtp.appstate.edu&quot;&gt;&lt;em&gt;Journal of Music Theory Pedagogy&lt;/em&gt;&lt;/a&gt; traz centenas de artigos de acesso livre e gratuito. São abordagens - as mais diversas - para o ensino de teoria e percepção, estruturação musical e treinamento auditivo. Vale conhecer!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Pedagogias" />
+      
+
+      
+        <summary type="html">O site do periódico Journal of Music Theory Pedagogy traz centenas de artigos de acesso livre e gratuito. São abordagens - as mais diversas - para o ensino de teoria e percepção, estruturação musical e treinamento auditivo. Vale conhecer!</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
