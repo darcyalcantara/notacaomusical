@@ -8,9 +8,31 @@
     
       
       <item>
+        <title>Visualização circular do ritmo</title>
+        
+          <description>&lt;p&gt;Uma demanda dos etnomusicólogos (especialistas que estudam a música com ênfase nas relações entre os sons e os aspectos culturais) é o registro gráfico dos elementos musicais.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 07 Feb 2022 16:49:00 -0300</pubDate>
+        <link>
+        http://0.0.0.0:4000/visualizacao-circular-ritmo</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/visualizacao-circular-ritmo</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Reconhecimento das notas no instrumento</title>
         
-          <description>&lt;p&gt;Tão importante quanto reconhecer os nomes das notas na pauta é saber localizá-las em um instrumento musical, como o piano e o violão.&lt;/p&gt;
+          <description>&lt;style&gt; 
+	.boxes{ 
+	    width: 30%; 
+	    float: left;
+        padding: 10px;
+        text-align: center;
+	} 
+&lt;/style&gt;
 
 </description>
         
@@ -18,6 +40,36 @@
         <link>
         http://0.0.0.0:4000/tonesavvy-instrumento</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/tonesavvy-instrumento</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>O piano roll</title>
+        
+          <description>&lt;p&gt;Você conhece o &lt;em&gt;piano roll&lt;/em&gt;? Originalmente, consistia de uma forma de armazenamento musical por meio de rolos de papel perfurados.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
+        <link>
+        http://0.0.0.0:4000/piano-roll</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/piano-roll</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Música popular transcrita para o piano roll</title>
+        
+          <description>&lt;p&gt;Um grande desafio para o ensino de teoria e percepção musical é a incorporação de música popular, tanto em termos de repertório quanto de práticas de aprendizagem.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
+        <link>
+        http://0.0.0.0:4000/hook-theory</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/hook-theory</guid>
       </item>
       
     
@@ -53,6 +105,66 @@
     
       
       <item>
+        <title>Coletânea de solfejos</title>
+        
+          <description>&lt;p&gt;A coletânea de solfejos &lt;em&gt;Eyes and Ears: An Anthology of Melodies for Sight-Singing&lt;/em&gt;, de autoria de Benjamin Crowell, apresenta 400 melodias que podem ser utilizadas para o desenvolvimento da leitura cantada à primeira vista.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
+        <link>
+        http://0.0.0.0:4000/eyes-and-ears</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/eyes-and-ears</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Dicionários de temas musicais</title>
+        
+          <description>&lt;p&gt;Muitas vezes conhecemos uma melodia mas não sabemos como encontrá-la, por não termos acesso a informações extramusicais, metadados como título e compositor, ou mesmo a letra, quando se trata de uma canção. Tudo o que sabemos é cantarolar a melodia.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
+        <link>
+        http://0.0.0.0:4000/dicionario</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/dicionario</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Takadimi, solfejo rítmico ocidental inspirado no Konnakol</title>
+        
+          <description>&lt;p&gt;Além de &lt;em&gt;O Passo&lt;/em&gt;, outro sistema de solmização rítmica muito utilizado em todo o mundo é &lt;strong&gt;Takadimi&lt;/strong&gt;, desenvolvido ao longo da década de 1990 por Richard Hoffman, William Pelto e John W. White.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
+        <link>
+        http://0.0.0.0:4000/takadimi</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/takadimi</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Ensino musical a partir de práticas informais de aprendizagem</title>
+        
+          <description>&lt;p&gt;Muitos estabelecimentos regulares de ensino de música empregam metodologias que caracterizam as chamadas &lt;em&gt;práticas formais de aprendizagem&lt;/em&gt;.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
+        <link>
+        http://0.0.0.0:4000/percepcao-e-musica-popular</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/percepcao-e-musica-popular</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Método O Passo</title>
         
           <description>&lt;p&gt;&lt;em&gt;O Passo&lt;/em&gt; é um método de educação musical criado em 1996. Difundido em vários países, o método propõe uma abordagem democrática e inclusiva para a aprendizagem musical.&lt;/p&gt;
@@ -76,8 +188,23 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/chrome-music-lab</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/chrome-music-lab</guid>
+        http://0.0.0.0:4000/interacoes-ritmicas-posicionais</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/interacoes-ritmicas-posicionais</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Folhas de dicas ou referências rápidas</title>
+        
+          <description>&lt;p&gt;Páginas em PDF que resumem alguns dos conceitos fundamentais da teoria musical por meio de diagramas, símbolos, imagens e textos.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
+        <link>
+        http://0.0.0.0:4000/folhas-de-dicas</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/folhas-de-dicas</guid>
       </item>
       
     
@@ -92,6 +219,36 @@
         <link>
         http://0.0.0.0:4000/JMTP</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/JMTP</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>O lugar da repetição no estudo</title>
+        
+          <description>&lt;p&gt;O estudo musical, embora gratificante e prazeroso, se dá também por repetições e treinamentos exaustivos (aos ouvidos externos, por vezes intermináveis!), para se alcançar a proficiência, isto é, um desempenho de alto nível.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
+        <link>
+        http://0.0.0.0:4000/tim-rescala-estudo-para-piano</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/tim-rescala-estudo-para-piano</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Expressividade e fraseado musical</title>
+        
+          <description>&lt;p&gt;É importante equilibrar o estudo concentrado com os tempos de descontração. Melhor ainda se for com um mestre do humor, Rowan Atkinson, o Mr. Bean.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
+        <link>
+        http://0.0.0.0:4000/expressividade-e-fraseado</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/expressividade-e-fraseado</guid>
       </item>
       
     
@@ -142,6 +299,170 @@
     
       
       <item>
+        <title>Reconhecer os graus da escala</title>
+        
+          <description>&lt;p&gt;Não há solfejo sem análise. O solfejo, de fato, se inicia com o reconhecimento da estrutura musical subjacente aos símbolos representados na pauta.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
+        <link>
+        http://0.0.0.0:4000/reconhecer-os-graus-da-escala</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/reconhecer-os-graus-da-escala</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Intervalos</title>
+        
+          <description>&lt;p&gt;As relações musicais estabelecidas entre duas ou mais melodias executadas simultaneamente ficam mais fáceis de serem estudadas a partir da teoria sobre intervalos.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
+        <link>
+        http://0.0.0.0:4000/intervalos</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/intervalos</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Reconhecimento auditivo da função tonal dos graus da escala</title>
+        
+          <description>&lt;p&gt;No importante exercício a seguir, iniciamos o treinamento auditivo referente à percepção de alturas. Desejamos praticar o reconhecimento da função tonal de uma nota musical, no contexto de uma escala. Este exercício traz inúmeros benefícios: para além do ditado melódico (e harmônico), contribui para o solfejo.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
+        <link>
+        http://0.0.0.0:4000/funcao-tonal-melodia</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/funcao-tonal-melodia</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Digitação das escalas no teclado</title>
+        
+          <description>&lt;p&gt;Independentemente do instrumento que você toca, é importante conhecer razoavelmente a estrutura do piano, e ser capaz de tocar melodias e acordes simples.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
+        <link>
+        http://0.0.0.0:4000/escalas-no-piano</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/escalas-no-piano</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Identificação das armaduras de clave</title>
+        
+          <description>&lt;style&gt; 
+	.boxes{ 
+	    width: 30%; 
+	    float: left;
+        padding: 10px;
+        text-align: center;
+	} 
+&lt;/style&gt;
+
+</description>
+        
+        <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
+        <link>
+        http://0.0.0.0:4000/armaduras-de-clave</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/armaduras-de-clave</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Afinação no solfejo</title>
+        
+          <description>&lt;p&gt;Neste jogo, denominado &lt;em&gt;Pitchy Ninja&lt;/em&gt;, você escutará uma melodia curta, e deverá repeti-la vocalmente, utilizando o microfone de seu dispositivo. As tonalidades variam, bem como as melodias, a partir da configuração que você escolher.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
+        <link>
+        http://0.0.0.0:4000/afinacao</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/afinacao</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Acordes: identificação e construção</title>
+        
+          <description>&lt;style&gt; 
+	.boxes{ 
+	    width: 14%; 
+	    float: left;
+        padding: 25px;
+        text-align: center;
+	} 
+&lt;/style&gt;
+
+</description>
+        
+        <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
+        <link>
+        http://0.0.0.0:4000/acordes</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/acordes</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Editores de partitura online e colaborativos</title>
+        
+          <description>&lt;p&gt;&lt;a href=&quot;https://www.noteflight.com&quot;&gt;Noteflight&lt;/a&gt; é um editor de partituras online. Como roda diretamente no browser de internet, não necessita de ser instalado.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
+        <link>
+        http://0.0.0.0:4000/noteflight-e-flat</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/noteflight-e-flat</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Chrome Music Lab</title>
+        
+          <description>&lt;p&gt;Os recursos interativos podem despertar a curiosidade sobre outros elementos musicais e parâmetros sonoros: além de ritmo e alturas, duração, timbre, intensidade, textura, etc.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
+        <link>
+        http://0.0.0.0:4000/chrome-music-lab</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/chrome-music-lab</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>A mão guidoniana</title>
+        
+          <description>&lt;p&gt;Você sabia que o solfejo, ou leitura musical cantada à primeira vista, tem uma história que ultrapassa um milênio?&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 01 Jan 2000 00:00:00 -0200</pubDate>
+        <link>
+        http://0.0.0.0:4000/mao-guidoniana</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/mao-guidoniana</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Editor de partituras gratuito e de código aberto</title>
         
           <description>&lt;p&gt;Entre os mais conhecidos softwares para edição de partituras, figuram &lt;em&gt;Sibelius&lt;/em&gt; e &lt;em&gt;Finale&lt;/em&gt;, que consistiram durante décadas no padrão da indústria musical.&lt;/p&gt;
@@ -163,6 +484,21 @@
         <link>
         http://0.0.0.0:4000/musescore</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/musescore</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Estrutura da música popular apresentada em um sequenciador online interativo</title>
+        
+          <description>&lt;p&gt;O site a seguir é um recurso didático bastante interessante. Primeiramente, apresenta os elementos musicais de uma maneira nada convencional: a partir das estruturas características da música popular contemporânea, em especial dos gêneros rock e pop. Por ser estruturado em lições, pode funcionar como uma revisão de tudo o que vimos até aqui, e também para aprender novos conceitos.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 01 Jan 2000 00:00:00 -0200</pubDate>
+        <link>
+        http://0.0.0.0:4000/ableton</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/ableton</guid>
       </item>
       
     

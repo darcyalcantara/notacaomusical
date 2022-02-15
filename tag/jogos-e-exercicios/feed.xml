@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="http://0.0.0.0:4000/notacaomusical/tag/jogos-e-exercicios/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://0.0.0.0:4000/notacaomusical/" rel="alternate" type="text/html" />
-  <updated>2022-02-11T19:26:22-03:00</updated>
+  <updated>2022-02-15T19:43:13-03:00</updated>
   <id>http://0.0.0.0:4000/notacaomusical/tag/jogos-e-exercicios/feed.xml</id>
 
   
@@ -49,23 +49,61 @@
       <published>2022-02-07T16:49:00-03:00</published>
       <updated>2022-02-07T16:49:00-03:00</updated>
       <id>http://0.0.0.0:4000/notacaomusical/tonesavvy-instrumento</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/tonesavvy-instrumento">&lt;p&gt;Tão importante quanto reconhecer os nomes das notas na pauta é saber localizá-las em um instrumento musical, como o piano e o violão.&lt;/p&gt;
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/tonesavvy-instrumento">&lt;style&gt; 
+	.boxes{ 
+	    width: 30%; 
+	    float: left;
+        padding: 10px;
+        text-align: center;
+	} 
+&lt;/style&gt;
 
-&lt;p&gt;O site &lt;em&gt;ToneSavvy&lt;/em&gt; oferece a oportunidade de um treinamento da associação entre a localização da nota na pauta e a posição no instrumento necessária para produzir o mesmo som, de forma semelhante à notação da disposição corporal.&lt;/p&gt;
+&lt;p&gt;Tão importante quanto reconhecer os nomes das notas na pauta é saber localizá-las em um instrumento musical, como o piano e o violão.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/tonesavvy-piano.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O site &lt;a href=&quot;https://tonesavvy.com&quot;&gt;&lt;em&gt;ToneSavvy&lt;/em&gt;&lt;/a&gt; oferece a oportunidade de um treinamento da associação entre a localização da nota na pauta e a posição no instrumento necessária para produzir o mesmo som, de forma semelhante à notação da disposição corporal.&lt;/p&gt;
 
-&lt;p&gt;A sugestão é praticar o reconhecimento em ao menos um instrumento harmônico (piano ou violão), independentemente de qual seja o instrumento que se prefere tocar. Caso você não tenha ideia de como localizar as notas, faça uma pesquisa na internet antes de jogar. Lembre-se de registrar escore e tempo, para acompanhar seu desenvolvimento.&lt;/p&gt;
+&lt;p&gt;Por exemplo, a posição do Ab4 no teclado do piano:&lt;/p&gt;
 
-&lt;p&gt;Por último, o site oferece ainda um exercício para treinar a posição das notas em instrumentos de cordas friccionadas – violino, viola, violoncelo e contrabaixo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/tonesavvy-piano.png&quot; alt=&quot;snapshot&quot; width=&quot;60%&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Acesse aqui&lt;/strong&gt;:
-&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/13/piano-key-note-identification-game-grand&quot;&gt;piano&lt;/a&gt;,
-&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/227/sight-reading-guitar-fret-note-on-staff&quot;&gt;violão&lt;/a&gt;,
-&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/231/violin-fingerboard-sight-reading&quot;&gt;violino&lt;/a&gt;,
-&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/232/viola-fingerboard-sight-reading&quot;&gt;viola&lt;/a&gt;,
-&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/233/cello-fingerboard-sight-reading&quot;&gt;violoncelo&lt;/a&gt; e
-&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/234/double-bass-fingerboard-sight-reading&quot;&gt;contrabaixo&lt;/a&gt;.&lt;/p&gt;</content>
+&lt;p&gt;A sugestão é praticar o reconhecimento em ao menos um instrumento harmônico (piano ou violão), independentemente de qual seja o instrumento que se prefere tocar. Lembre-se de registrar &lt;em&gt;score&lt;/em&gt; e tempo, para acompanhar seu desenvolvimento.&lt;/p&gt;
+
+&lt;p&gt;Além de piano e violão, o site oferece ainda um exercício para treinar a posição das notas em instrumentos de cordas friccionadas (violino, viola, violoncelo e contrabaixo).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Clique no instrumento desejado para acessar o exercício&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/13/piano-key-note-identification-game-grand&quot;&gt;
+        &lt;img src=&quot;assets/piano.png&quot; alt=&quot;snapshot&quot; width=&quot;80&quot; /&gt;&lt;/a&gt;
+        piano
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/227/sight-reading-guitar-fret-note-on-staff&quot;&gt;
+        &lt;img src=&quot;assets/guitar.png&quot; alt=&quot;snapshot&quot; width=&quot;80&quot; /&gt;&lt;/a&gt;
+        guitar
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/231/violin-fingerboard-sight-reading&quot;&gt;
+        &lt;img src=&quot;assets/violino.png&quot; alt=&quot;snapshot&quot; width=&quot;80&quot; /&gt;&lt;/a&gt;
+        violino
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/232/viola-fingerboard-sight-reading&quot;&gt;
+        &lt;img src=&quot;assets/viola.png&quot; alt=&quot;snapshot&quot; width=&quot;80&quot; /&gt;&lt;/a&gt;
+        viola
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/233/cello-fingerboard-sight-reading&quot;&gt;
+        &lt;img src=&quot;assets/cello.png&quot; alt=&quot;snapshot&quot; width=&quot;80&quot; /&gt;&lt;/a&gt;
+        cello
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/234/double-bass-fingerboard-sight-reading&quot;&gt;
+        &lt;img src=&quot;assets/double-bass.png&quot; alt=&quot;snapshot&quot; width=&quot;80&quot; /&gt;&lt;/a&gt;
+        contrabaixo
+    &lt;/div&gt;
+&lt;/div&gt;</content>
 
       
       
@@ -86,7 +124,57 @@
       
 
       
-        <summary type="html">Tão importante quanto reconhecer os nomes das notas na pauta é saber localizá-las em um instrumento musical, como o piano e o violão.</summary>
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Visualização circular do ritmo</title>
+      <link href="http://0.0.0.0:4000/notacaomusical/visualizacao-circular-ritmo" rel="alternate" type="text/html" title="Visualização circular do ritmo" />
+      <published>2022-02-07T16:49:00-03:00</published>
+      <updated>2022-02-07T16:49:00-03:00</updated>
+      <id>http://0.0.0.0:4000/notacaomusical/visualizacao-circular-ritmo</id>
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/visualizacao-circular-ritmo">&lt;p&gt;Uma demanda dos etnomusicólogos (especialistas que estudam a música com ênfase nas relações entre os sons e os aspectos culturais) é o registro gráfico dos elementos musicais.&lt;/p&gt;
+
+&lt;p&gt;A partitura convencional, muitas vezes, não é o meio mais adequado para isso, pois se adequa melhor às concepções e práticas da música de concerto de tradição europeia e, em alguma medida, da música popular dos séculos XX e XXI.&lt;/p&gt;
+
+&lt;p&gt;Uma forma de analisar padrões rítmicos que tem ganhado espaço nesses estudos é a representação circular, demonstrada no vídeo abaixo. Observe que as durações não são categorias fundamentais nesta maneira de representar a percepção do ritmo, mas sim as posições dos ataques (pontos iniciais) dos sons em relação à pulsação.&lt;/p&gt;
+
+&lt;p&gt;Esta forma de visualização permite inclusive comparar diferentes células rítmicas características de estilos musicais, além de ser intuitiva.&lt;/p&gt;
+
+&lt;p&gt;Lembre-se de ativar a legenda em português, caso não esteja automaticamente ativada.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/2UphAzryVpY&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;💡 O livro &lt;a href=&quot;https://global.oup.com/academic/product/hearing-in-time-9780199744374?cc=us&amp;amp;lang=en&amp;amp;&quot;&gt;Hearing in Time&lt;/a&gt;: Psychological Aspects of Musical Meter, de Justin London, apresenta elaborados esquemas circulares para descrever e comparar ritmos em várias culturas, com ênfase na maneira como percebemos as estruturas temporais.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/hearing-in-time.jpeg&quot; alt=&quot;snapshot&quot; width=&quot;30%&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Jogos e Exercícios" />
+      
+
+      
+        <summary type="html">Uma demanda dos etnomusicólogos (especialistas que estudam a música com ênfase nas relações entre os sons e os aspectos culturais) é o registro gráfico dos elementos musicais.</summary>
       
 
       
@@ -176,6 +264,12 @@
 
 &lt;p&gt;Deixe ligado o som, para se familiarizar com as sonoridades características de cada escala.&lt;/p&gt;
 
+&lt;p&gt;Para evitar tonalidades que são raramente utilizadas por terem muitos acidentes (acima de 7), ative a opção &lt;em&gt;common accidentals&lt;/em&gt; (acidentes mais comuns). É o caso por exemplo de de D# maior (que tem F## e C##) e sua relativa B# menor.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;💡 Você sabia que é possível conectar seu controlador midi ao computador, e responder a este jogo tocando as notas diretamente no instrumento?&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;p&gt;&lt;img src=&quot;assets/tonesavvy-escalas-snapshot.png&quot; alt=&quot;snapshot&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Acesse aqui:&lt;/strong&gt;:&lt;/p&gt;
@@ -189,7 +283,11 @@
 
 &lt;p&gt;…recomenda-se a configuração em anexo:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/escalas-config.png&quot; alt=&quot;snapshot&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;img src=&quot;assets/escalas-config.png&quot; alt=&quot;snapshot&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;para-as-escalas-menores-natural-harmônica-e-melódica-a-configuração-é-esta&quot;&gt;Para as escalas menores (natural, harmônica e melódica), a configuração é esta:&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/escalas-menores-config.png&quot; alt=&quot;snapshot&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;</content>
 
       
       
@@ -211,6 +309,432 @@
 
       
         <summary type="html">O site ToneSavvy apresenta um exercício chamado Scale Building (formação das escalas).</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Reconhecer os graus da escala</title>
+      <link href="http://0.0.0.0:4000/notacaomusical/reconhecer-os-graus-da-escala" rel="alternate" type="text/html" title="Reconhecer os graus da escala" />
+      <published>2022-02-05T16:49:00-03:00</published>
+      <updated>2022-02-05T16:49:00-03:00</updated>
+      <id>http://0.0.0.0:4000/notacaomusical/reconhecer-os-graus-da-escala</id>
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/reconhecer-os-graus-da-escala">&lt;p&gt;Não há solfejo sem análise. O solfejo, de fato, se inicia com o reconhecimento da estrutura musical subjacente aos símbolos representados na pauta.&lt;/p&gt;
+
+&lt;p&gt;Em um contexto tonal, a informação melódica mais importante é a função que cada nota desempenha no contexto da escala; por isto, é importante treinar seu reconhecimento ágil e com acurácia.&lt;/p&gt;
+
+&lt;p&gt;Este exercício prepara para o a análise melódica e, consequentemente, para a leitura cantada à primeira vista.&lt;/p&gt;
+
+&lt;p&gt;Para a análise de música tonal e modal, tão importante quanto identificar os nomes das notas musicais nas claves e reconhecer os acidentes que definem as tonalidades é associar as notas musicais aos números correspondentes aos lugares (ou posições) que ocupam na escala, de 1 a 7.&lt;/p&gt;
+
+&lt;p&gt;Tais números são denominados graus da escala, e recebem nomes especiais: tônica, sobretônica, etc.&lt;/p&gt;
+
+&lt;p&gt;Você visualizará uma pauta musical, com uma armadura de clave e uma nota musical. Primeiramente, você deverá reconhecer a tonalidade maior representada pela armadura. Em seguida, deverá reconhecer a função tonal que a nota musical representada desempenha no contexto daquela escala, utilizando a seguinte convenção:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;tônica: &lt;em&gt;do&lt;/em&gt;,&lt;/li&gt;
+  &lt;li&gt;sobretônica: &lt;em&gt;re&lt;/em&gt;,&lt;/li&gt;
+  &lt;li&gt;mediante: &lt;em&gt;mi&lt;/em&gt;,&lt;/li&gt;
+  &lt;li&gt;subdominante: &lt;em&gt;fa&lt;/em&gt;,&lt;/li&gt;
+  &lt;li&gt;dominante: &lt;em&gt;so&lt;/em&gt;,&lt;/li&gt;
+  &lt;li&gt;submediante: &lt;em&gt;la&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;e sensível: &lt;em&gt;ti&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lembre-se, antes de iniciar, de selecionar a opção &lt;em&gt;moveable-do&lt;/em&gt; (dó móvel) no campo &lt;em&gt;note names&lt;/em&gt; (nomes das notas), conforme a figura abaixo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/note-names-dó-móvel-config.png&quot; alt=&quot;snapshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pratique, tanto no sistema com claves de sol e fá (&lt;em&gt;grand staff&lt;/em&gt;), quanto na clave de dó na terceira linha (clave de viola, ou de contralto, alto staff).&lt;/p&gt;
+
+&lt;p&gt;Pratique algumas vezes os jogos propostos para identificar os graus da escala em várias tonalidades.&lt;/p&gt;
+
+&lt;p&gt;Pratique também algumas escalas no teclado (instrumento físico ou virtual). Cante junto os graus: do re mi, etc. (independentemente da tonalidade) e também com números: 1, 2, 3, etc.&lt;/p&gt;
+
+&lt;p&gt;Acesse aqui:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/1/note-name-sight-reading-grand-staff-game&quot;&gt;Sistema de piano&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/22/note-name-sight-reading-alto-staff-game&quot;&gt;Clave de dó na terceira linha&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;em-movimento&quot;&gt;Em movimento&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Após praticar bastante, prossiga o reconhecimento dos graus ou funções tonais desempenhadas pelas notas que compõem a escala maior, nas claves de sol, fá, e dó na terceira linha (viola)&lt;/p&gt;
+
+&lt;p&gt;Da mesma maneira que no tópico anterior, ao invés de utilizarmos os nomes dos graus (tônica, sobretônica, mediante, etc.), nós utilizaremos as sílabas de solfejo móvel (respectivamente, dó, re, mi, etc.). Outra maneira de nomeá-las é por meio de números: 1, 2, 3, etc.&lt;/p&gt;
+
+&lt;p&gt;Não esqueça de configurar o exercício conforme a figura ilustrativa em anexo. Controle a velocidade de movimento das notas por meio do parâmetro &lt;em&gt;speed&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/notas-em-movimento-config.png&quot; alt=&quot;snapshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Acesse aqui:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/10/paced-scrolling-note-name-sight-reading-game&quot;&gt;Sistema de piano&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/240/paced-note-name-sight-reading-game-alto&quot;&gt;Clave de dó na terceira linha&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Jogos e Exercícios" />
+      
+
+      
+        <summary type="html">Não há solfejo sem análise. O solfejo, de fato, se inicia com o reconhecimento da estrutura musical subjacente aos símbolos representados na pauta.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Intervalos</title>
+      <link href="http://0.0.0.0:4000/notacaomusical/intervalos" rel="alternate" type="text/html" title="Intervalos" />
+      <published>2022-02-05T16:49:00-03:00</published>
+      <updated>2022-02-05T16:49:00-03:00</updated>
+      <id>http://0.0.0.0:4000/notacaomusical/intervalos</id>
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/intervalos">&lt;p&gt;As relações musicais estabelecidas entre duas ou mais melodias executadas simultaneamente ficam mais fáceis de serem estudadas a partir da teoria sobre intervalos.&lt;/p&gt;
+
+&lt;p&gt;Na cultura musical ocidental, por exemplo, as primeiras práticas de sobreposições melódicas conhecidas deram-se na Alta Idade Média, quando os cantos gregorianos começaram a ser duplicados em oitavas e quintas superiores (organum paralelo), passando posteriormente ao organum livre (com diferentes movimentos entre as vozes: oblíquo, contrário e direto, além do paralelo) e ao organum melismático (com elaboradas melodias sobreposta às longas notas do cantochão entoadas pelo tenor). Progressivamente, vamos chegando assim ao sentido de polifonia, uma textura musical composta por duas ou mais linhas melódicas independentes.&lt;/p&gt;
+
+&lt;p&gt;No vídeo abaixo, temos uma divertida composição polifônica a partir de temas musicais de compositores famosos da música ocidental. Veja que interessante!&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/7OYkWSW7u4k&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Chegou a hora de praticar o reconhecimento dos intervalos na pauta musical.&lt;/p&gt;
+
+&lt;p&gt;Customize seu exercício, começando apenas com os intervalos justos (perfeitos), maiores e menores. Deixe os intervalos aumentados e diminutos para o momento em que estes conteúdos forem apresentados.&lt;/p&gt;
+
+&lt;p&gt;Observação: se ainda estiver se familiarizando com os nomes das notas nas claves de sol e fá, foque nestas duas. Para quem já está habituado, é um bom exercício ler em outra clave, como a clave de dó na 3ª linha (clave de viola, ou de contralto).&lt;/p&gt;
+
+&lt;p&gt;Bom exercício!&lt;/p&gt;
+
+&lt;p&gt;https://tonesavvy.com/music-practice-exercise/16/interval-identification-game-treble
+https://tonesavvy.com/music-practice-exercise/18/interval-identification-game-bass
+https://tonesavvy.com/music-practice-exercise/17/interval-identification-game-alto-viola&lt;/p&gt;
+
+&lt;p&gt;Ouça esta paródia de uma canção de Natal, com uma bem humorada letra sobre intervalos. Nas paródias musicais, mantém-se a melodia e altera-se a letra da canção. É um recurso frequentemente utilizado em aulas de música.&lt;/p&gt;
+
+&lt;p&gt;Observação: Infelizmente, não há legenda, mas é uma boa oportunidade para aprender algumas terminologias musicais em inglês. No Tópico 1, é possível encontrar opções de dicionários musicais (inglês-português).&lt;/p&gt;
+
+&lt;p&gt;Conhece o nome desta canção, em sua versão original?&lt;/p&gt;
+
+&lt;p&gt;https://www.youtube.com/watch?v=dF074CL5vjI&lt;/p&gt;
+
+&lt;p&gt;Agora, é hora de construir intervalos a partir de uma nota dada. Siga os mesmos procedimentos do jogo de reconhecimento de intervalos.&lt;/p&gt;
+
+&lt;p&gt;Bom exercício!&lt;/p&gt;
+
+&lt;p&gt;https://tonesavvy.com/music-practice-exercise/4/interval-building-game-treble
+https://tonesavvy.com/music-practice-exercise/5/interval-building-game-bass
+https://tonesavvy.com/music-practice-exercise/6/interval-building-game-alto-viola&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Jogos e Exercícios" />
+      
+
+      
+        <summary type="html">As relações musicais estabelecidas entre duas ou mais melodias executadas simultaneamente ficam mais fáceis de serem estudadas a partir da teoria sobre intervalos.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Reconhecimento auditivo da função tonal dos graus da escala</title>
+      <link href="http://0.0.0.0:4000/notacaomusical/funcao-tonal-melodia" rel="alternate" type="text/html" title="Reconhecimento auditivo da função tonal dos graus da escala" />
+      <published>2022-02-05T16:49:00-03:00</published>
+      <updated>2022-02-05T16:49:00-03:00</updated>
+      <id>http://0.0.0.0:4000/notacaomusical/funcao-tonal-melodia</id>
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/funcao-tonal-melodia">&lt;p&gt;No importante exercício a seguir, iniciamos o treinamento auditivo referente à percepção de alturas. Desejamos praticar o reconhecimento da função tonal de uma nota musical, no contexto de uma escala. Este exercício traz inúmeros benefícios: para além do ditado melódico (e harmônico), contribui para o solfejo.&lt;/p&gt;
+
+&lt;p&gt;Sugere-se a seguinte abordagem progressiva:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Clique em “Start quiz” (iniciar o questionário).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Desmarque o grau 3 (mi), mediante, para começar apenas com os graus 1 (do) e 5 (sol), tônica e dominante.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Após a execução da cadência harmônica (IV-V-I), cantar a tônica (1), conforme percebida auditivamente, e proceder melodicamente até a dominante (5) e descer, de duas formas: do re mi fa sol fa mi re do, e: 1 2 3 4 5 4 3 2 1.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Repita com a voz a nota executada, identificando de qual grau se trata, 1 (do) ou 5 (sol), e marque a opção correta.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Por último, busque a tônica da escala no teclado ou no violão, e, se conseguir, execute a realização da escala maior completa. (Caso não seja possível executar a escala, nesse momento, não há problema, já que se trata de um exercício que envolve uma outra habilidade, diferente da que pretendemos desenvolver aqui.)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Repita dez vezes os passos de 1 a 5 e, estando com escore acima de 70%, acrescente a mediante (3, ou mi).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Assim por diante, sem pressa, vá acrescentando, na ordem, os demais graus da escala maior, verificando sempre se o seu escore permanece acima de 70%, para só então acrescentar o próximo grau:
+a sobretônica (2, ou ré);
+a subdominante (4, ou fá);
+a submediante (6, ou lá) e
+a sensível (7 ou ti).
+Para este momento, é suficiente até aqui. Ao abordarmos as escalas menores, voltaremos a este exercício.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Bons estudos!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/220/functional-solfege-scale-degree-ear/&quot;&gt;Clique aqui para jogar&lt;/a&gt;.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Jogos e Exercícios" />
+      
+
+      
+        <summary type="html">No importante exercício a seguir, iniciamos o treinamento auditivo referente à percepção de alturas. Desejamos praticar o reconhecimento da função tonal de uma nota musical, no contexto de uma escala. Este exercício traz inúmeros benefícios: para além do ditado melódico (e harmônico), contribui para o solfejo.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Digitação das escalas no teclado</title>
+      <link href="http://0.0.0.0:4000/notacaomusical/escalas-no-piano" rel="alternate" type="text/html" title="Digitação das escalas no teclado" />
+      <published>2022-02-05T16:49:00-03:00</published>
+      <updated>2022-02-05T16:49:00-03:00</updated>
+      <id>http://0.0.0.0:4000/notacaomusical/escalas-no-piano</id>
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/escalas-no-piano">&lt;p&gt;Independentemente do instrumento que você toca, é importante conhecer razoavelmente a estrutura do piano, e ser capaz de tocar melodias e acordes simples.&lt;/p&gt;
+
+&lt;p&gt;Tal prática será útil em inúmeros contextos. Em aulas e workshops, é comum que esteja disponível apenas um piano. O principal controlador Midi utilizado em estúdios é o teclado. Além disso, a visualização da condução de vozes é mais imediata neste instrumento.&lt;/p&gt;
+
+&lt;p&gt;Para a prática das escalas no piano, é útil atentar-se para a digitação correta (isto é, a escolha do dedo adequado para cada tecla): 1 para o polegar, 2 para o indicador, e assim por diante.&lt;/p&gt;
+
+&lt;p&gt;Esta apostila, do site “Piano Picnic”, apresenta a visualização no teclado das escalas maiores e menores, com suas respectivas digitações. Por enquanto, pratique apenas as escalas maiores.&lt;/p&gt;
+
+&lt;p&gt;Além de tocar, experimente cantar junto as notas da escala, mas entoando os números correspondentes aos graus, de 1 a 7, como vimos no Jogo desta semana. Lembre-se que, independentemente da tonalidade, o primeiro grau será chamado de 1, o segundo de 2, e assim por diante. Esta atividade pode ajudar a internalizar as funções tonais, desenvolvendo o ouvido relativo, o que levará a um bom desempenho em solfejos e ditados melódicos.&lt;/p&gt;
+
+&lt;p&gt;Atenção: não confunda os números da digitação (que estão nesta apostila) com os números que indicam os graus da escala (1 - tônica; 5 - dominante; etc.).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://cdn.fs.teachablecdn.com/TyjUd0xuTl6kOQxesKKH&quot;&gt;Acesse aqui&lt;/a&gt;.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Jogos e Exercícios" />
+      
+
+      
+        <summary type="html">Independentemente do instrumento que você toca, é importante conhecer razoavelmente a estrutura do piano, e ser capaz de tocar melodias e acordes simples.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Identificação das armaduras de clave</title>
+      <link href="http://0.0.0.0:4000/notacaomusical/armaduras-de-clave" rel="alternate" type="text/html" title="Identificação das armaduras de clave" />
+      <published>2022-02-05T16:49:00-03:00</published>
+      <updated>2022-02-05T16:49:00-03:00</updated>
+      <id>http://0.0.0.0:4000/notacaomusical/armaduras-de-clave</id>
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/armaduras-de-clave">&lt;style&gt; 
+	.boxes{ 
+	    width: 30%; 
+	    float: left;
+        padding: 10px;
+        text-align: center;
+	} 
+&lt;/style&gt;
+
+&lt;p&gt;As armaduras de clave são responsáveis por definir o conjunto das principais alturas (notas) utilizadas em uma peça musical, como uma paleta de cores.&lt;/p&gt;
+
+&lt;p&gt;O jogo a seguir é similar ao jogo de reconhecimento das notas na pauta musical. Entretanto, desta vez, o objetivo é praticar o reconhecimento das armaduras de clave.&lt;/p&gt;
+
+&lt;p&gt;Assim como os outros jogos apresentados do site &lt;a href=&quot;https://tonesavvy.com&quot;&gt;&lt;em&gt;ToneSavvy&lt;/em&gt;&lt;/a&gt;, você poderá customizá-lo, para adequar a dificuldade a seu nível de leitura atual, acrescentando progressivamente mais tonalidades. Para tanto, sugerimos adicionar as tonalidades maiores na seguinte ordem:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;0 acidentes: C&lt;/li&gt;
+  &lt;li&gt;1 acidente: G e F&lt;/li&gt;
+  &lt;li&gt;2 acidentes: D e Bb&lt;/li&gt;
+  &lt;li&gt;3 acidentes: A e Eb&lt;/li&gt;
+  &lt;li&gt;4 acidentes: E e Ab&lt;/li&gt;
+  &lt;li&gt;5 acidentes: B e Db&lt;/li&gt;
+  &lt;li&gt;6 acidentes: F# e Gb&lt;/li&gt;
+  &lt;li&gt;7 acidentes: C# e Cb&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Por exemplo: comece com C, G e F. Depois, acrescente D e Bb, e assim por diante.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;💡 Observe que, seguindo o número de acidentes, vamos percorrendo o &lt;strong&gt;Ciclo das Quintas&lt;/strong&gt;, no sentido horário para os sustenidos (#) e anti-horário para os bemóis (b), também chamado de Ciclo das Quartas. O mesmo se aplica às tonalidades menores, chamadas “relativas” das tonalidades maiores.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Clique na clave desejada e experimente:&lt;/p&gt;
+
+&lt;div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/11/key-signature-treble-identification-game&quot;&gt;
+        &lt;img src=&quot;assets/clefs-treble.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        clave de sol (agudo)
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/224/key-signature-bass-identification-game&quot;&gt;
+        &lt;img src=&quot;assets/clefs-bass.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        clave de fá (grave)
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/225/key-signature-alto-viola-identification-game&quot;&gt;
+        &lt;img src=&quot;assets/clefs-alto.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        clave de dó na 3ª linha (contralto/viola)
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/262/key-signature-soprano-identification-game&quot;&gt;
+        &lt;img src=&quot;assets/clefs-soprano.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        clave de dó na 1ª linha (soprano)
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/263/key-signature-mezzo-soprano-identification-game&quot;&gt;
+        &lt;img src=&quot;assets/clefs-mezzo-soprano.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        clave de dó na 2ª linha (mezzo-soprano)
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/264/key-signature-tenor-identification-game&quot;&gt;
+        &lt;img src=&quot;assets/clefs-tenor.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        clave de dó na 4ª linha (tenor)
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/265/key-signature-grand-staff-identification-game&quot;&gt;
+        &lt;img src=&quot;assets/clefs-grand-staff.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        claves de sol e fá (sistema de piano)
+    &lt;/div&gt;
+&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Jogos e Exercícios" />
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Afinação no solfejo</title>
+      <link href="http://0.0.0.0:4000/notacaomusical/afinacao" rel="alternate" type="text/html" title="Afinação no solfejo" />
+      <published>2022-02-05T16:49:00-03:00</published>
+      <updated>2022-02-05T16:49:00-03:00</updated>
+      <id>http://0.0.0.0:4000/notacaomusical/afinacao</id>
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/afinacao">&lt;p&gt;Neste jogo, denominado &lt;em&gt;Pitchy Ninja&lt;/em&gt;, você escutará uma melodia curta, e deverá repeti-la vocalmente, utilizando o microfone de seu dispositivo. As tonalidades variam, bem como as melodias, a partir da configuração que você escolher.&lt;/p&gt;
+
+&lt;p&gt;Um dos benefícios do jogo é a possibilidade de visualizar em tempo real a posição de sua voz dentro do espaço melódico. Para isso, é necessário selecionar adequadamente o âmbito em que são construídas as melodias em tonalidades aleatórias. Este pode ser, assim, um recurso adicional para a prática da leitura cantada. Além disso, você ainda recebe um feedback de sua resposta. No início, é comum errar bastante, até o exercício estar corretamente configurado, e você entender qual é a proposta.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/pitchy-ninja.jpg&quot; alt=&quot;snapshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Outro benefício deste exercício é trabalhar a micro-afinação, isto é o grau de precisão na adequação entre a frequência que define uma altura e sua reprodução vocal. A acurácia depende de fatores técnico-vocais, da própria construção melódica e também emocionais (nervosismo, etc.) e, assim, não deve ser o único critério na avaliação do quesito alturas na prática do solfejo. Veja mais detalhes sobre isso nos capítulos 6 e 7 de Karpinski (2000), já disponibilizados como texto complementar no tópico 5.&lt;/p&gt;
+
+&lt;p&gt;Para configurar o jogo para sua voz, recomenda-se seguir os passos listados no anexo:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/pitchy-ninja-config.jpg&quot; alt=&quot;snapshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Observações:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“Pitch” é o termo inglês para designar “altura”: o atributo vertical das notas musicais no espaço definido entre o grave e o agudo.&lt;/li&gt;
+  &lt;li&gt;O Dó central, na configuração do jogo, é o C4, seguindo portanto a nomenclatura internacional.&lt;/li&gt;
+  &lt;li&gt;O feedback proporcionado por este jogo é baseado no sistema de avaliação norte-americano, com notas de de A a F, sendo A melhor e F pior.&lt;/li&gt;
+  &lt;li&gt;Os níveis vão sendo liberados aos poucos, na medida de seu progresso.&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Jogos e Exercícios" />
+      
+
+      
+        <summary type="html">Neste jogo, denominado Pitchy Ninja, você escutará uma melodia curta, e deverá repeti-la vocalmente, utilizando o microfone de seu dispositivo. As tonalidades variam, bem como as melodias, a partir da configuração que você escolher.</summary>
       
 
       

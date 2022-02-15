@@ -1,218 +1,310 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://0.0.0.0:4000/notacaomusical/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/notacaomusical/" rel="alternate" type="text/html" /><updated>2022-02-11T19:26:22-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/feed.xml</id><title type="html">notação musical</title><subtitle>recursos para a aprendizagem de leitura e escrita musical</subtitle><entry><title type="html">Reconhecimento das notas no instrumento</title><link href="http://0.0.0.0:4000/notacaomusical/tonesavvy-instrumento" rel="alternate" type="text/html" title="Reconhecimento das notas no instrumento" /><published>2022-02-07T16:49:00-03:00</published><updated>2022-02-07T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/tonesavvy-instrumento</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/tonesavvy-instrumento">&lt;p&gt;Tão importante quanto reconhecer os nomes das notas na pauta é saber localizá-las em um instrumento musical, como o piano e o violão.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://0.0.0.0:4000/notacaomusical/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/notacaomusical/" rel="alternate" type="text/html" /><updated>2022-02-15T19:43:13-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/feed.xml</id><title type="html">notação musical</title><subtitle>recursos para a aprendizagem de leitura e escrita musical</subtitle><entry><title type="html">Reconhecimento das notas no instrumento</title><link href="http://0.0.0.0:4000/notacaomusical/tonesavvy-instrumento" rel="alternate" type="text/html" title="Reconhecimento das notas no instrumento" /><published>2022-02-07T16:49:00-03:00</published><updated>2022-02-07T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/tonesavvy-instrumento</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/tonesavvy-instrumento">&lt;style&gt; 
+	.boxes{ 
+	    width: 30%; 
+	    float: left;
+        padding: 10px;
+        text-align: center;
+	} 
+&lt;/style&gt;
 
-&lt;p&gt;O site &lt;em&gt;ToneSavvy&lt;/em&gt; oferece a oportunidade de um treinamento da associação entre a localização da nota na pauta e a posição no instrumento necessária para produzir o mesmo som, de forma semelhante à notação da disposição corporal.&lt;/p&gt;
+&lt;p&gt;Tão importante quanto reconhecer os nomes das notas na pauta é saber localizá-las em um instrumento musical, como o piano e o violão.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/tonesavvy-piano.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O site &lt;a href=&quot;https://tonesavvy.com&quot;&gt;&lt;em&gt;ToneSavvy&lt;/em&gt;&lt;/a&gt; oferece a oportunidade de um treinamento da associação entre a localização da nota na pauta e a posição no instrumento necessária para produzir o mesmo som, de forma semelhante à notação da disposição corporal.&lt;/p&gt;
 
-&lt;p&gt;A sugestão é praticar o reconhecimento em ao menos um instrumento harmônico (piano ou violão), independentemente de qual seja o instrumento que se prefere tocar. Caso você não tenha ideia de como localizar as notas, faça uma pesquisa na internet antes de jogar. Lembre-se de registrar escore e tempo, para acompanhar seu desenvolvimento.&lt;/p&gt;
+&lt;p&gt;Por exemplo, a posição do Ab4 no teclado do piano:&lt;/p&gt;
 
-&lt;p&gt;Por último, o site oferece ainda um exercício para treinar a posição das notas em instrumentos de cordas friccionadas – violino, viola, violoncelo e contrabaixo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/tonesavvy-piano.png&quot; alt=&quot;snapshot&quot; width=&quot;60%&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Acesse aqui&lt;/strong&gt;:
-&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/13/piano-key-note-identification-game-grand&quot;&gt;piano&lt;/a&gt;,
-&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/227/sight-reading-guitar-fret-note-on-staff&quot;&gt;violão&lt;/a&gt;,
-&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/231/violin-fingerboard-sight-reading&quot;&gt;violino&lt;/a&gt;,
-&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/232/viola-fingerboard-sight-reading&quot;&gt;viola&lt;/a&gt;,
-&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/233/cello-fingerboard-sight-reading&quot;&gt;violoncelo&lt;/a&gt; e
-&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/234/double-bass-fingerboard-sight-reading&quot;&gt;contrabaixo&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="Jogos e Exercícios" /><summary type="html">Tão importante quanto reconhecer os nomes das notas na pauta é saber localizá-las em um instrumento musical, como o piano e o violão.</summary></entry><entry><title type="html">Pesquisa em pedagogia da teoria musical</title><link href="http://0.0.0.0:4000/notacaomusical/JMTP" rel="alternate" type="text/html" title="Pesquisa em pedagogia da teoria musical" /><published>2022-02-05T16:49:00-03:00</published><updated>2022-02-05T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/JMTP</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/JMTP">&lt;p&gt;O site do periódico &lt;a href=&quot;https://jmtp.appstate.edu&quot;&gt;&lt;em&gt;Journal of Music Theory Pedagogy&lt;/em&gt;&lt;/a&gt; traz centenas de artigos de acesso livre e gratuito. São abordagens - as mais diversas - para o ensino de teoria e percepção, estruturação musical e treinamento auditivo. Vale conhecer!&lt;/p&gt;</content><author><name></name></author><category term="Pedagogias" /><summary type="html">O site do periódico Journal of Music Theory Pedagogy traz centenas de artigos de acesso livre e gratuito. São abordagens - as mais diversas - para o ensino de teoria e percepção, estruturação musical e treinamento auditivo. Vale conhecer!</summary></entry><entry><title type="html">Formação das escalas</title><link href="http://0.0.0.0:4000/notacaomusical/tonesavvy-escala" rel="alternate" type="text/html" title="Formação das escalas" /><published>2022-02-05T16:49:00-03:00</published><updated>2022-02-05T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/tonesavvy-escala</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/tonesavvy-escala">&lt;p&gt;O site ToneSavvy apresenta um exercício chamado &lt;em&gt;Scale Building&lt;/em&gt; (formação das escalas).&lt;/p&gt;
+&lt;p&gt;A sugestão é praticar o reconhecimento em ao menos um instrumento harmônico (piano ou violão), independentemente de qual seja o instrumento que se prefere tocar. Lembre-se de registrar &lt;em&gt;score&lt;/em&gt; e tempo, para acompanhar seu desenvolvimento.&lt;/p&gt;
 
-&lt;p&gt;O objetivo deste jogo é praticar a escrita das escalas maiores, nota a nota. Sugere-se praticar nas claves de sol, fá, e dó na terceira linha (clave de contrato/alto ou de viola), que são as mais utilizadas atualmente.&lt;/p&gt;
+&lt;p&gt;Além de piano e violão, o site oferece ainda um exercício para treinar a posição das notas em instrumentos de cordas friccionadas (violino, viola, violoncelo e contrabaixo).&lt;/p&gt;
 
-&lt;p&gt;Há uma grande variedade de escalas disponíveis, além das tradicionais maiores e menores, como os modos gregos, pentatônicas, blues e tons inteiros, dentre outras.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Clique no instrumento desejado para acessar o exercício&lt;/strong&gt;:&lt;/p&gt;
 
-&lt;p&gt;Deixe ligado o som, para se familiarizar com as sonoridades características de cada escala.&lt;/p&gt;
+&lt;div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/13/piano-key-note-identification-game-grand&quot;&gt;
+        &lt;img src=&quot;assets/piano.png&quot; alt=&quot;snapshot&quot; width=&quot;80&quot; /&gt;&lt;/a&gt;
+        piano
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/227/sight-reading-guitar-fret-note-on-staff&quot;&gt;
+        &lt;img src=&quot;assets/guitar.png&quot; alt=&quot;snapshot&quot; width=&quot;80&quot; /&gt;&lt;/a&gt;
+        guitar
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/231/violin-fingerboard-sight-reading&quot;&gt;
+        &lt;img src=&quot;assets/violino.png&quot; alt=&quot;snapshot&quot; width=&quot;80&quot; /&gt;&lt;/a&gt;
+        violino
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/232/viola-fingerboard-sight-reading&quot;&gt;
+        &lt;img src=&quot;assets/viola.png&quot; alt=&quot;snapshot&quot; width=&quot;80&quot; /&gt;&lt;/a&gt;
+        viola
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/233/cello-fingerboard-sight-reading&quot;&gt;
+        &lt;img src=&quot;assets/cello.png&quot; alt=&quot;snapshot&quot; width=&quot;80&quot; /&gt;&lt;/a&gt;
+        cello
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/234/double-bass-fingerboard-sight-reading&quot;&gt;
+        &lt;img src=&quot;assets/double-bass.png&quot; alt=&quot;snapshot&quot; width=&quot;80&quot; /&gt;&lt;/a&gt;
+        contrabaixo
+    &lt;/div&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="Jogos e Exercícios" /><summary type="html"></summary></entry><entry><title type="html">Visualização circular do ritmo</title><link href="http://0.0.0.0:4000/notacaomusical/visualizacao-circular-ritmo" rel="alternate" type="text/html" title="Visualização circular do ritmo" /><published>2022-02-07T16:49:00-03:00</published><updated>2022-02-07T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/visualizacao-circular-ritmo</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/visualizacao-circular-ritmo">&lt;p&gt;Uma demanda dos etnomusicólogos (especialistas que estudam a música com ênfase nas relações entre os sons e os aspectos culturais) é o registro gráfico dos elementos musicais.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/tonesavvy-escalas-snapshot.png&quot; alt=&quot;snapshot&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A partitura convencional, muitas vezes, não é o meio mais adequado para isso, pois se adequa melhor às concepções e práticas da música de concerto de tradição europeia e, em alguma medida, da música popular dos séculos XX e XXI.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Acesse aqui:&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/12/scale-mode-building-treble-staff-game&quot;&gt;Clave de sol&lt;/a&gt;,&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/223/scale-mode-building-bass-staff-game&quot;&gt;Clave de fá&lt;/a&gt; e&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/226/scale-mode-building-alto-viola-staff-game&quot;&gt;Clave de dó na 3ª linha&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Uma forma de analisar padrões rítmicos que tem ganhado espaço nesses estudos é a representação circular, demonstrada no vídeo abaixo. Observe que as durações não são categorias fundamentais nesta maneira de representar a percepção do ritmo, mas sim as posições dos ataques (pontos iniciais) dos sons em relação à pulsação.&lt;/p&gt;
 
-&lt;h3 id=&quot;para-quem-está-começando&quot;&gt;Para quem está começando…&lt;/h3&gt;
+&lt;p&gt;Esta forma de visualização permite inclusive comparar diferentes células rítmicas características de estilos musicais, além de ser intuitiva.&lt;/p&gt;
 
-&lt;p&gt;…recomenda-se a configuração em anexo:&lt;/p&gt;
+&lt;p&gt;Lembre-se de ativar a legenda em português, caso não esteja automaticamente ativada.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/escalas-config.png&quot; alt=&quot;snapshot&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="Jogos e Exercícios" /><summary type="html">O site ToneSavvy apresenta um exercício chamado Scale Building (formação das escalas).</summary></entry><entry><title type="html">Reconhecimento das notas na pauta musical</title><link href="http://0.0.0.0:4000/notacaomusical/tonesavvy-pauta" rel="alternate" type="text/html" title="Reconhecimento das notas na pauta musical" /><published>2022-02-05T16:49:00-03:00</published><updated>2022-02-05T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/tonesavvy-pauta</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/tonesavvy-pauta">&lt;p&gt;Para realizar atividades sobre a pauta musical, é fundamental desenvolver uma leitura rápida e precisa dos nomes das notas musicais em várias claves.&lt;/p&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/2UphAzryVpY&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Hoje em dia, existem inúmeros aplicativos e sites que ajudam a memorizar a posição das notas na pauta. Um destes recursos é o site &lt;em&gt;Tone Savvy&lt;/em&gt;, que permite realizar um &lt;strong&gt;treinamento altamente customizável&lt;/strong&gt;, o que o torna atrativo a todos - independentemente de sua familiaridade com a pauta musical. Algumas das opções de customização:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;💡 O livro &lt;a href=&quot;https://global.oup.com/academic/product/hearing-in-time-9780199744374?cc=us&amp;amp;lang=en&amp;amp;&quot;&gt;Hearing in Time&lt;/a&gt;: Psychological Aspects of Musical Meter, de Justin London, apresenta elaborados esquemas circulares para descrever e comparar ritmos em várias culturas, com ênfase na maneira como percebemos as estruturas temporais.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;claves diversas (sol, fá e dó em várias posições);&lt;/li&gt;
-  &lt;li&gt;âmbito melódico (extensão da nota mais grave à mais aguda);&lt;/li&gt;
-  &lt;li&gt;nomenclatura alfabética (C, D, E…), silábica (dó, ré, mi…), alemã (H - si natural, B - si bemol);&lt;/li&gt;
-  &lt;li&gt;sílabas de solfejo em dó fixo ou dó móvel;&lt;/li&gt;
-  &lt;li&gt;notas apenas nas linhas, ou apenas nos espaços;&lt;/li&gt;
-  &lt;li&gt;responder com o mouse, teclado ou controlador MIDI.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;assets/hearing-in-time.jpeg&quot; alt=&quot;snapshot&quot; width=&quot;30%&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="Jogos e Exercícios" /><summary type="html">Uma demanda dos etnomusicólogos (especialistas que estudam a música com ênfase nas relações entre os sons e os aspectos culturais) é o registro gráfico dos elementos musicais.</summary></entry><entry><title type="html">Música popular transcrita para o piano roll</title><link href="http://0.0.0.0:4000/notacaomusical/hook-theory" rel="alternate" type="text/html" title="Música popular transcrita para o piano roll" /><published>2022-02-05T16:49:00-03:00</published><updated>2022-02-05T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/hook-theory</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/hook-theory">&lt;p&gt;Um grande desafio para o ensino de teoria e percepção musical é a incorporação de música popular, tanto em termos de repertório quanto de práticas de aprendizagem.&lt;/p&gt;
 
-&lt;p&gt;Além disso, o site oferece um medidor de acertos e de velocidade nas respostas, o que permite diagnosticar seu desempenho com mais precisão.&lt;/p&gt;
+&lt;p&gt;Embora internacionalmente, se encontrem muitos exemplos, sobretudo no mercado editorial norte-americano, ainda são poucos os materiais didáticos em português que contemplam extensivamente a música popular (com algumas exceções, como as publicações de Adamo Prince e a recente tradução em português dos livros de Teoria Musical da &lt;em&gt;Berklee&lt;/em&gt;).&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Acesse aqui:&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/1/note-name-sight-reading-grand-staff-game&quot;&gt;Claves de sol e fá (sistema de piano)&lt;/a&gt;,&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/2/note-name-sight-reading-treble-staff-game&quot;&gt;Clave de sol&lt;/a&gt;,&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/3/note-name-sight-reading-bass-staff-game&quot;&gt;Clave de fá&lt;/a&gt; e&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/22/note-name-sight-reading-alto-staff-game&quot;&gt;Clave de dó na 3ª linha&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Um site muito interessante, que utiliza uma interface inteligente para a representação de música popular é o site &lt;em&gt;Hook Theory&lt;/em&gt;. Ele apresenta melodias e harmonias de um grande número de canções populares e peças instrumentais, transcritas para uma forma de visualização em piano roll (similar a uma forma de tablatura), e, portanto, de compreensão bastante intuitiva.&lt;/p&gt;
 
-&lt;h3 id=&quot;em-movimento&quot;&gt;Em movimento&lt;/h3&gt;
+&lt;p&gt;Experimente buscar canções conhecidas, e não deixe de explorar as opções disponibilizadas: alternar o som MIDI do piano com o áudio original, cantado e tocado (fornecido pelo YouTube), alterar andamento e tonalidade, etc. Observe também a escrita dos graus da melodia (1, 2, 3), no canto esquerdo do teclado, juntamente com os nomes absolutos das notas (F, G, A, por exemplo, no caso de Fá Maior).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.hooktheory.com/theorytab&quot;&gt;Acesse aqui&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="Repertório" /><summary type="html">Um grande desafio para o ensino de teoria e percepção musical é a incorporação de música popular, tanto em termos de repertório quanto de práticas de aprendizagem.</summary></entry><entry><title type="html">O piano roll</title><link href="http://0.0.0.0:4000/notacaomusical/piano-roll" rel="alternate" type="text/html" title="O piano roll" /><published>2022-02-05T16:49:00-03:00</published><updated>2022-02-05T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/piano-roll</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/piano-roll">&lt;p&gt;Você conhece o &lt;em&gt;piano roll&lt;/em&gt;? Originalmente, consistia de uma forma de armazenamento musical por meio de rolos de papel perfurados.&lt;/p&gt;
+
+&lt;p&gt;Você já deve ter assistido a filmes de faroeste, em que uma pianola (um piano mecânico, pneumático ou elétrico) executa música de maneira automática, isto é, sem a presença de um intérprete. Esta adaptação do piano foi muito presente no final do século XIX e começo do século XX. Muitos compositores e intérpretes, inclusive, deixaram registradas suas performances por meio deste dispositivo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/piano-roll.jpg&quot; alt=&quot;snapshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;No vídeo abaixo, podemos ouvir “Weeping Willow”, registrada pelo próprio compositor, Scott Joplin, em um rolo de papel. Joplin é um compositor negro nascido após a abolição da escravidão nos Estados Unidos, e um dos principais compositores do ragtime. Vale pesquisar sua biografia, e sua importância para o jazz!&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/IElCAs7tivM&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Hoje em dia, encontramos essa forma de representação sobretudo em softwares musicais, como sequenciadores MIDI e editores de partitura.&lt;/p&gt;
+
+&lt;p&gt;Muitos livros de teoria musical, como &lt;em&gt;Tonal Harmony&lt;/em&gt;, de Kostka e Payne, apresentam a partitura como um plano cartesiano, com o eixo horizontal representando o tempo (ritmo) e o vertical as alturas (notas).&lt;/p&gt;
+
+&lt;p&gt;Esta concepção fica ainda mais evidente no piano roll. Para quem aprende a notação, esta visualização pode funcionar como uma abordagem intuitiva para a compreensão da estrutura musical.&lt;/p&gt;
+
+&lt;p&gt;Isto porque, ao trazer para o sentido da visão o que é inerentemente auditivo e temporal – a estrutura da música, suas melodias, ritmos e harmonias – nossa percepção sonora fica ainda mais atenta: observamos/escutamos com mais clareza a individualização das partes instrumentais, as mudanças de andamento, as células rítmicas e melódicas, as diferentes texturas orquestrais (monofônica, homofônica, polifônica), os contrapontos e imitações entre as vozes, e assim por diante.&lt;/p&gt;
+
+&lt;p&gt;No YouTube, você encontrará inúmeras visualizações de música desta maneira. Veja/ouça abaixo o 4º movimento da 9ª Sinfonia de Ludwig von Beethoven, com o famoso tema “Ode à Alegria”, com versos do poeta romântico Friederic Schiller. Pesquise um pouco sobre o contexto da obra, e sobre a biografia do compositor.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/ljGMhDSSGFU&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Uma curiosidade: o piano roll é considerado precursor da programação computacional, que, em seus primórdios, utilizava cartões perfurados como forma de armazenar dados e instruções para cálculos. Quem diria, não é mesmo?&lt;/p&gt;</content><author><name></name></author><category term="Repertório" /><summary type="html">Você conhece o piano roll? Originalmente, consistia de uma forma de armazenamento musical por meio de rolos de papel perfurados.</summary></entry><entry><title type="html">Expressividade e fraseado musical</title><link href="http://0.0.0.0:4000/notacaomusical/expressividade-e-fraseado" rel="alternate" type="text/html" title="Expressividade e fraseado musical" /><published>2022-02-05T16:49:00-03:00</published><updated>2022-02-05T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/expressividade-e-fraseado</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/expressividade-e-fraseado">&lt;p&gt;É importante equilibrar o estudo concentrado com os tempos de descontração. Melhor ainda se for com um mestre do humor, Rowan Atkinson, o Mr. Bean.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/Wra2l6z7sdc&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Uma boa parte da graça deste vídeo está na manipulação gestual dos atributos musicais pelo personagem, como a &lt;strong&gt;dinâmica&lt;/strong&gt; (variações de intensidade) e &lt;strong&gt;agógica&lt;/strong&gt; (variações de andamento; no caso, no uso de fermatas). Não é interessante?&lt;/p&gt;
+
+&lt;p&gt;Além disso, Bean exibe duas expressões faciais contrastantes, e que representam adequadamente a atmosfera de cada uma das músicas que o quarteto interpreta, uma com uma harmonia mais tradicional, clássica, e outra jazzística, mais ritmada.&lt;/p&gt;
+
+&lt;h3 id=&quot;leonard-bernstein&quot;&gt;Leonard Bernstein&lt;/h3&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Já neste jogo, você deverá indicar os nomes das notas musicais, mas elas se apresentarão em movimento. É possível ajustar a velocidade, bem como o âmbito melódico (para começar, recomendamos do Dó1 a Dó5, na nomenclatura brasileira, isto é, com Dó3 como dó central, ou C2 a C6, na convenção internacional). Monitore o escore para avaliar seu progresso.&lt;/p&gt;
+&lt;p&gt;Muitas vezes o maestro conduz apenas com sutis movimentos. No segundo vídeo, testemunhamos Leonard Bernstein regendo apenas com o olhar e sutis movimentos do rosto. Impressiona?&lt;/p&gt;
 
-&lt;p&gt;Esta atividade colabora para o desenvolvimento da leitura à primeira vista.&lt;/p&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/56qZblncQrs&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;strong&gt;Acesse aqui:&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/10/paced-scrolling-note-name-sight-reading-game&quot;&gt;Claves de sol e fá (sistema de piano)&lt;/a&gt;,&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/235/paced-note-name-sight-reading-game-treble&quot;&gt;Clave de sol&lt;/a&gt;,&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/239/paced-note-name-sight-reading-game-bass&quot;&gt;Clave de fá&lt;/a&gt; e&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/240/paced-note-name-sight-reading-game-alto&quot;&gt;Clave de dó na 3ª linha&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="Jogos e Exercícios" /><summary type="html">Para realizar atividades sobre a pauta musical, é fundamental desenvolver uma leitura rápida e precisa dos nomes das notas musicais em várias claves.</summary></entry><entry><title type="html">Boas práticas de escrita musical</title><link href="http://0.0.0.0:4000/notacaomusical/boas-praticas-de-escrita" rel="alternate" type="text/html" title="Boas práticas de escrita musical" /><published>2022-02-05T16:49:00-03:00</published><updated>2022-02-05T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/boas-praticas-de-escrita</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/boas-praticas-de-escrita">&lt;p&gt;As boas práticas de escrita musical devem ser conhecidas pelos estudantes universitários, para que as partituras que venham a produzir sejam de leitura mais fácil, menos ambíguas e respeitando as convenções estabelecidas nas edições profissionais.&lt;/p&gt;
+&lt;p&gt;Por último, assista a um vídeo que viralizou nos anos iniciais do YouTube. Trata-se de uma “interpretação puramente facial” do Concerto para Violino N. 1 (Op. 6) de Niccolò Paganini. Apesar do caráter humorístico, não deixa de ser um estudo sobre fraseologia musical e interpretação teatral.&lt;/p&gt;
 
-&lt;p&gt;Alguns manuais e sites ajudam nesta tarefa. Segue uma lista com algumas obras e sites.&lt;/p&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/FQCdQpRxhKE&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
 
-&lt;h3 id=&quot;manuais-em-inglês&quot;&gt;Manuais (em inglês):&lt;/h3&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;A música tem esse potencial interdisciplinar: humor, teatro, interpretação…&lt;/p&gt;</content><author><name></name></author><category term="Repertório" /><summary type="html">É importante equilibrar o estudo concentrado com os tempos de descontração. Melhor ainda se for com um mestre do humor, Rowan Atkinson, o Mr. Bean.</summary></entry><entry><title type="html">Chrome Music Lab</title><link href="http://0.0.0.0:4000/notacaomusical/chrome-music-lab" rel="alternate" type="text/html" title="Chrome Music Lab" /><published>2022-02-05T16:49:00-03:00</published><updated>2022-02-05T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/chrome-music-lab</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/chrome-music-lab">&lt;p&gt;Os recursos interativos podem despertar a curiosidade sobre outros elementos musicais e parâmetros sonoros: além de ritmo e alturas, duração, timbre, intensidade, textura, etc.&lt;/p&gt;
 
-&lt;p&gt;A bíblia da área é a seguinte publicação:&lt;/p&gt;
+&lt;p&gt;Trazer à consciência a existência destes parâmetros e como se organizam em uma composição musical é um passo importante para reconhecê-los, nomeá-los e utilizá-los criativamente - em composições e aulas de música, por exemplo.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;GOULD, Elaine. &lt;a href=&quot;https://www.fabermusic.com/news/elaine-goulds-behind-bars-is-a-worldwide-hit-567&quot;&gt;&lt;em&gt;Behind Bars&lt;/em&gt;&lt;/a&gt;: the Definitive Guide to Music Notation. Londres: Faber Music, 2011.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;O site do &lt;a href=&quot;https://musiclab.chromeexperiments.com&quot;&gt;Chrome Music Lab&lt;/a&gt; apresenta uma série de recursos audiovisuais interativos que valem ser explorados, sem pressa. Conheça esse laboratório!&lt;/p&gt;</content><author><name></name></author><category term="Repertório" /><summary type="html">Os recursos interativos podem despertar a curiosidade sobre outros elementos musicais e parâmetros sonoros: além de ritmo e alturas, duração, timbre, intensidade, textura, etc.</summary></entry><entry><title type="html">Editores de partitura online e colaborativos</title><link href="http://0.0.0.0:4000/notacaomusical/noteflight-e-flat" rel="alternate" type="text/html" title="Editores de partitura online e colaborativos" /><published>2022-02-05T16:49:00-03:00</published><updated>2022-02-05T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/noteflight-e-flat</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/noteflight-e-flat">&lt;p&gt;&lt;a href=&quot;https://www.noteflight.com&quot;&gt;Noteflight&lt;/a&gt; é um editor de partituras online. Como roda diretamente no browser de internet, não necessita de ser instalado.&lt;/p&gt;
 
-&lt;p&gt;A Universidade Indiana disponibiliza uma síntese de regras para adquirir “clareza de intenção musical e demonstrar profissionalismo”:&lt;/p&gt;
+&lt;p&gt;Embora seja um pouco mais limitado que um software convencional, cumpre bem o básico, e tem algumas vantagens, mesmo na conta gratuita, como salvar partituras na nuvem e permitir a edição colaborativa. Você ainda pode participar da comunidade, compartilhar partituras, etc.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blogs.iu.edu/jsomcomposition/music-notation-style-guide&quot;&gt;Music Notation Style Guide&lt;/a&gt;, da Escola de Música da Universidade de Indiana.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Além do Noteflight, há ainda o &lt;a href=&quot;https://flat.io/pt-BR&quot;&gt;Flat&lt;/a&gt;, com proposta similar -  vale a pena explorar ambos.&lt;/p&gt;</content><author><name></name></author><category term="Editores" /><summary type="html">Noteflight é um editor de partituras online. Como roda diretamente no browser de internet, não necessita de ser instalado.</summary></entry><entry><title type="html">Acordes: identificação e construção</title><link href="http://0.0.0.0:4000/notacaomusical/acordes" rel="alternate" type="text/html" title="Acordes: identificação e construção" /><published>2022-02-05T16:49:00-03:00</published><updated>2022-02-05T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/acordes</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/acordes">&lt;style&gt; 
+	.boxes{ 
+	    width: 14%; 
+	    float: left;
+        padding: 25px;
+        text-align: center;
+	} 
+&lt;/style&gt;
 
-&lt;p&gt;O manual a seguir é disponibilizado gratuitamente pela &lt;em&gt;Music Publishers’ Association of the United States&lt;/em&gt;:&lt;/p&gt;
+&lt;p&gt;Identifique as tríades, nas claves de sol, fá e dó. Não altere as configurações do site (por padrão, definem apenas acordes na posição fundamental, sendo tríades maiores, menores, aumentadas e diminutas).&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.mpa.org/wp-content/uploads/2018/06/standard-practice-engraving.pdf&quot;&gt;Standard Music Notation Practice&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Clique na clave desejada&lt;/strong&gt; e experimente:&lt;/p&gt;
 
-&lt;p&gt;Duas referências indicadas pelo IMSLP:&lt;/p&gt;
+&lt;div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/19/chord-identification-game-treble&quot;&gt;
+        &lt;img src=&quot;assets/clefs-treble.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        sol
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/21/chord-identification-game-bass&quot;&gt;
+        &lt;img src=&quot;assets/clefs-bass.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        fá
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/20/chord-identification-game-alto-viola&quot;&gt;
+        &lt;img src=&quot;assets/clefs-alto.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        alto (viola)
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/254/chord-identification-game-soprano&quot;&gt;
+        &lt;img src=&quot;assets/clefs-soprano.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        soprano
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/255/chord-identification-game-mezzo-soprano&quot;&gt;
+        &lt;img src=&quot;assets/clefs-mezzo-soprano.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        mezzo-soprano
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/256/chord-identification-game-tenor&quot;&gt;
+        &lt;img src=&quot;assets/clefs-tenor.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        tenor
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/257/chord-identification-game-grand&quot;&gt;
+        &lt;img src=&quot;assets/clefs-grand-staff.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        piano
+    &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://imslp.org/wiki/Repository_of_music-notation_mistakes_%28Coulon,_Jean-Pierre%29&quot;&gt;&lt;em&gt;Repository of music-notation mistakes or Essay on the true art of music engraving&lt;/em&gt;&lt;/a&gt;, de Jean-Pierre Coulon (2014).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.areditions.com/media/wysiwyg/pdfs/StyleGuide.pdf&quot;&gt;“Style Guide”&lt;/a&gt; da A-R Editions.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;manuais-em-português&quot;&gt;Manuais (em português):&lt;/h3&gt;
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Uma opção de livro em português é esta:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;LACERDA, Osvaldo. &lt;a href=&quot;https://www.vitale.com.br/sistema/produtos/produto.asp?codigo=10126#GooglePreview&quot;&gt;&lt;em&gt;Regras de Grafia Musical&lt;/em&gt;&lt;/a&gt;. 4ª ed. São Paulo: Irmãos Vitale, 2012.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Já a edição portuguesa abaixo, traduzida do espanhol, apresenta as regras de grafia entremeadas a outros tópicos de teoria musical.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;ZAMACOIS, Joaquín. Teoria da Música. Lisboa: Edições 70, 2009.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;sites-e-comunidades-virtuais&quot;&gt;Sites e comunidades virtuais:&lt;/h2&gt;
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;O grupo no Facebook &lt;a href=&quot;https://www.facebook.com/groups/musicengravingtips&quot;&gt;Music Engraving Tips&lt;/a&gt; é um excelente espaço de convivência e aprendizagem colaborativa. Participam editores profissionais de vários lugares do mundo, e as questões e respostas são de alto nível. Há também um &lt;a href=&quot;http://musicengravingtips.com&quot;&gt;site&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;O site IMSLP também disponibiliza algumas regras básicas para aprimorar partituras: 
-&lt;a href=&quot;https://imslp.org/wiki/IMSLP:Typesetting_Guidelines&quot;&gt;Typesetting Guidelines&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;sugestões&quot;&gt;Sugestões?&lt;/h3&gt;
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Tem alguma sugestão para acrescentar a esta lista? &lt;a href=&quot;mailto:darcy.alcantara@ufes.br&quot;&gt;Escreva para nós&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="Outros" /><summary type="html">As boas práticas de escrita musical devem ser conhecidas pelos estudantes universitários, para que as partituras que venham a produzir sejam de leitura mais fácil, menos ambíguas e respeitando as convenções estabelecidas nas edições profissionais.</summary></entry><entry><title type="html">Interações rítmicas funcionais ou posicionais</title><link href="http://0.0.0.0:4000/notacaomusical/chrome-music-lab" rel="alternate" type="text/html" title="Interações rítmicas funcionais ou posicionais" /><published>2022-02-05T16:49:00-03:00</published><updated>2022-02-05T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/chrome-music-lab</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/chrome-music-lab">&lt;p&gt;Uma abordagem funcional (ou posicional) para o ritmo reflete os estudos cognitivos mais recentes sobre a percepção temporal, pois analisa o ritmo métrico a partir da função que cada evento desempenha, de maneira similar à análise harmônica funcional (IIm-V7-I7M, etc.)&lt;/p&gt;
-
-&lt;p&gt;Dentre os conceitos essenciais, encontram-se as a pulsação e as posições dos ataques dos sons no tempo. O “sabor” rítmico de cada som é definido, não pelas durações de tempo (mais longas ou curtas), mas sim pelas &lt;strong&gt;posições dos ataques em relação à pulsação&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Você experimentará &lt;a href=&quot;https://musiclab.chromeexperiments.com/Rhythm&quot;&gt;neste módulo do Chrome Music Lab&lt;/a&gt; uma maneira lúdica de interagir com o tempo musical que reflete esta abordagem. Por trás da aparente simplicidade, o módulo “Ritmo”, no Chrome Music Lab/Google, promove uma interação musical pedagogicamente refinada, por se basear na intuição rítmica, materializando as posições no tempo (no caso, tempos e contratempos), e não as durações.&lt;/p&gt;
-
-&lt;video width=&quot;65%&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;assets/chrome-music-lab-ritmo.mov&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;/video&gt;
-
-&lt;p&gt;Esta forma de representação visual do conteúdo rítmico, aliás, já aparecia de maneira similar nos primeiros sequenciadores rítmicos, de bateria, as influentes “drum machines”, como se pode ver neste &lt;a href=&quot;https://www.youtube.com/watch?v=4d89S-jOsfY&quot;&gt;breve documentário&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="Pedagogias" /><summary type="html">Uma abordagem funcional (ou posicional) para o ritmo reflete os estudos cognitivos mais recentes sobre a percepção temporal, pois analisa o ritmo métrico a partir da função que cada evento desempenha, de maneira similar à análise harmônica funcional (IIm-V7-I7M, etc.)</summary></entry><entry><title type="html">Método O Passo</title><link href="http://0.0.0.0:4000/notacaomusical/o-passo" rel="alternate" type="text/html" title="Método O Passo" /><published>2022-02-05T16:49:00-03:00</published><updated>2022-02-05T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/o-passo</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/o-passo">&lt;p&gt;&lt;em&gt;O Passo&lt;/em&gt; é um método de educação musical criado em 1996. Difundido em vários países, o método propõe uma abordagem democrática e inclusiva para a aprendizagem musical.&lt;/p&gt;
-
-&lt;p&gt;Assista a entrevista com o criador do método, Lucas Ciavatta, que traz depoimentos de músicos e pesquisadores.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.youtube.com/embed/H1nVzbHtRAw&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;O &lt;a href=&quot;https://www.institutodopasso.org&quot;&gt;site&lt;/a&gt; disponibiliza textos, vídeos e exercícios. Há também recursos complementares em um &lt;a href=&quot;https://www.youtube.com/user/opasso&quot;&gt;canal no YouTube&lt;/a&gt;. Para quem desejar se aprofundar, são oferecidos cursos e oficinas, inclusive online.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Fonte da imagem: site de O Passo.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="Pedagogias" /><summary type="html">O Passo é um método de educação musical criado em 1996. Difundido em vários países, o método propõe uma abordagem democrática e inclusiva para a aprendizagem musical.</summary></entry><entry><title type="html">Fontes confiáveis para partituras</title><link href="http://0.0.0.0:4000/notacaomusical/fontes-partituras" rel="alternate" type="text/html" title="Fontes confiáveis para partituras" /><published>2022-02-05T16:49:00-03:00</published><updated>2022-02-05T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/fontes-partituras</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/fontes-partituras">&lt;p&gt;A busca de partituras deve ser feita em fontes confiáveis. Isto significa ser tão criterioso quanto com a busca de fontes bibliográficas.&lt;/p&gt;
-
-&lt;p&gt;Por isso, há de se ter certo cuidado com os resultados de pesquisas feitas no Google, que podem retornar partituras e cifras de qualidade duvidosa, isto é, que não representam adequadamente as obras. Seguem abaixo alguns sites que fornecem partituras de boa qualidade editorial.&lt;/p&gt;
-
-&lt;h3 id=&quot;obras-clássicas-e-vocais&quot;&gt;Obras clássicas e vocais&lt;/h3&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://imslp.org/&quot;&gt;&lt;strong&gt;IMSLP&lt;/strong&gt;&lt;/a&gt; - O site do &lt;em&gt;International Music Score Library Project&lt;/em&gt; (IMSLP), criado em 2006, é a principal fonte para para download de partituras da tradição clássica ocidental, trazendo inclusive fac-símiles de manuscritos. A maior parte das obras está em domínio público, ou tiveram sua divulgação autorizada pelos respectivos compositores ou editores. Mais recentemente, passou a disponibilizar também gravações. Os números impressionam: 169.142 obras, 20.430 compositores, 541.305 partituras e 64.928 gravações (dados de 21/11/2020).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://cpdl.org/&quot;&gt;&lt;strong&gt;CPDL&lt;/strong&gt;&lt;/a&gt; - O repositório &lt;em&gt;Choral Public Domain Library&lt;/em&gt; (CPDL), fundado em 1998, apresenta também milhares de composições e arranjos para coral e outras formações vocais (&lt;em&gt;a cappella&lt;/em&gt; ou com instrumentos). São 36.785 obras de 3.658 compositores (dados de 21/11/2020).&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;música-popular&quot;&gt;Música popular&lt;/h3&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://www.vitale.com.br/sistema/produtos/produto_classe.asp?cod_classe=1&quot;&gt;&lt;strong&gt;Songbooks Chediak&lt;/strong&gt;&lt;/a&gt; - Para a música popular brasileira, as melhores fontes estão nos songbooks da Editora Lumiar. Esta coleção se iniciou com o trabalho de transcrição de Almir Chediak, e inclui, segundo o Dicionário Cravo Albin da Música Popular Brasileira, os songbooks: “Ary Barroso”, “Bossa nova”, “Caetano Veloso”, “Carlos Lyra”, “Cazuza”, “Chico Buarque”, “Djavan”, “Dorival Caymmi”, “Edu Lobo”, “Gilberto Gil”, “João Donato”, “Marcos Valle”, “Noel Rosa”, “Rita Lee”, “Tom Jobim” e “Vinicius de Moraes”, dentre outros. É a &lt;a href=&quot;http://www.vitale.com.br&quot;&gt;Irmãos Vitale&lt;/a&gt; que edita e comercializa os livros.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://www.jobim.org/jobim/handle/2010/10868&quot;&gt;&lt;strong&gt;Cancioneiro Jobim&lt;/strong&gt;&lt;/a&gt; - O site do Instituto Antônio Carlos Jobim disponibiliza gratuitamente o Cancioneiro Jobim, uma seleção de obras do compositor, com transcrição para piano, voz e cifras, de seu filho, Paulo Jobim, a partir de partituras originais e de gravações icônicas. A cuidadosa transcrição harmônica para piano indica inclusive as conduções de vozes, que ajudam a compreender algumas das tensões nos acordes.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.funarte.gov.br/partituras-brasileiras-online/&quot;&gt;&lt;strong&gt;Funarte&lt;/strong&gt;&lt;/a&gt; - Em 2017, a Fundação Nacional de Artes (Funarte) disponibilizou 1.200 partituras cedidas por mais de 15 instituições e alguns compositores. Além de partituras de música popular, há obras clássicas e para bandas de música.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Livrarias online&lt;/strong&gt; - Nos sites da &lt;a href=&quot;https://www.freenote.com.br&quot;&gt;Freenote&lt;/a&gt;, &lt;a href=&quot;https://www.musimed.com.br&quot;&gt;Musimed&lt;/a&gt;, &lt;a href=&quot;https://www.passarim.com.br&quot;&gt;Passarim&lt;/a&gt; e outras livrarias especializadas, é possível encontrar coletâneas de transcrições específicas de um compositor ou banda, como Charlie Parker, Jimi Hendrix e Pearl Jam (veja &lt;a href=&quot;https://www.freenote.com.br/produto.asp?shw_ukey=44061121957FSFH6OU&quot;&gt;aqui&lt;/a&gt;, por exemplo, a transcrição da obra completa dos Beatles). Na maior parte dos casos, assim como nos songbooks, trata-se de uma partitura transcrita a partir de uma gravação, diferentemente das composições clássicas, geralmente escritas e depois interpretadas. Vale também pesquisar na &lt;a href=&quot;https://www.amazon.com.br&quot;&gt;Amazon&lt;/a&gt; e em comparadores de preço como o &lt;a href=&quot;https://www.buscape.com.br&quot;&gt;Buscapé&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;assinaturas-streaming&quot;&gt;Assinaturas (streaming)&lt;/h3&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Há ainda serviços em que, por meio de uma taxa mensal, é possível baixar partituras para aplicativos específicos. É o caso da assinatura &lt;a href=&quot;https://www.sheetmusicdirect.com/en-US/subscription&quot;&gt;Pass / Sheet Music Direct&lt;/a&gt;, que dá acesso a 200.000 partituras da Hal Leonard, uma renomada editora musical.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="Repertório" /><summary type="html">A busca de partituras deve ser feita em fontes confiáveis. Isto significa ser tão criterioso quanto com a busca de fontes bibliográficas.</summary></entry><entry><title type="html">Transcrições manuscritas de passagens conhecidas de Hip Hop</title><link href="http://0.0.0.0:4000/notacaomusical/hip-hop-transcriptions" rel="alternate" type="text/html" title="Transcrições manuscritas de passagens conhecidas de Hip Hop" /><published>2022-02-05T16:49:00-03:00</published><updated>2022-02-05T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/hip-hop-transcriptions</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/hip-hop-transcriptions">&lt;p&gt;Quem disse que só se estuda ditado rítmico com música de concerto?&lt;/p&gt;
-
-&lt;p&gt;Originalmente um Tumblr, esta página do Instagram apresenta detalhadas transcrições de bateria, percussão, voz, baixo, piano, guitarra etc., na forma de pequenos trechos interativos.&lt;/p&gt;
-
-&lt;p&gt;A folha quadriculada ajuda a compreender melhor a posição dos ataques dos sons em relação à pulsação e, por consequência, estipular a duração que devem ter na notação convencional.&lt;/p&gt;
-
-&lt;p&gt;Vale explorar os fragmentos de James Brown, Aretha Franklin, Beyoncé e artistas representativos do gênero Hip Hop.&lt;/p&gt;
-
-&lt;figure class=&quot;video_container&quot;&gt;
-  &lt;iframe src=&quot;https://ve.media.tumblr.com/tumblr_pkct0joOEj1r1ifk7.mp4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot; style=&quot;height:300px;&quot;&gt;
-  &lt;/iframe&gt;
-&lt;/figure&gt;
+&lt;h3 id=&quot;construção-de-acordes&quot;&gt;Construção de acordes&lt;/h3&gt;
 &lt;p&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Offline&lt;/strong&gt;: Não.&lt;/p&gt;
+&lt;p&gt;Agora, é a vez de escrever as notas que, combinadas, formam acordes maiores, menores, aumentados e diminutos, etc.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Sites&lt;/strong&gt;: &lt;a href=&quot;https://hiphoptranscriptions.tumblr.com&quot;&gt;Tumblr&lt;/a&gt; e 
-&lt;a href=&quot;https://www.instagram.com/hiphoptranscriptions&quot;&gt;Instagram&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="Repertório" /><summary type="html">Quem disse que só se estuda ditado rítmico com música de concerto?</summary></entry><entry><title type="html">Editor de partituras gratuito e de código aberto</title><link href="http://0.0.0.0:4000/notacaomusical/musescore" rel="alternate" type="text/html" title="Editor de partituras gratuito e de código aberto" /><published>2000-01-01T00:00:00-02:00</published><updated>2000-01-01T00:00:00-02:00</updated><id>http://0.0.0.0:4000/notacaomusical/musescore</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/musescore">&lt;p&gt;Entre os mais conhecidos softwares para edição de partituras, figuram &lt;em&gt;Sibelius&lt;/em&gt; e &lt;em&gt;Finale&lt;/em&gt;, que consistiram durante décadas no padrão da indústria musical.&lt;/p&gt;
+&lt;p&gt;Mais uma vez, para começar, deixe as opções que já aparecem no site como padrão. Experimente o exercício nas variadas claves.&lt;/p&gt;
 
-&lt;p&gt;Recentemente, uma aplicação de código aberto ganhou espaço, sobretudo por ser desenvolvido por uma comunidade de programadores de software livre. Trata-se do &lt;a href=&quot;https://musescore.org&quot;&gt;&lt;em&gt;MuseScore&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/7/chord-building-game-treble&quot;&gt;
+        &lt;img src=&quot;assets/clefs-treble.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        clave de sol (agudo)
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/8/chord-building-game-bass&quot;&gt;
+        &lt;img src=&quot;assets/clefs-bass.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        clave de fá (grave)
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/9/chord-building-game-alto-viola&quot;&gt;
+        &lt;img src=&quot;assets/clefs-alto.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        clave de dó na 3ª linha (contralto/viola)
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/250/chord-building-game-soprano&quot;&gt;
+        &lt;img src=&quot;assets/clefs-soprano.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        clave de dó na 1ª linha (soprano)
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/251/chord-building-game-mezzo-soprano&quot;&gt;
+        &lt;img src=&quot;assets/clefs-mezzo-soprano.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        clave de dó na 2ª linha (mezzo-soprano)
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/252/chord-building-game-tenor&quot;&gt;
+        &lt;img src=&quot;assets/clefs-tenor.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        clave de dó na 4ª linha (tenor)
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/253/chord-building-game-grand&quot;&gt;
+        &lt;img src=&quot;assets/clefs-grand-staff.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        claves de sol e fá (sistema de piano)
+    &lt;/div&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="Jogos e Exercícios" /><summary type="html"></summary></entry><entry><title type="html">Afinação no solfejo</title><link href="http://0.0.0.0:4000/notacaomusical/afinacao" rel="alternate" type="text/html" title="Afinação no solfejo" /><published>2022-02-05T16:49:00-03:00</published><updated>2022-02-05T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/afinacao</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/afinacao">&lt;p&gt;Neste jogo, denominado &lt;em&gt;Pitchy Ninja&lt;/em&gt;, você escutará uma melodia curta, e deverá repeti-la vocalmente, utilizando o microfone de seu dispositivo. As tonalidades variam, bem como as melodias, a partir da configuração que você escolher.&lt;/p&gt;
 
-&lt;p&gt;Além de estar disponível para Windows, Mac e Linux, o programa é gratuito, o que amplia as possibilidades de utilização em laboratórios de informática, escolas de educação básica, home studios e escolas de música.&lt;/p&gt;
+&lt;p&gt;Um dos benefícios do jogo é a possibilidade de visualizar em tempo real a posição de sua voz dentro do espaço melódico. Para isso, é necessário selecionar adequadamente o âmbito em que são construídas as melodias em tonalidades aleatórias. Este pode ser, assim, um recurso adicional para a prática da leitura cantada. Além disso, você ainda recebe um feedback de sua resposta. No início, é comum errar bastante, até o exercício estar corretamente configurado, e você entender qual é a proposta.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Para download e outras informações, acesse o site&lt;/strong&gt;: &lt;a href=&quot;https://musescore.org&quot;&gt;musescore.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/pitchy-ninja.jpg&quot; alt=&quot;snapshot&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;e-ainda&quot;&gt;E ainda…&lt;/h3&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;vale assistir ao &lt;a href=&quot;https://www.youtube.com/watch?v=SXNfvkoOX_Q&quot;&gt;vídeo&lt;/a&gt; de um painel realizado na conferência virtual da &lt;a href=&quot;https://mola-inc.org&quot;&gt;&lt;em&gt;Major Orchestra Librarians’ Association&lt;/em&gt; (MOLA)&lt;/a&gt;, em 2021, com um panorama comparativo de quatro softwares de editoração musical: Finale, Sibelius, MuseScore e Dorico (este último, uma adição recente ao arsenal do gênero).&lt;/p&gt;
+&lt;p&gt;Outro benefício deste exercício é trabalhar a micro-afinação, isto é o grau de precisão na adequação entre a frequência que define uma altura e sua reprodução vocal. A acurácia depende de fatores técnico-vocais, da própria construção melódica e também emocionais (nervosismo, etc.) e, assim, não deve ser o único critério na avaliação do quesito alturas na prática do solfejo. Veja mais detalhes sobre isso nos capítulos 6 e 7 de Karpinski (2000), já disponibilizados como texto complementar no tópico 5.&lt;/p&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/SXNfvkoOX_Q&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="Editores" /><summary type="html">Entre os mais conhecidos softwares para edição de partituras, figuram Sibelius e Finale, que consistiram durante décadas no padrão da indústria musical. Recentemente, uma aplicação de código aberto ganhou espaço, sobretudo por ser desenvolvido por uma comunidade de programadores de software livre. Trata-se do MuseScore. Além de estar disponível para Windows, Mac e Linux, o programa é gratuito, o que amplia as possibilidades de utilização em laboratórios de informática, escolas de educação básica, home studios e escolas de música. Para download e outras informações, acesse o site: musescore.org. E ainda… vale assistir ao vídeo de um painel realizado na conferência virtual da Major Orchestra Librarians’ Association (MOLA), em 2021, com um panorama comparativo de quatro softwares de editoração musical: Finale, Sibelius, MuseScore e Dorico (este último, uma adição recente ao arsenal do gênero).</summary></entry></feed>
+&lt;p&gt;Para configurar o jogo para sua voz, recomenda-se seguir os passos listados no anexo:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/pitchy-ninja-config.jpg&quot; alt=&quot;snapshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Observações:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“Pitch” é o termo inglês para designar “altura”: o atributo vertical das notas musicais no espaço definido entre o grave e o agudo.&lt;/li&gt;
+  &lt;li&gt;O Dó central, na configuração do jogo, é o C4, seguindo portanto a nomenclatura internacional.&lt;/li&gt;
+  &lt;li&gt;O feedback proporcionado por este jogo é baseado no sistema de avaliação norte-americano, com notas de de A a F, sendo A melhor e F pior.&lt;/li&gt;
+  &lt;li&gt;Os níveis vão sendo liberados aos poucos, na medida de seu progresso.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="Jogos e Exercícios" /><summary type="html">Neste jogo, denominado Pitchy Ninja, você escutará uma melodia curta, e deverá repeti-la vocalmente, utilizando o microfone de seu dispositivo. As tonalidades variam, bem como as melodias, a partir da configuração que você escolher.</summary></entry><entry><title type="html">Identificação das armaduras de clave</title><link href="http://0.0.0.0:4000/notacaomusical/armaduras-de-clave" rel="alternate" type="text/html" title="Identificação das armaduras de clave" /><published>2022-02-05T16:49:00-03:00</published><updated>2022-02-05T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/armaduras-de-clave</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/armaduras-de-clave">&lt;style&gt; 
+	.boxes{ 
+	    width: 30%; 
+	    float: left;
+        padding: 10px;
+        text-align: center;
+	} 
+&lt;/style&gt;
+
+&lt;p&gt;As armaduras de clave são responsáveis por definir o conjunto das principais alturas (notas) utilizadas em uma peça musical, como uma paleta de cores.&lt;/p&gt;
+
+&lt;p&gt;O jogo a seguir é similar ao jogo de reconhecimento das notas na pauta musical. Entretanto, desta vez, o objetivo é praticar o reconhecimento das armaduras de clave.&lt;/p&gt;
+
+&lt;p&gt;Assim como os outros jogos apresentados do site &lt;a href=&quot;https://tonesavvy.com&quot;&gt;&lt;em&gt;ToneSavvy&lt;/em&gt;&lt;/a&gt;, você poderá customizá-lo, para adequar a dificuldade a seu nível de leitura atual, acrescentando progressivamente mais tonalidades. Para tanto, sugerimos adicionar as tonalidades maiores na seguinte ordem:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;0 acidentes: C&lt;/li&gt;
+  &lt;li&gt;1 acidente: G e F&lt;/li&gt;
+  &lt;li&gt;2 acidentes: D e Bb&lt;/li&gt;
+  &lt;li&gt;3 acidentes: A e Eb&lt;/li&gt;
+  &lt;li&gt;4 acidentes: E e Ab&lt;/li&gt;
+  &lt;li&gt;5 acidentes: B e Db&lt;/li&gt;
+  &lt;li&gt;6 acidentes: F# e Gb&lt;/li&gt;
+  &lt;li&gt;7 acidentes: C# e Cb&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Por exemplo: comece com C, G e F. Depois, acrescente D e Bb, e assim por diante.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;💡 Observe que, seguindo o número de acidentes, vamos percorrendo o &lt;strong&gt;Ciclo das Quintas&lt;/strong&gt;, no sentido horário para os sustenidos (#) e anti-horário para os bemóis (b), também chamado de Ciclo das Quartas. O mesmo se aplica às tonalidades menores, chamadas “relativas” das tonalidades maiores.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Clique na clave desejada e experimente:&lt;/p&gt;
+
+&lt;div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/11/key-signature-treble-identification-game&quot;&gt;
+        &lt;img src=&quot;assets/clefs-treble.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        clave de sol (agudo)
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/224/key-signature-bass-identification-game&quot;&gt;
+        &lt;img src=&quot;assets/clefs-bass.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        clave de fá (grave)
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/225/key-signature-alto-viola-identification-game&quot;&gt;
+        &lt;img src=&quot;assets/clefs-alto.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        clave de dó na 3ª linha (contralto/viola)
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/262/key-signature-soprano-identification-game&quot;&gt;
+        &lt;img src=&quot;assets/clefs-soprano.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        clave de dó na 1ª linha (soprano)
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/263/key-signature-mezzo-soprano-identification-game&quot;&gt;
+        &lt;img src=&quot;assets/clefs-mezzo-soprano.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        clave de dó na 2ª linha (mezzo-soprano)
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/264/key-signature-tenor-identification-game&quot;&gt;
+        &lt;img src=&quot;assets/clefs-tenor.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        clave de dó na 4ª linha (tenor)
+    &lt;/div&gt;
+    &lt;div class=&quot;boxes&quot;&gt;
+        &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/265/key-signature-grand-staff-identification-game&quot;&gt;
+        &lt;img src=&quot;assets/clefs-grand-staff.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
+        claves de sol e fá (sistema de piano)
+    &lt;/div&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="Jogos e Exercícios" /><summary type="html"></summary></entry></feed>

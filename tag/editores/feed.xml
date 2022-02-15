@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="http://0.0.0.0:4000/notacaomusical/tag/editores/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://0.0.0.0:4000/notacaomusical/" rel="alternate" type="text/html" />
-  <updated>2022-02-11T19:26:22-03:00</updated>
+  <updated>2022-02-15T19:43:13-03:00</updated>
   <id>http://0.0.0.0:4000/notacaomusical/tag/editores/feed.xml</id>
 
   
@@ -42,6 +42,44 @@
   
   
 
+  
+    <entry>
+      <title type="html">Editores de partitura online e colaborativos</title>
+      <link href="http://0.0.0.0:4000/notacaomusical/noteflight-e-flat" rel="alternate" type="text/html" title="Editores de partitura online e colaborativos" />
+      <published>2022-02-05T16:49:00-03:00</published>
+      <updated>2022-02-05T16:49:00-03:00</updated>
+      <id>http://0.0.0.0:4000/notacaomusical/noteflight-e-flat</id>
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/noteflight-e-flat">&lt;p&gt;&lt;a href=&quot;https://www.noteflight.com&quot;&gt;Noteflight&lt;/a&gt; é um editor de partituras online. Como roda diretamente no browser de internet, não necessita de ser instalado.&lt;/p&gt;
+
+&lt;p&gt;Embora seja um pouco mais limitado que um software convencional, cumpre bem o básico, e tem algumas vantagens, mesmo na conta gratuita, como salvar partituras na nuvem e permitir a edição colaborativa. Você ainda pode participar da comunidade, compartilhar partituras, etc.&lt;/p&gt;
+
+&lt;p&gt;Além do Noteflight, há ainda o &lt;a href=&quot;https://flat.io/pt-BR&quot;&gt;Flat&lt;/a&gt;, com proposta similar -  vale a pena explorar ambos.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Editores" />
+      
+
+      
+        <summary type="html">Noteflight é um editor de partituras online. Como roda diretamente no browser de internet, não necessita de ser instalado.</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Editor de partituras gratuito e de código aberto</title>
@@ -83,6 +121,56 @@
 
       
         <summary type="html">Entre os mais conhecidos softwares para edição de partituras, figuram Sibelius e Finale, que consistiram durante décadas no padrão da indústria musical. Recentemente, uma aplicação de código aberto ganhou espaço, sobretudo por ser desenvolvido por uma comunidade de programadores de software livre. Trata-se do MuseScore. Além de estar disponível para Windows, Mac e Linux, o programa é gratuito, o que amplia as possibilidades de utilização em laboratórios de informática, escolas de educação básica, home studios e escolas de música. Para download e outras informações, acesse o site: musescore.org. E ainda… vale assistir ao vídeo de um painel realizado na conferência virtual da Major Orchestra Librarians’ Association (MOLA), em 2021, com um panorama comparativo de quatro softwares de editoração musical: Finale, Sibelius, MuseScore e Dorico (este último, uma adição recente ao arsenal do gênero).</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Estrutura da música popular apresentada em um sequenciador online interativo</title>
+      <link href="http://0.0.0.0:4000/notacaomusical/ableton" rel="alternate" type="text/html" title="Estrutura da música popular apresentada em um sequenciador online interativo" />
+      <published>2000-01-01T00:00:00-02:00</published>
+      <updated>2000-01-01T00:00:00-02:00</updated>
+      <id>http://0.0.0.0:4000/notacaomusical/ableton</id>
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/ableton">&lt;p&gt;O site a seguir é um recurso didático bastante interessante. Primeiramente, apresenta os elementos musicais de uma maneira nada convencional: a partir das estruturas características da música popular contemporânea, em especial dos gêneros rock e pop. Por ser estruturado em lições, pode funcionar como uma revisão de tudo o que vimos até aqui, e também para aprender novos conceitos.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/ableton-learning-music.png&quot; alt=&quot;snapshot&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mas uma de suas maiores utilidades provavalmente é como espaço de criação e experimentação musical. Interagindo com o &lt;em&gt;step sequencer&lt;/em&gt;, é possível, por exemplo, escrever partes de bateria, e simultaneamente escutar como soa a “mesma melodia” em diferentes modos gregos.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://learningmusic.ableton.com/notes-and-scales/play-with-notes-and-scales.html&quot;&gt;Experimente compor padrões rítmicos com sons de bateria, e adicionar uma melodia&lt;/a&gt;. Que tal mudar os modos (maior e menor, também denominados jônico e eólio), e observar o efeito que a alteração de certos graus exerce sobre a melodia? Explore também os outros modos: dórico, frígio, lídio, mixolídio e lócrio. Que atmosferas sonoras é possível produzir com estas paletas sonoras?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/ableton-learning-music-2.png&quot; alt=&quot;snapshot&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Vale salvar o link e explorar com calma, preferencialmente conjugando com o site &lt;a href=&quot;hook-theory.html&quot;&gt;Hook Theory&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A Ableton é uma companhia alemã que produz o software &lt;a href=&quot;https://www.ableton.com/en/trial&quot;&gt;Ableton Live&lt;/a&gt;, uma DAW (Digital Audio Workstation) bastante conhecida, para a qual inclusive podem ser exportadas as músicas compostas neste site. As DAWs são softwares de produção musical que reúnem as funções de um sequenciador MIDI e de um editor de áudio. O &lt;a href=&quot;https://www.avid.com/pro-tools&quot;&gt;Avid ProTools&lt;/a&gt; é outra DAW bastante utilizada na indústria musical profissional.&lt;/p&gt;
+
+&lt;p&gt;Aproveite!&lt;/p&gt;
+
+&lt;p&gt;https://learningmusic.ableton.com/&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Editores" />
+      
+
+      
+        <summary type="html">O site a seguir é um recurso didático bastante interessante. Primeiramente, apresenta os elementos musicais de uma maneira nada convencional: a partir das estruturas características da música popular contemporânea, em especial dos gêneros rock e pop. Por ser estruturado em lições, pode funcionar como uma revisão de tudo o que vimos até aqui, e também para aprender novos conceitos.</summary>
       
 
       

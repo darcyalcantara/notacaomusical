@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="http://0.0.0.0:4000/notacaomusical/tag/repertorio/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://0.0.0.0:4000/notacaomusical/" rel="alternate" type="text/html" />
-  <updated>2022-02-11T19:26:22-03:00</updated>
+  <updated>2022-02-15T19:43:13-03:00</updated>
   <id>http://0.0.0.0:4000/notacaomusical/tag/repertorio/feed.xml</id>
 
   
@@ -42,6 +42,86 @@
   
   
 
+  
+    <entry>
+      <title type="html">Chrome Music Lab</title>
+      <link href="http://0.0.0.0:4000/notacaomusical/chrome-music-lab" rel="alternate" type="text/html" title="Chrome Music Lab" />
+      <published>2022-02-05T16:49:00-03:00</published>
+      <updated>2022-02-05T16:49:00-03:00</updated>
+      <id>http://0.0.0.0:4000/notacaomusical/chrome-music-lab</id>
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/chrome-music-lab">&lt;p&gt;Os recursos interativos podem despertar a curiosidade sobre outros elementos musicais e parâmetros sonoros: além de ritmo e alturas, duração, timbre, intensidade, textura, etc.&lt;/p&gt;
+
+&lt;p&gt;Trazer à consciência a existência destes parâmetros e como se organizam em uma composição musical é um passo importante para reconhecê-los, nomeá-los e utilizá-los criativamente - em composições e aulas de música, por exemplo.&lt;/p&gt;
+
+&lt;p&gt;O site do &lt;a href=&quot;https://musiclab.chromeexperiments.com&quot;&gt;Chrome Music Lab&lt;/a&gt; apresenta uma série de recursos audiovisuais interativos que valem ser explorados, sem pressa. Conheça esse laboratório!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Repertório" />
+      
+
+      
+        <summary type="html">Os recursos interativos podem despertar a curiosidade sobre outros elementos musicais e parâmetros sonoros: além de ritmo e alturas, duração, timbre, intensidade, textura, etc.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Música popular transcrita para o piano roll</title>
+      <link href="http://0.0.0.0:4000/notacaomusical/hook-theory" rel="alternate" type="text/html" title="Música popular transcrita para o piano roll" />
+      <published>2022-02-05T16:49:00-03:00</published>
+      <updated>2022-02-05T16:49:00-03:00</updated>
+      <id>http://0.0.0.0:4000/notacaomusical/hook-theory</id>
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/hook-theory">&lt;p&gt;Um grande desafio para o ensino de teoria e percepção musical é a incorporação de música popular, tanto em termos de repertório quanto de práticas de aprendizagem.&lt;/p&gt;
+
+&lt;p&gt;Embora internacionalmente, se encontrem muitos exemplos, sobretudo no mercado editorial norte-americano, ainda são poucos os materiais didáticos em português que contemplam extensivamente a música popular (com algumas exceções, como as publicações de Adamo Prince e a recente tradução em português dos livros de Teoria Musical da &lt;em&gt;Berklee&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;Um site muito interessante, que utiliza uma interface inteligente para a representação de música popular é o site &lt;em&gt;Hook Theory&lt;/em&gt;. Ele apresenta melodias e harmonias de um grande número de canções populares e peças instrumentais, transcritas para uma forma de visualização em piano roll (similar a uma forma de tablatura), e, portanto, de compreensão bastante intuitiva.&lt;/p&gt;
+
+&lt;p&gt;Experimente buscar canções conhecidas, e não deixe de explorar as opções disponibilizadas: alternar o som MIDI do piano com o áudio original, cantado e tocado (fornecido pelo YouTube), alterar andamento e tonalidade, etc. Observe também a escrita dos graus da melodia (1, 2, 3), no canto esquerdo do teclado, juntamente com os nomes absolutos das notas (F, G, A, por exemplo, no caso de Fá Maior).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.hooktheory.com/theorytab&quot;&gt;Acesse aqui&lt;/a&gt;.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Repertório" />
+      
+
+      
+        <summary type="html">Um grande desafio para o ensino de teoria e percepção musical é a incorporação de música popular, tanto em termos de repertório quanto de práticas de aprendizagem.</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Transcrições manuscritas de passagens conhecidas de Hip Hop</title>
@@ -158,6 +238,209 @@
 
       
         <summary type="html">A busca de partituras deve ser feita em fontes confiáveis. Isto significa ser tão criterioso quanto com a busca de fontes bibliográficas.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Coletânea de solfejos</title>
+      <link href="http://0.0.0.0:4000/notacaomusical/eyes-and-ears" rel="alternate" type="text/html" title="Coletânea de solfejos" />
+      <published>2022-02-05T16:49:00-03:00</published>
+      <updated>2022-02-05T16:49:00-03:00</updated>
+      <id>http://0.0.0.0:4000/notacaomusical/eyes-and-ears</id>
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/eyes-and-ears">&lt;p&gt;A coletânea de solfejos &lt;em&gt;Eyes and Ears: An Anthology of Melodies for Sight-Singing&lt;/em&gt;, de autoria de Benjamin Crowell, apresenta 400 melodias que podem ser utilizadas para o desenvolvimento da leitura cantada à primeira vista.&lt;/p&gt;
+
+&lt;p&gt;As melodias estão ordenadas de uma maneira similar à sequência que experimentamos ao longo da disciplina. Há ainda algumas anotações didáticas úteis para a auto-instrução.&lt;/p&gt;
+
+&lt;p&gt;Esta coletânea é disponibilizada gratuitamente no site do autor. &lt;a href=&quot;http://www.lightandmatter.com/sight/sight.html&quot;&gt;Clique aqui&lt;/a&gt; para baixar o material.&lt;/p&gt;
+
+&lt;p&gt;Bons estudos!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Repertório" />
+      
+
+      
+        <summary type="html">A coletânea de solfejos Eyes and Ears: An Anthology of Melodies for Sight-Singing, de autoria de Benjamin Crowell, apresenta 400 melodias que podem ser utilizadas para o desenvolvimento da leitura cantada à primeira vista.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Dicionários de temas musicais</title>
+      <link href="http://0.0.0.0:4000/notacaomusical/dicionario" rel="alternate" type="text/html" title="Dicionários de temas musicais" />
+      <published>2022-02-05T16:49:00-03:00</published>
+      <updated>2022-02-05T16:49:00-03:00</updated>
+      <id>http://0.0.0.0:4000/notacaomusical/dicionario</id>
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/dicionario">&lt;p&gt;Muitas vezes conhecemos uma melodia mas não sabemos como encontrá-la, por não termos acesso a informações extramusicais, metadados como título e compositor, ou mesmo a letra, quando se trata de uma canção. Tudo o que sabemos é cantarolar a melodia.&lt;/p&gt;
+
+&lt;p&gt;Neste caso, os dicionários de temas musicais são bastante úteis. Tratam-se de coletâneas de melodias, com índices que permitem a busca por conteúdo musical. O interessante é que, como provavelmente desconhecemos a tonalidade original da composição, a informação registrada no índice - isto é: o começo do tema - está representada em solfejo relativo (dó móvel).&lt;/p&gt;
+
+&lt;p&gt;São dois os guias mais conhecidos.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;O &lt;a href=&quot;https://archive.org/details/dictionaryofmusi00barl&quot;&gt;&lt;em&gt;Dictionary of Musical Themes&lt;/em&gt;&lt;/a&gt;, publicado em 1949 por Sam Morgenstern e Harold Barlow, apresenta mais de 10.000 temas, predominantemente obras clássicas, com um índice ao final com as notas iniciais de cada tema em dó móvel.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;E &lt;em&gt;The Directory of Tunes and Musical Themes&lt;/em&gt; (1975), por Denys Parsons, que utiliza outra abordagem, a do contorno musical, e que está por trás deste &lt;a href=&quot;https://www.musipedia.org/melodic_contour.html&quot;&gt;site&lt;/a&gt;. Nesta forma de busca, é necessário definir se a melodia sobe, desce ou se mantém constante, a cada par de notas.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Confira os links e explore ambas as possibilidades.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;O estudo da memória musical é uma das tarefas mais importantes da cognição musical. A maneira como representamos mentalmente os ritmos e melodias que escutamos é um dos aspectos da memória. Como nos diz John Sloboda, as melodias podem ser compreendidas como estruturas abstratas, simbólicas, e os dicionários de temas musicais, para efetivamente serem relevantes e “funcionarem”, devem considerar tal nível de abstração do estímulo musical. Por este motivo, as notas escritas na pauta não são, de fato, o principal aspecto a ser indexado, pois, salvo os raros casos de ouvido absoluto, não são usualmente representadas internamente, isto é, na mente musical.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;http://bestclassicaltunes.com/DictionaryPiano.aspx&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Repertório" />
+      
+
+      
+        <summary type="html">Muitas vezes conhecemos uma melodia mas não sabemos como encontrá-la, por não termos acesso a informações extramusicais, metadados como título e compositor, ou mesmo a letra, quando se trata de uma canção. Tudo o que sabemos é cantarolar a melodia.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Expressividade e fraseado musical</title>
+      <link href="http://0.0.0.0:4000/notacaomusical/expressividade-e-fraseado" rel="alternate" type="text/html" title="Expressividade e fraseado musical" />
+      <published>2022-02-05T16:49:00-03:00</published>
+      <updated>2022-02-05T16:49:00-03:00</updated>
+      <id>http://0.0.0.0:4000/notacaomusical/expressividade-e-fraseado</id>
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/expressividade-e-fraseado">&lt;p&gt;É importante equilibrar o estudo concentrado com os tempos de descontração. Melhor ainda se for com um mestre do humor, Rowan Atkinson, o Mr. Bean.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/Wra2l6z7sdc&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Uma boa parte da graça deste vídeo está na manipulação gestual dos atributos musicais pelo personagem, como a &lt;strong&gt;dinâmica&lt;/strong&gt; (variações de intensidade) e &lt;strong&gt;agógica&lt;/strong&gt; (variações de andamento; no caso, no uso de fermatas). Não é interessante?&lt;/p&gt;
+
+&lt;p&gt;Além disso, Bean exibe duas expressões faciais contrastantes, e que representam adequadamente a atmosfera de cada uma das músicas que o quarteto interpreta, uma com uma harmonia mais tradicional, clássica, e outra jazzística, mais ritmada.&lt;/p&gt;
+
+&lt;h3 id=&quot;leonard-bernstein&quot;&gt;Leonard Bernstein&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Muitas vezes o maestro conduz apenas com sutis movimentos. No segundo vídeo, testemunhamos Leonard Bernstein regendo apenas com o olhar e sutis movimentos do rosto. Impressiona?&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/56qZblncQrs&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Por último, assista a um vídeo que viralizou nos anos iniciais do YouTube. Trata-se de uma “interpretação puramente facial” do Concerto para Violino N. 1 (Op. 6) de Niccolò Paganini. Apesar do caráter humorístico, não deixa de ser um estudo sobre fraseologia musical e interpretação teatral.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/FQCdQpRxhKE&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;A música tem esse potencial interdisciplinar: humor, teatro, interpretação…&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Repertório" />
+      
+
+      
+        <summary type="html">É importante equilibrar o estudo concentrado com os tempos de descontração. Melhor ainda se for com um mestre do humor, Rowan Atkinson, o Mr. Bean.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">O piano roll</title>
+      <link href="http://0.0.0.0:4000/notacaomusical/piano-roll" rel="alternate" type="text/html" title="O piano roll" />
+      <published>2022-02-05T16:49:00-03:00</published>
+      <updated>2022-02-05T16:49:00-03:00</updated>
+      <id>http://0.0.0.0:4000/notacaomusical/piano-roll</id>
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/piano-roll">&lt;p&gt;Você conhece o &lt;em&gt;piano roll&lt;/em&gt;? Originalmente, consistia de uma forma de armazenamento musical por meio de rolos de papel perfurados.&lt;/p&gt;
+
+&lt;p&gt;Você já deve ter assistido a filmes de faroeste, em que uma pianola (um piano mecânico, pneumático ou elétrico) executa música de maneira automática, isto é, sem a presença de um intérprete. Esta adaptação do piano foi muito presente no final do século XIX e começo do século XX. Muitos compositores e intérpretes, inclusive, deixaram registradas suas performances por meio deste dispositivo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/piano-roll.jpg&quot; alt=&quot;snapshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;No vídeo abaixo, podemos ouvir “Weeping Willow”, registrada pelo próprio compositor, Scott Joplin, em um rolo de papel. Joplin é um compositor negro nascido após a abolição da escravidão nos Estados Unidos, e um dos principais compositores do ragtime. Vale pesquisar sua biografia, e sua importância para o jazz!&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/IElCAs7tivM&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Hoje em dia, encontramos essa forma de representação sobretudo em softwares musicais, como sequenciadores MIDI e editores de partitura.&lt;/p&gt;
+
+&lt;p&gt;Muitos livros de teoria musical, como &lt;em&gt;Tonal Harmony&lt;/em&gt;, de Kostka e Payne, apresentam a partitura como um plano cartesiano, com o eixo horizontal representando o tempo (ritmo) e o vertical as alturas (notas).&lt;/p&gt;
+
+&lt;p&gt;Esta concepção fica ainda mais evidente no piano roll. Para quem aprende a notação, esta visualização pode funcionar como uma abordagem intuitiva para a compreensão da estrutura musical.&lt;/p&gt;
+
+&lt;p&gt;Isto porque, ao trazer para o sentido da visão o que é inerentemente auditivo e temporal – a estrutura da música, suas melodias, ritmos e harmonias – nossa percepção sonora fica ainda mais atenta: observamos/escutamos com mais clareza a individualização das partes instrumentais, as mudanças de andamento, as células rítmicas e melódicas, as diferentes texturas orquestrais (monofônica, homofônica, polifônica), os contrapontos e imitações entre as vozes, e assim por diante.&lt;/p&gt;
+
+&lt;p&gt;No YouTube, você encontrará inúmeras visualizações de música desta maneira. Veja/ouça abaixo o 4º movimento da 9ª Sinfonia de Ludwig von Beethoven, com o famoso tema “Ode à Alegria”, com versos do poeta romântico Friederic Schiller. Pesquise um pouco sobre o contexto da obra, e sobre a biografia do compositor.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/ljGMhDSSGFU&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Uma curiosidade: o piano roll é considerado precursor da programação computacional, que, em seus primórdios, utilizava cartões perfurados como forma de armazenar dados e instruções para cálculos. Quem diria, não é mesmo?&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Repertório" />
+      
+
+      
+        <summary type="html">Você conhece o piano roll? Originalmente, consistia de uma forma de armazenamento musical por meio de rolos de papel perfurados.</summary>
       
 
       
