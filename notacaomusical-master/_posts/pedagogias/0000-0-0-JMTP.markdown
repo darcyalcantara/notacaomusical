@@ -1,0 +1,13 @@
+---
+layout: post
+current: post
+cover: assets/music-brain.jpg
+navigation: True
+title: "Pesquisa em pedagogia da teoria musical"
+date: 2022-02-05 16:49:00 -0300
+tags: [Pedagogias]
+class: post-template
+subclass: 'post'
+---
+
+O site do periódico [*Journal of Music Theory Pedagogy*](https://jmtp.appstate.edu) traz centenas de artigos de acesso livre e gratuito. São abordagens - as mais diversas - para o ensino de teoria e percepção, estruturação musical e treinamento auditivo. Vale conhecer!

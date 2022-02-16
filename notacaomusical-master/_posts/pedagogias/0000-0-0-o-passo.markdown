@@ -1,0 +1,21 @@
+---
+layout: post
+current: post
+cover: assets/o-passo.jpeg
+navigation: True
+title: "Método O Passo"
+date: 2022-02-05 16:49:00 -0300
+tags: [Pedagogias]
+class: post-template
+subclass: 'post'
+---
+
+*O Passo* é um método de educação musical criado em 1996. Difundido em vários países, o método propõe uma abordagem democrática e inclusiva para a aprendizagem musical.
+
+Assista a entrevista com o criador do método, Lucas Ciavatta, que traz depoimentos de músicos e pesquisadores.
+
+<iframe src="https://www.youtube.com/embed/H1nVzbHtRAw" allow="autoplay; encrypted-media" frameborder="0" allowfullscreen="true"></iframe>
+
+O [site](https://www.institutodopasso.org) disponibiliza textos, vídeos e exercícios. Há também recursos complementares em um [canal no YouTube](https://www.youtube.com/user/opasso). Para quem desejar se aprofundar, são oferecidos cursos e oficinas, inclusive online.
+
+*Fonte da imagem: site de O Passo.*
