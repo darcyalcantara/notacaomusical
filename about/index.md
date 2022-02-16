@@ -8,7 +8,7 @@ class: page-template
 subclass: 'post page'
 ---
 
-Este blog é resultado de um projeto de pesquisa intitulado *Recursos interativos para a aprendizagem de linguagem musical no ensino remoto*, de autoria do Prof. Darcy Alcantara Neto, do Departamento de Teoria da Arte e Música da Universidade Federal do Espírito Santo (Ufes).
+Este blog é resultado o projeto de pesquisa *Recursos interativos para a aprendizagem de linguagem musical no ensino remoto*, de autoria do Prof. Darcy Alcantara, do Departamento de Teoria da Arte e Música da Universidade Federal do Espírito Santo (Ufes).
 
 Nos anos de 2020 a 2022, o isolamento social recomendado para conter a pandemia de Covid-19 trouxe a necessidade da adoção do Ensino Remoto Emergencial (Earte). Na prática, as aulas passaram a ser ministradas à distância, com momentos síncronos e assíncronos.
 
