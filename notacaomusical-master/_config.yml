@@ -71,7 +71,7 @@ username: darcyalcantara
 repo: notacaomusical
 branch: gh-pages
 relative_source: ../notacaomusical/
-destination: ../notacaomusical-pages/
+destination: ../docs/
 production_url:  https://darcyalcantara.github.io/notacaomusical/
 source_url:  https://github.com/darcyalcantara/notacaomusical/
 
