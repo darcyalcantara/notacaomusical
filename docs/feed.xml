@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://0.0.0.0:4000/notacaomusical/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/notacaomusical/" rel="alternate" type="text/html" /><updated>2022-02-16T15:23:16-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/feed.xml</id><title type="html">notação musical</title><subtitle>recursos para a aprendizagem de leitura e escrita musical</subtitle><entry><title type="html">Reconhecimento das notas no instrumento</title><link href="http://0.0.0.0:4000/notacaomusical/tonesavvy-instrumento" rel="alternate" type="text/html" title="Reconhecimento das notas no instrumento" /><published>2022-02-07T16:49:00-03:00</published><updated>2022-02-07T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/tonesavvy-instrumento</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/tonesavvy-instrumento">&lt;style&gt; 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://0.0.0.0:4000/notacaomusical/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/notacaomusical/" rel="alternate" type="text/html" /><updated>2022-02-16T19:28:06-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/feed.xml</id><title type="html">notação musical</title><subtitle>recursos para a aprendizagem de leitura e escrita musical</subtitle><entry><title type="html">Reconhecimento das notas no instrumento</title><link href="http://0.0.0.0:4000/notacaomusical/tonesavvy-instrumento" rel="alternate" type="text/html" title="Reconhecimento das notas no instrumento" /><published>2022-02-07T16:49:00-03:00</published><updated>2022-02-07T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/tonesavvy-instrumento</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/tonesavvy-instrumento">&lt;style&gt; 
 	.boxes{ 
 	    width: 30%; 
 	    float: left;
@@ -120,11 +120,15 @@
 
 &lt;p&gt;Trazer à consciência a existência destes parâmetros e como se organizam em uma composição musical é um passo importante para reconhecê-los, nomeá-los e utilizá-los criativamente - em composições e aulas de música, por exemplo.&lt;/p&gt;
 
-&lt;p&gt;O site do &lt;a href=&quot;https://musiclab.chromeexperiments.com&quot;&gt;Chrome Music Lab&lt;/a&gt; apresenta uma série de recursos audiovisuais interativos que valem ser explorados, sem pressa. Conheça esse laboratório!&lt;/p&gt;</content><author><name></name></author><category term="Repertório" /><summary type="html">Os recursos interativos podem despertar a curiosidade sobre outros elementos musicais e parâmetros sonoros: além de ritmo e alturas, duração, timbre, intensidade, textura, etc.</summary></entry><entry><title type="html">Editores de partitura online e colaborativos</title><link href="http://0.0.0.0:4000/notacaomusical/noteflight-e-flat" rel="alternate" type="text/html" title="Editores de partitura online e colaborativos" /><published>2022-02-05T16:49:00-03:00</published><updated>2022-02-05T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/noteflight-e-flat</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/noteflight-e-flat">&lt;p&gt;&lt;a href=&quot;https://www.noteflight.com&quot;&gt;Noteflight&lt;/a&gt; é um editor de partituras online. Como roda diretamente no browser de internet, não necessita de ser instalado.&lt;/p&gt;
+&lt;p&gt;O site &lt;a href=&quot;https://musiclab.chromeexperiments.com&quot;&gt;Chrome Music Lab&lt;/a&gt; apresenta uma série de recursos audiovisuais interativos que valem ser explorados, sem pressa.&lt;/p&gt;
 
-&lt;p&gt;Embora seja um pouco mais limitado que um software convencional, cumpre bem o básico, e tem algumas vantagens, mesmo na conta gratuita, como salvar partituras na nuvem e permitir a edição colaborativa. Você ainda pode participar da comunidade, compartilhar partituras, etc.&lt;/p&gt;
+&lt;p&gt;Conheça esse laboratório!&lt;/p&gt;</content><author><name></name></author><category term="Editores" /><summary type="html">Os recursos interativos podem despertar a curiosidade sobre outros elementos musicais e parâmetros sonoros: além de ritmo e alturas, duração, timbre, intensidade, textura, etc.</summary></entry><entry><title type="html">Editores de partitura online e colaborativos</title><link href="http://0.0.0.0:4000/notacaomusical/noteflight-e-flat" rel="alternate" type="text/html" title="Editores de partitura online e colaborativos" /><published>2022-02-05T16:49:00-03:00</published><updated>2022-02-05T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/noteflight-e-flat</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/noteflight-e-flat">&lt;p&gt;Uma opção online para editar partituras é proporcionada pelo &lt;a href=&quot;https://www.noteflight.com&quot;&gt;Noteflight&lt;/a&gt;. Como roda diretamente no browser de internet, não necessita de ser instalado.&lt;/p&gt;
 
-&lt;p&gt;Além do Noteflight, há ainda o &lt;a href=&quot;https://flat.io/pt-BR&quot;&gt;Flat&lt;/a&gt;, com proposta similar -  vale a pena explorar ambos.&lt;/p&gt;</content><author><name></name></author><category term="Editores" /><summary type="html">Noteflight é um editor de partituras online. Como roda diretamente no browser de internet, não necessita de ser instalado.</summary></entry><entry><title type="html">Acordes: identificação e construção</title><link href="http://0.0.0.0:4000/notacaomusical/acordes" rel="alternate" type="text/html" title="Acordes: identificação e construção" /><published>2022-02-05T16:49:00-03:00</published><updated>2022-02-05T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/acordes</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/acordes">&lt;style&gt; 
+&lt;p&gt;Embora seja um pouco mais limitado que um software convencional, cumpre bem o básico, e tem algumas vantagens, mesmo na conta gratuita, como salvar partituras na nuvem e permitir a edição colaborativa. Você ainda pode participar da comunidade virtual, acessar e compartilhar partituras de outros usuários, etc.&lt;/p&gt;
+
+&lt;p&gt;Como alternativa ao Noteflight, há o &lt;a href=&quot;https://flat.io&quot;&gt;Flat&lt;/a&gt;, que tem proposta bastante similar.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Acesse:&lt;/strong&gt; &lt;a href=&quot;https://www.noteflight.com&quot;&gt;noteflight.com&lt;/a&gt; e &lt;a href=&quot;https://flat.io&quot;&gt;flat.io&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="Editores" /><summary type="html">Uma opção online para editar partituras é proporcionada pelo Noteflight. Como roda diretamente no browser de internet, não necessita de ser instalado.</summary></entry><entry><title type="html">Identificação e formação de acordes</title><link href="http://0.0.0.0:4000/notacaomusical/acordes" rel="alternate" type="text/html" title="Identificação e formação de acordes" /><published>2022-02-05T16:49:00-03:00</published><updated>2022-02-05T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/acordes</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/acordes">&lt;style&gt; 
 	.boxes{ 
 	    width: 14%; 
 	    float: left;
@@ -133,9 +137,13 @@
 	} 
 &lt;/style&gt;
 
-&lt;p&gt;Identifique as tríades, nas claves de sol, fá e dó. Não altere as configurações do site (por padrão, definem apenas acordes na posição fundamental, sendo tríades maiores, menores, aumentadas e diminutas).&lt;/p&gt;
+&lt;p&gt;O site &lt;em&gt;ToneSavvy&lt;/em&gt; proporciona um jogo específico para a identificação de tríades e tétrades, em várias claves e tonalidades.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Clique na clave desejada&lt;/strong&gt; e experimente:&lt;/p&gt;
+&lt;p&gt;A configuração padrão define apenas tríades maiores, menores, aumentadas e diminutas, sempre na na posição fundamental, mas há inúmeras outras opções:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/tonesavvy-acordes.png&quot; alt=&quot;snapshot&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Clique na clave desejada&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;div&gt;
     &lt;div class=&quot;boxes&quot;&gt;
@@ -175,82 +183,102 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h3 id=&quot;construção-de-acordes&quot;&gt;Construção de acordes&lt;/h3&gt;
+&lt;h3 id=&quot;formação-de-acordes&quot;&gt;Formação de acordes&lt;/h3&gt;
 &lt;p&gt;&lt;/p&gt;
 
-&lt;p&gt;Agora, é a vez de escrever as notas que, combinadas, formam acordes maiores, menores, aumentados e diminutos, etc.&lt;/p&gt;
+&lt;p&gt;Agora, o jogo é no sentido contrário: é a vez de construir os escravos, selecionando as notas que, combinadas, formarão tríades ou tétradas.&lt;/p&gt;
 
-&lt;p&gt;Mais uma vez, para começar, deixe as opções que já aparecem no site como padrão. Experimente o exercício nas variadas claves.&lt;/p&gt;
+&lt;p&gt;Para começar, sugere-se deixar as opções que já aparecem no site como padrão, e ir aos poucos dificultando as coisas.&lt;/p&gt;
+
+&lt;p&gt;Escolha uma clave e &lt;strong&gt;experimente&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;div&gt;
     &lt;div class=&quot;boxes&quot;&gt;
         &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/7/chord-building-game-treble&quot;&gt;
         &lt;img src=&quot;assets/clefs-treble.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
-        clave de sol (agudo)
+        sol
     &lt;/div&gt;
     &lt;div class=&quot;boxes&quot;&gt;
         &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/8/chord-building-game-bass&quot;&gt;
         &lt;img src=&quot;assets/clefs-bass.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
-        clave de fá (grave)
+        fá
     &lt;/div&gt;
     &lt;div class=&quot;boxes&quot;&gt;
         &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/9/chord-building-game-alto-viola&quot;&gt;
         &lt;img src=&quot;assets/clefs-alto.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
-        clave de dó na 3ª linha (contralto/viola)
+        alto (viola)
     &lt;/div&gt;
     &lt;div class=&quot;boxes&quot;&gt;
         &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/250/chord-building-game-soprano&quot;&gt;
         &lt;img src=&quot;assets/clefs-soprano.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
-        clave de dó na 1ª linha (soprano)
+        soprano
     &lt;/div&gt;
     &lt;div class=&quot;boxes&quot;&gt;
         &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/251/chord-building-game-mezzo-soprano&quot;&gt;
         &lt;img src=&quot;assets/clefs-mezzo-soprano.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
-        clave de dó na 2ª linha (mezzo-soprano)
+        mezzo-soprano
     &lt;/div&gt;
     &lt;div class=&quot;boxes&quot;&gt;
         &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/252/chord-building-game-tenor&quot;&gt;
         &lt;img src=&quot;assets/clefs-tenor.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
-        clave de dó na 4ª linha (tenor)
+        tenor
     &lt;/div&gt;
     &lt;div class=&quot;boxes&quot;&gt;
         &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/253/chord-building-game-grand&quot;&gt;
         &lt;img src=&quot;assets/clefs-grand-staff.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
-        claves de sol e fá (sistema de piano)
+        piano
     &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="Jogos e Exercícios" /><summary type="html"></summary></entry><entry><title type="html">Afinação no solfejo</title><link href="http://0.0.0.0:4000/notacaomusical/afinacao" rel="alternate" type="text/html" title="Afinação no solfejo" /><published>2022-02-05T16:49:00-03:00</published><updated>2022-02-05T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/afinacao</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/afinacao">&lt;p&gt;Neste jogo, denominado &lt;em&gt;Pitchy Ninja&lt;/em&gt;, você escutará uma melodia curta, e deverá repeti-la vocalmente, utilizando o microfone de seu dispositivo. As tonalidades variam, bem como as melodias, a partir da configuração que você escolher.&lt;/p&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="Jogos e Exercícios" /><summary type="html"></summary></entry><entry><title type="html">Afinação no solfejo</title><link href="http://0.0.0.0:4000/notacaomusical/afinacao" rel="alternate" type="text/html" title="Afinação no solfejo" /><published>2022-02-05T16:49:00-03:00</published><updated>2022-02-05T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/afinacao</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/afinacao">&lt;p&gt;Neste jogo, denominado &lt;a href=&quot;https://pitchy.ninja&quot;&gt;&lt;em&gt;Pitchy Ninja&lt;/em&gt;&lt;/a&gt;, você escutará uma melodia curta, e deverá repeti-la vocalmente, utilizando o microfone de seu dispositivo. As tonalidades variam, bem como as melodias, a partir da configuração que você escolher.&lt;/p&gt;
 
-&lt;p&gt;Um dos benefícios do jogo é a possibilidade de visualizar em tempo real a posição de sua voz dentro do espaço melódico. Para isso, é necessário selecionar adequadamente o âmbito em que são construídas as melodias em tonalidades aleatórias. Este pode ser, assim, um recurso adicional para a prática da leitura cantada. Além disso, você ainda recebe um feedback de sua resposta. No início, é comum errar bastante, até o exercício estar corretamente configurado, e você entender qual é a proposta.&lt;/p&gt;
+&lt;p&gt;Um dos benefícios deste recurso é a possibilidade de visualizar em tempo real a posição de sua voz dentro do espaço melódico. Para isso, é necessário selecionar adequadamente o âmbito em que são construídas as melodias em tonalidades aleatórias.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/pitchy-ninja.jpg&quot; alt=&quot;snapshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Além disso, você ainda recebe um feedback de sua resposta. No início, é comum errar bastante, até que o exercício esteja corretamente configurado, e o usuário tenha entendido qual é a proposta.&lt;/p&gt;
 
-&lt;p&gt;Outro benefício deste exercício é trabalhar a micro-afinação, isto é o grau de precisão na adequação entre a frequência que define uma altura e sua reprodução vocal. A acurácia depende de fatores técnico-vocais, da própria construção melódica e também emocionais (nervosismo, etc.) e, assim, não deve ser o único critério na avaliação do quesito alturas na prática do solfejo. Veja mais detalhes sobre isso nos capítulos 6 e 7 de Karpinski (2000), já disponibilizados como texto complementar no tópico 5.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/pitchy-ninja.jpg&quot; alt=&quot;snapshot&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Para configurar o jogo para sua voz, recomenda-se seguir os passos listados no anexo:&lt;/p&gt;
+&lt;p&gt;Outro benefício deste exercício é trabalhar a micro-afinação, isto é o grau de precisão na adequação entre a frequência que define uma certa altura e sua reprodução vocal.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/pitchy-ninja-config.jpg&quot; alt=&quot;snapshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A acurácia depende de fatores técnico-vocais, da própria construção melódica, e também emocionais/ambientais (provocados pelo nervosismo em uma avaliação, por exemplo). Por esta razão, não deve ser o principal critério na avaliação na prática do solfejo, especialmente de iniciantes.&lt;/p&gt;
 
-&lt;p&gt;Observações:&lt;/p&gt;
+&lt;p&gt;Para configurar o jogo para sua voz, recomenda-se seguir os passos listados abaixo:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/pitchy-ninja-config.jpg&quot; alt=&quot;snapshot&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;algumas-observações&quot;&gt;Algumas observações:&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;“Pitch” é o termo inglês para designar “altura”: o atributo vertical das notas musicais no espaço definido entre o grave e o agudo.&lt;/li&gt;
-  &lt;li&gt;O Dó central, na configuração do jogo, é o C4, seguindo portanto a nomenclatura internacional.&lt;/li&gt;
-  &lt;li&gt;O feedback proporcionado por este jogo é baseado no sistema de avaliação norte-americano, com notas de de A a F, sendo A melhor e F pior.&lt;/li&gt;
-  &lt;li&gt;Os níveis vão sendo liberados aos poucos, na medida de seu progresso.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="Jogos e Exercícios" /><summary type="html">Neste jogo, denominado Pitchy Ninja, você escutará uma melodia curta, e deverá repeti-la vocalmente, utilizando o microfone de seu dispositivo. As tonalidades variam, bem como as melodias, a partir da configuração que você escolher.</summary></entry><entry><title type="html">Identificação das armaduras de clave</title><link href="http://0.0.0.0:4000/notacaomusical/armaduras-de-clave" rel="alternate" type="text/html" title="Identificação das armaduras de clave" /><published>2022-02-05T16:49:00-03:00</published><updated>2022-02-05T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/armaduras-de-clave</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/armaduras-de-clave">&lt;style&gt; 
+  &lt;li&gt;Os níveis do jogo vão sendo liberados aos poucos, na medida de seu progresso.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;O Dó Central, na configuração do jogo, é o C4, seguindo portanto a nomenclatura internacional.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;O feedback proporcionado é baseado no sistema de avaliação norte-americano, com notas de de A a F, sendo A melhor e F pior.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Você sabia?&lt;/strong&gt; &lt;em&gt;Pitch&lt;/em&gt; é o termo em inglês para designar &lt;em&gt;altura&lt;/em&gt;, o atributo vertical das notas musicais, no espaço definido entre o grave e o agudo. Está relacionado à a maneira como percebemos um conjunto de frequências sonoras como uma única altura definida, uma nota musical.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Acesse aqui: &lt;a href=&quot;https://pitchy.ninja/&quot;&gt;pitchy.ninja&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="Jogos e Exercícios" /><summary type="html">Neste jogo, denominado Pitchy Ninja, você escutará uma melodia curta, e deverá repeti-la vocalmente, utilizando o microfone de seu dispositivo. As tonalidades variam, bem como as melodias, a partir da configuração que você escolher.</summary></entry><entry><title type="html">Identificação das armaduras de clave</title><link href="http://0.0.0.0:4000/notacaomusical/armaduras-de-clave" rel="alternate" type="text/html" title="Identificação das armaduras de clave" /><published>2022-02-05T16:49:00-03:00</published><updated>2022-02-05T16:49:00-03:00</updated><id>http://0.0.0.0:4000/notacaomusical/armaduras-de-clave</id><content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/armaduras-de-clave">&lt;style&gt; 
 	.boxes{ 
-	    width: 30%; 
+	    width: 14%; 
 	    float: left;
-        padding: 10px;
+        padding: 25px;
         text-align: center;
 	} 
 &lt;/style&gt;
 
-&lt;p&gt;As armaduras de clave são responsáveis por definir o conjunto das principais alturas (notas) utilizadas em uma peça musical, como uma paleta de cores.&lt;/p&gt;
+&lt;p&gt;As armaduras de clave são responsáveis por definir o conjunto das principais alturas (notas) utilizadas em uma peça musical.&lt;/p&gt;
 
-&lt;p&gt;O jogo a seguir é similar ao jogo de reconhecimento das notas na pauta musical. Entretanto, desta vez, o objetivo é praticar o reconhecimento das armaduras de clave.&lt;/p&gt;
+&lt;p&gt;O jogo a seguir, extraído do site &lt;em&gt;ToneSavvy&lt;/em&gt;, é similar ao &lt;a href=&quot;tonesavvy-pauta.html&quot;&gt;jogo de reconhecimento das notas na pauta musical&lt;/a&gt;. Entretanto, desta vez, o objetivo é praticar a identificação das armaduras de clave.&lt;/p&gt;
 
-&lt;p&gt;Assim como os outros jogos apresentados do site &lt;a href=&quot;https://tonesavvy.com&quot;&gt;&lt;em&gt;ToneSavvy&lt;/em&gt;&lt;/a&gt;, você poderá customizá-lo, para adequar a dificuldade a seu nível de leitura atual, acrescentando progressivamente mais tonalidades. Para tanto, sugerimos adicionar as tonalidades maiores na seguinte ordem:&lt;/p&gt;
+&lt;p&gt;Assim como os outros jogos apresentados neste site, você poderá customizá-lo, para adequar a dificuldade a seu nível de leitura atual, acrescentando progressivamente mais tonalidades. Para tanto, sugerimos adicionar as tonalidades maiores na seguinte ordem:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;0 acidentes: C&lt;/li&gt;
@@ -266,7 +294,7 @@
 &lt;p&gt;Por exemplo: comece com C, G e F. Depois, acrescente D e Bb, e assim por diante.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;💡 Observe que, seguindo o número de acidentes, vamos percorrendo o &lt;strong&gt;Ciclo das Quintas&lt;/strong&gt;, no sentido horário para os sustenidos (#) e anti-horário para os bemóis (b), também chamado de Ciclo das Quartas. O mesmo se aplica às tonalidades menores, chamadas “relativas” das tonalidades maiores.&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;Dica:&lt;/strong&gt; Seguindo o número de acidentes, vamos percorrendo o &lt;em&gt;Ciclo das Quintas&lt;/em&gt;, no sentido horário para os sustenidos (#) e anti-horário para os bemóis (b), também chamado de Ciclo das Quartas. O mesmo se aplica às tonalidades menores, chamadas &lt;em&gt;relativas&lt;/em&gt; das tonalidades maiores.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Clique na clave desejada e experimente:&lt;/p&gt;
@@ -275,36 +303,38 @@
     &lt;div class=&quot;boxes&quot;&gt;
         &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/11/key-signature-treble-identification-game&quot;&gt;
         &lt;img src=&quot;assets/clefs-treble.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
-        clave de sol (agudo)
+        sol
     &lt;/div&gt;
     &lt;div class=&quot;boxes&quot;&gt;
         &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/224/key-signature-bass-identification-game&quot;&gt;
         &lt;img src=&quot;assets/clefs-bass.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
-        clave de fá (grave)
+        fá
     &lt;/div&gt;
     &lt;div class=&quot;boxes&quot;&gt;
         &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/225/key-signature-alto-viola-identification-game&quot;&gt;
         &lt;img src=&quot;assets/clefs-alto.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
-        clave de dó na 3ª linha (contralto/viola)
+        alto/viola
     &lt;/div&gt;
     &lt;div class=&quot;boxes&quot;&gt;
         &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/262/key-signature-soprano-identification-game&quot;&gt;
         &lt;img src=&quot;assets/clefs-soprano.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
-        clave de dó na 1ª linha (soprano)
+        soprano
     &lt;/div&gt;
     &lt;div class=&quot;boxes&quot;&gt;
         &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/263/key-signature-mezzo-soprano-identification-game&quot;&gt;
         &lt;img src=&quot;assets/clefs-mezzo-soprano.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
-        clave de dó na 2ª linha (mezzo-soprano)
+        mezzo-soprano
     &lt;/div&gt;
     &lt;div class=&quot;boxes&quot;&gt;
         &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/264/key-signature-tenor-identification-game&quot;&gt;
         &lt;img src=&quot;assets/clefs-tenor.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
-        clave de dó na 4ª linha (tenor)
+        tenor
     &lt;/div&gt;
     &lt;div class=&quot;boxes&quot;&gt;
         &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/265/key-signature-grand-staff-identification-game&quot;&gt;
         &lt;img src=&quot;assets/clefs-grand-staff.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
-        claves de sol e fá (sistema de piano)
+        piano
     &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="Jogos e Exercícios" /><summary type="html"></summary></entry></feed>
+&lt;/div&gt;
+
+&lt;p&gt;Bons estudos!&lt;/p&gt;</content><author><name></name></author><category term="Jogos e Exercícios" /><summary type="html"></summary></entry></feed>

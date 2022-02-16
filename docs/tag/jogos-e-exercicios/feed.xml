@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="http://0.0.0.0:4000/notacaomusical/tag/jogos-e-exercicios/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://0.0.0.0:4000/notacaomusical/" rel="alternate" type="text/html" />
-  <updated>2022-02-16T15:23:16-03:00</updated>
+  <updated>2022-02-16T19:28:06-03:00</updated>
   <id>http://0.0.0.0:4000/notacaomusical/tag/jogos-e-exercicios/feed.xml</id>
 
   
@@ -592,18 +592,18 @@ Para este momento, é suficiente até aqui. Ao abordarmos as escalas menores, vo
       <id>http://0.0.0.0:4000/notacaomusical/armaduras-de-clave</id>
       <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/armaduras-de-clave">&lt;style&gt; 
 	.boxes{ 
-	    width: 30%; 
+	    width: 14%; 
 	    float: left;
-        padding: 10px;
+        padding: 25px;
         text-align: center;
 	} 
 &lt;/style&gt;
 
-&lt;p&gt;As armaduras de clave são responsáveis por definir o conjunto das principais alturas (notas) utilizadas em uma peça musical, como uma paleta de cores.&lt;/p&gt;
+&lt;p&gt;As armaduras de clave são responsáveis por definir o conjunto das principais alturas (notas) utilizadas em uma peça musical.&lt;/p&gt;
 
-&lt;p&gt;O jogo a seguir é similar ao jogo de reconhecimento das notas na pauta musical. Entretanto, desta vez, o objetivo é praticar o reconhecimento das armaduras de clave.&lt;/p&gt;
+&lt;p&gt;O jogo a seguir, extraído do site &lt;em&gt;ToneSavvy&lt;/em&gt;, é similar ao &lt;a href=&quot;tonesavvy-pauta.html&quot;&gt;jogo de reconhecimento das notas na pauta musical&lt;/a&gt;. Entretanto, desta vez, o objetivo é praticar a identificação das armaduras de clave.&lt;/p&gt;
 
-&lt;p&gt;Assim como os outros jogos apresentados do site &lt;a href=&quot;https://tonesavvy.com&quot;&gt;&lt;em&gt;ToneSavvy&lt;/em&gt;&lt;/a&gt;, você poderá customizá-lo, para adequar a dificuldade a seu nível de leitura atual, acrescentando progressivamente mais tonalidades. Para tanto, sugerimos adicionar as tonalidades maiores na seguinte ordem:&lt;/p&gt;
+&lt;p&gt;Assim como os outros jogos apresentados neste site, você poderá customizá-lo, para adequar a dificuldade a seu nível de leitura atual, acrescentando progressivamente mais tonalidades. Para tanto, sugerimos adicionar as tonalidades maiores na seguinte ordem:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;0 acidentes: C&lt;/li&gt;
@@ -619,7 +619,7 @@ Para este momento, é suficiente até aqui. Ao abordarmos as escalas menores, vo
 &lt;p&gt;Por exemplo: comece com C, G e F. Depois, acrescente D e Bb, e assim por diante.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;💡 Observe que, seguindo o número de acidentes, vamos percorrendo o &lt;strong&gt;Ciclo das Quintas&lt;/strong&gt;, no sentido horário para os sustenidos (#) e anti-horário para os bemóis (b), também chamado de Ciclo das Quartas. O mesmo se aplica às tonalidades menores, chamadas “relativas” das tonalidades maiores.&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;Dica:&lt;/strong&gt; Seguindo o número de acidentes, vamos percorrendo o &lt;em&gt;Ciclo das Quintas&lt;/em&gt;, no sentido horário para os sustenidos (#) e anti-horário para os bemóis (b), também chamado de Ciclo das Quartas. O mesmo se aplica às tonalidades menores, chamadas &lt;em&gt;relativas&lt;/em&gt; das tonalidades maiores.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Clique na clave desejada e experimente:&lt;/p&gt;
@@ -628,39 +628,41 @@ Para este momento, é suficiente até aqui. Ao abordarmos as escalas menores, vo
     &lt;div class=&quot;boxes&quot;&gt;
         &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/11/key-signature-treble-identification-game&quot;&gt;
         &lt;img src=&quot;assets/clefs-treble.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
-        clave de sol (agudo)
+        sol
     &lt;/div&gt;
     &lt;div class=&quot;boxes&quot;&gt;
         &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/224/key-signature-bass-identification-game&quot;&gt;
         &lt;img src=&quot;assets/clefs-bass.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
-        clave de fá (grave)
+        fá
     &lt;/div&gt;
     &lt;div class=&quot;boxes&quot;&gt;
         &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/225/key-signature-alto-viola-identification-game&quot;&gt;
         &lt;img src=&quot;assets/clefs-alto.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
-        clave de dó na 3ª linha (contralto/viola)
+        alto/viola
     &lt;/div&gt;
     &lt;div class=&quot;boxes&quot;&gt;
         &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/262/key-signature-soprano-identification-game&quot;&gt;
         &lt;img src=&quot;assets/clefs-soprano.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
-        clave de dó na 1ª linha (soprano)
+        soprano
     &lt;/div&gt;
     &lt;div class=&quot;boxes&quot;&gt;
         &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/263/key-signature-mezzo-soprano-identification-game&quot;&gt;
         &lt;img src=&quot;assets/clefs-mezzo-soprano.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
-        clave de dó na 2ª linha (mezzo-soprano)
+        mezzo-soprano
     &lt;/div&gt;
     &lt;div class=&quot;boxes&quot;&gt;
         &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/264/key-signature-tenor-identification-game&quot;&gt;
         &lt;img src=&quot;assets/clefs-tenor.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
-        clave de dó na 4ª linha (tenor)
+        tenor
     &lt;/div&gt;
     &lt;div class=&quot;boxes&quot;&gt;
         &lt;a href=&quot;https://tonesavvy.com/music-practice-exercise/265/key-signature-grand-staff-identification-game&quot;&gt;
         &lt;img src=&quot;assets/clefs-grand-staff.png&quot; alt=&quot;snapshot&quot; width=&quot;50&quot; /&gt;&lt;/a&gt;
-        claves de sol e fá (sistema de piano)
+        piano
     &lt;/div&gt;
-&lt;/div&gt;</content>
+&lt;/div&gt;
+
+&lt;p&gt;Bons estudos!&lt;/p&gt;</content>
 
       
       
@@ -694,26 +696,44 @@ Para este momento, é suficiente até aqui. Ao abordarmos as escalas menores, vo
       <published>2022-02-05T16:49:00-03:00</published>
       <updated>2022-02-05T16:49:00-03:00</updated>
       <id>http://0.0.0.0:4000/notacaomusical/afinacao</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/afinacao">&lt;p&gt;Neste jogo, denominado &lt;em&gt;Pitchy Ninja&lt;/em&gt;, você escutará uma melodia curta, e deverá repeti-la vocalmente, utilizando o microfone de seu dispositivo. As tonalidades variam, bem como as melodias, a partir da configuração que você escolher.&lt;/p&gt;
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/afinacao">&lt;p&gt;Neste jogo, denominado &lt;a href=&quot;https://pitchy.ninja&quot;&gt;&lt;em&gt;Pitchy Ninja&lt;/em&gt;&lt;/a&gt;, você escutará uma melodia curta, e deverá repeti-la vocalmente, utilizando o microfone de seu dispositivo. As tonalidades variam, bem como as melodias, a partir da configuração que você escolher.&lt;/p&gt;
 
-&lt;p&gt;Um dos benefícios do jogo é a possibilidade de visualizar em tempo real a posição de sua voz dentro do espaço melódico. Para isso, é necessário selecionar adequadamente o âmbito em que são construídas as melodias em tonalidades aleatórias. Este pode ser, assim, um recurso adicional para a prática da leitura cantada. Além disso, você ainda recebe um feedback de sua resposta. No início, é comum errar bastante, até o exercício estar corretamente configurado, e você entender qual é a proposta.&lt;/p&gt;
+&lt;p&gt;Um dos benefícios deste recurso é a possibilidade de visualizar em tempo real a posição de sua voz dentro do espaço melódico. Para isso, é necessário selecionar adequadamente o âmbito em que são construídas as melodias em tonalidades aleatórias.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/pitchy-ninja.jpg&quot; alt=&quot;snapshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Além disso, você ainda recebe um feedback de sua resposta. No início, é comum errar bastante, até que o exercício esteja corretamente configurado, e o usuário tenha entendido qual é a proposta.&lt;/p&gt;
 
-&lt;p&gt;Outro benefício deste exercício é trabalhar a micro-afinação, isto é o grau de precisão na adequação entre a frequência que define uma altura e sua reprodução vocal. A acurácia depende de fatores técnico-vocais, da própria construção melódica e também emocionais (nervosismo, etc.) e, assim, não deve ser o único critério na avaliação do quesito alturas na prática do solfejo. Veja mais detalhes sobre isso nos capítulos 6 e 7 de Karpinski (2000), já disponibilizados como texto complementar no tópico 5.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/pitchy-ninja.jpg&quot; alt=&quot;snapshot&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Para configurar o jogo para sua voz, recomenda-se seguir os passos listados no anexo:&lt;/p&gt;
+&lt;p&gt;Outro benefício deste exercício é trabalhar a micro-afinação, isto é o grau de precisão na adequação entre a frequência que define uma certa altura e sua reprodução vocal.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/pitchy-ninja-config.jpg&quot; alt=&quot;snapshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A acurácia depende de fatores técnico-vocais, da própria construção melódica, e também emocionais/ambientais (provocados pelo nervosismo em uma avaliação, por exemplo). Por esta razão, não deve ser o principal critério na avaliação na prática do solfejo, especialmente de iniciantes.&lt;/p&gt;
 
-&lt;p&gt;Observações:&lt;/p&gt;
+&lt;p&gt;Para configurar o jogo para sua voz, recomenda-se seguir os passos listados abaixo:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/pitchy-ninja-config.jpg&quot; alt=&quot;snapshot&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;algumas-observações&quot;&gt;Algumas observações:&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;“Pitch” é o termo inglês para designar “altura”: o atributo vertical das notas musicais no espaço definido entre o grave e o agudo.&lt;/li&gt;
-  &lt;li&gt;O Dó central, na configuração do jogo, é o C4, seguindo portanto a nomenclatura internacional.&lt;/li&gt;
-  &lt;li&gt;O feedback proporcionado por este jogo é baseado no sistema de avaliação norte-americano, com notas de de A a F, sendo A melhor e F pior.&lt;/li&gt;
-  &lt;li&gt;Os níveis vão sendo liberados aos poucos, na medida de seu progresso.&lt;/li&gt;
-&lt;/ul&gt;</content>
+  &lt;li&gt;Os níveis do jogo vão sendo liberados aos poucos, na medida de seu progresso.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;O Dó Central, na configuração do jogo, é o C4, seguindo portanto a nomenclatura internacional.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;O feedback proporcionado é baseado no sistema de avaliação norte-americano, com notas de de A a F, sendo A melhor e F pior.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Você sabia?&lt;/strong&gt; &lt;em&gt;Pitch&lt;/em&gt; é o termo em inglês para designar &lt;em&gt;altura&lt;/em&gt;, o atributo vertical das notas musicais, no espaço definido entre o grave e o agudo. Está relacionado à a maneira como percebemos um conjunto de frequências sonoras como uma única altura definida, uma nota musical.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Acesse aqui: &lt;a href=&quot;https://pitchy.ninja/&quot;&gt;pitchy.ninja&lt;/a&gt;.&lt;/p&gt;</content>
 
       
       

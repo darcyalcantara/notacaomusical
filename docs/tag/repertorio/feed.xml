@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="http://0.0.0.0:4000/notacaomusical/tag/repertorio/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://0.0.0.0:4000/notacaomusical/" rel="alternate" type="text/html" />
-  <updated>2022-02-16T15:23:16-03:00</updated>
+  <updated>2022-02-16T19:28:06-03:00</updated>
   <id>http://0.0.0.0:4000/notacaomusical/tag/repertorio/feed.xml</id>
 
   
@@ -44,16 +44,34 @@
 
   
     <entry>
-      <title type="html">Chrome Music Lab</title>
-      <link href="http://0.0.0.0:4000/notacaomusical/chrome-music-lab" rel="alternate" type="text/html" title="Chrome Music Lab" />
+      <title type="html">O piano roll</title>
+      <link href="http://0.0.0.0:4000/notacaomusical/piano-roll" rel="alternate" type="text/html" title="O piano roll" />
       <published>2022-02-05T16:49:00-03:00</published>
       <updated>2022-02-05T16:49:00-03:00</updated>
-      <id>http://0.0.0.0:4000/notacaomusical/chrome-music-lab</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/chrome-music-lab">&lt;p&gt;Os recursos interativos podem despertar a curiosidade sobre outros elementos musicais e parâmetros sonoros: além de ritmo e alturas, duração, timbre, intensidade, textura, etc.&lt;/p&gt;
+      <id>http://0.0.0.0:4000/notacaomusical/piano-roll</id>
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/piano-roll">&lt;p&gt;Você conhece o &lt;em&gt;piano roll&lt;/em&gt;? Originalmente, consistia de uma forma de armazenamento musical por meio de rolos de papel perfurados.&lt;/p&gt;
 
-&lt;p&gt;Trazer à consciência a existência destes parâmetros e como se organizam em uma composição musical é um passo importante para reconhecê-los, nomeá-los e utilizá-los criativamente - em composições e aulas de música, por exemplo.&lt;/p&gt;
+&lt;p&gt;Você já deve ter assistido a filmes de faroeste, em que uma pianola (um piano mecânico, pneumático ou elétrico) executa música de maneira automática, isto é, sem a presença de um intérprete. Esta adaptação do piano foi muito presente no final do século XIX e começo do século XX. Muitos compositores e intérpretes, inclusive, deixaram registradas suas performances por meio deste dispositivo.&lt;/p&gt;
 
-&lt;p&gt;O site do &lt;a href=&quot;https://musiclab.chromeexperiments.com&quot;&gt;Chrome Music Lab&lt;/a&gt; apresenta uma série de recursos audiovisuais interativos que valem ser explorados, sem pressa. Conheça esse laboratório!&lt;/p&gt;</content>
+&lt;p&gt;&lt;img src=&quot;assets/piano-roll.jpg&quot; alt=&quot;snapshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;No vídeo abaixo, podemos ouvir “Weeping Willow”, registrada pelo próprio compositor, Scott Joplin, em um rolo de papel. Joplin é um compositor negro nascido após a abolição da escravidão nos Estados Unidos, e um dos principais compositores do ragtime. Vale pesquisar sua biografia, e sua importância para o jazz!&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/IElCAs7tivM&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Hoje em dia, encontramos essa forma de representação sobretudo em softwares musicais, como sequenciadores MIDI e editores de partitura.&lt;/p&gt;
+
+&lt;p&gt;Muitos livros de teoria musical, como &lt;em&gt;Tonal Harmony&lt;/em&gt;, de Kostka e Payne, apresentam a partitura como um plano cartesiano, com o eixo horizontal representando o tempo (ritmo) e o vertical as alturas (notas).&lt;/p&gt;
+
+&lt;p&gt;Esta concepção fica ainda mais evidente no piano roll. Para quem aprende a notação, esta visualização pode funcionar como uma abordagem intuitiva para a compreensão da estrutura musical.&lt;/p&gt;
+
+&lt;p&gt;Isto porque, ao trazer para o sentido da visão o que é inerentemente auditivo e temporal – a estrutura da música, suas melodias, ritmos e harmonias – nossa percepção sonora fica ainda mais atenta: observamos/escutamos com mais clareza a individualização das partes instrumentais, as mudanças de andamento, as células rítmicas e melódicas, as diferentes texturas orquestrais (monofônica, homofônica, polifônica), os contrapontos e imitações entre as vozes, e assim por diante.&lt;/p&gt;
+
+&lt;p&gt;No YouTube, você encontrará inúmeras visualizações de música desta maneira. Veja/ouça abaixo o 4º movimento da 9ª Sinfonia de Ludwig von Beethoven, com o famoso tema “Ode à Alegria”, com versos do poeta romântico Friederic Schiller. Pesquise um pouco sobre o contexto da obra, e sobre a biografia do compositor.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/ljGMhDSSGFU&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Uma curiosidade: o piano roll é considerado precursor da programação computacional, que, em seus primórdios, utilizava cartões perfurados como forma de armazenar dados e instruções para cálculos. Quem diria, não é mesmo?&lt;/p&gt;</content>
 
       
       
@@ -74,7 +92,7 @@
       
 
       
-        <summary type="html">Os recursos interativos podem despertar a curiosidade sobre outros elementos musicais e parâmetros sonoros: além de ritmo e alturas, duração, timbre, intensidade, textura, etc.</summary>
+        <summary type="html">Você conhece o piano roll? Originalmente, consistia de uma forma de armazenamento musical por meio de rolos de papel perfurados.</summary>
       
 
       
@@ -385,62 +403,6 @@
 
       
         <summary type="html">É importante equilibrar o estudo concentrado com os tempos de descontração. Melhor ainda se for com um mestre do humor, Rowan Atkinson, o Mr. Bean.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">O piano roll</title>
-      <link href="http://0.0.0.0:4000/notacaomusical/piano-roll" rel="alternate" type="text/html" title="O piano roll" />
-      <published>2022-02-05T16:49:00-03:00</published>
-      <updated>2022-02-05T16:49:00-03:00</updated>
-      <id>http://0.0.0.0:4000/notacaomusical/piano-roll</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/piano-roll">&lt;p&gt;Você conhece o &lt;em&gt;piano roll&lt;/em&gt;? Originalmente, consistia de uma forma de armazenamento musical por meio de rolos de papel perfurados.&lt;/p&gt;
-
-&lt;p&gt;Você já deve ter assistido a filmes de faroeste, em que uma pianola (um piano mecânico, pneumático ou elétrico) executa música de maneira automática, isto é, sem a presença de um intérprete. Esta adaptação do piano foi muito presente no final do século XIX e começo do século XX. Muitos compositores e intérpretes, inclusive, deixaram registradas suas performances por meio deste dispositivo.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/piano-roll.jpg&quot; alt=&quot;snapshot&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;No vídeo abaixo, podemos ouvir “Weeping Willow”, registrada pelo próprio compositor, Scott Joplin, em um rolo de papel. Joplin é um compositor negro nascido após a abolição da escravidão nos Estados Unidos, e um dos principais compositores do ragtime. Vale pesquisar sua biografia, e sua importância para o jazz!&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.youtube.com/embed/IElCAs7tivM&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Hoje em dia, encontramos essa forma de representação sobretudo em softwares musicais, como sequenciadores MIDI e editores de partitura.&lt;/p&gt;
-
-&lt;p&gt;Muitos livros de teoria musical, como &lt;em&gt;Tonal Harmony&lt;/em&gt;, de Kostka e Payne, apresentam a partitura como um plano cartesiano, com o eixo horizontal representando o tempo (ritmo) e o vertical as alturas (notas).&lt;/p&gt;
-
-&lt;p&gt;Esta concepção fica ainda mais evidente no piano roll. Para quem aprende a notação, esta visualização pode funcionar como uma abordagem intuitiva para a compreensão da estrutura musical.&lt;/p&gt;
-
-&lt;p&gt;Isto porque, ao trazer para o sentido da visão o que é inerentemente auditivo e temporal – a estrutura da música, suas melodias, ritmos e harmonias – nossa percepção sonora fica ainda mais atenta: observamos/escutamos com mais clareza a individualização das partes instrumentais, as mudanças de andamento, as células rítmicas e melódicas, as diferentes texturas orquestrais (monofônica, homofônica, polifônica), os contrapontos e imitações entre as vozes, e assim por diante.&lt;/p&gt;
-
-&lt;p&gt;No YouTube, você encontrará inúmeras visualizações de música desta maneira. Veja/ouça abaixo o 4º movimento da 9ª Sinfonia de Ludwig von Beethoven, com o famoso tema “Ode à Alegria”, com versos do poeta romântico Friederic Schiller. Pesquise um pouco sobre o contexto da obra, e sobre a biografia do compositor.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.youtube.com/embed/ljGMhDSSGFU&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Uma curiosidade: o piano roll é considerado precursor da programação computacional, que, em seus primórdios, utilizava cartões perfurados como forma de armazenar dados e instruções para cálculos. Quem diria, não é mesmo?&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="Repertório" />
-      
-
-      
-        <summary type="html">Você conhece o piano roll? Originalmente, consistia de uma forma de armazenamento musical por meio de rolos de papel perfurados.</summary>
       
 
       

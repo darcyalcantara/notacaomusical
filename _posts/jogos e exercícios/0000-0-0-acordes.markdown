@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/acorde-tristao.jpeg
 navigation: True
-title: "Acordes: identificação e construção"
+title: "Identificação e formação de acordes"
 date: 2022-02-05 16:49:00 -0300
 tags: [Jogos e Exercícios]
 class: post-template
@@ -19,9 +19,13 @@ subclass: 'post'
 	} 
 </style> 
 
-Identifique as tríades, nas claves de sol, fá e dó. Não altere as configurações do site (por padrão, definem apenas acordes na posição fundamental, sendo tríades maiores, menores, aumentadas e diminutas).
+O site *ToneSavvy* proporciona um jogo específico para a identificação de tríades e tétrades, em várias claves e tonalidades.
 
-**Clique na clave desejada** e experimente:
+A configuração padrão define apenas tríades maiores, menores, aumentadas e diminutas, sempre na na posição fundamental, mas há inúmeras outras opções:
+
+<img src="assets/tonesavvy-acordes.png" alt="snapshot" width="80%"/>
+
+**Clique na clave desejada**:
 
 <div>
     <div class="boxes">
@@ -61,48 +65,50 @@ Identifique as tríades, nas claves de sol, fá e dó. Não altere as configura�
     </div>
 </div>
 
-### Construção de acordes
+### Formação de acordes
 <p></p>
 
-Agora, é a vez de escrever as notas que, combinadas, formam acordes maiores, menores, aumentados e diminutos, etc.
+Agora, o jogo é no sentido contrário: é a vez de construir os escravos, selecionando as notas que, combinadas, formarão tríades ou tétradas.
 
-Mais uma vez, para começar, deixe as opções que já aparecem no site como padrão. Experimente o exercício nas variadas claves.
+Para começar, sugere-se deixar as opções que já aparecem no site como padrão, e ir aos poucos dificultando as coisas.
+
+Escolha uma clave e **experimente**:
 
 <div>
     <div class="boxes">
         <a href="https://tonesavvy.com/music-practice-exercise/7/chord-building-game-treble">
         <img src="assets/clefs-treble.png" alt="snapshot" width="50"></a>
-        clave de sol (agudo)
+        sol
     </div>
     <div class="boxes">
         <a href="https://tonesavvy.com/music-practice-exercise/8/chord-building-game-bass">
         <img src="assets/clefs-bass.png" alt="snapshot" width="50"></a>
-        clave de fá (grave)
+        fá
     </div>
     <div class="boxes">
         <a href="https://tonesavvy.com/music-practice-exercise/9/chord-building-game-alto-viola">
         <img src="assets/clefs-alto.png" alt="snapshot" width="50"></a>
-        clave de dó na 3ª linha (contralto/viola)
+        alto (viola)
     </div>
     <div class="boxes">
         <a href="https://tonesavvy.com/music-practice-exercise/250/chord-building-game-soprano">
         <img src="assets/clefs-soprano.png" alt="snapshot" width="50"></a>
-        clave de dó na 1ª linha (soprano)
+        soprano
     </div>
     <div class="boxes">
         <a href="https://tonesavvy.com/music-practice-exercise/251/chord-building-game-mezzo-soprano">
         <img src="assets/clefs-mezzo-soprano.png" alt="snapshot" width="50"></a>
-        clave de dó na 2ª linha (mezzo-soprano)
+        mezzo-soprano
     </div>
     <div class="boxes">
         <a href="https://tonesavvy.com/music-practice-exercise/252/chord-building-game-tenor">
         <img src="assets/clefs-tenor.png" alt="snapshot" width="50"></a>
-        clave de dó na 4ª linha (tenor)
+        tenor
     </div>
     <div class="boxes">
         <a href="https://tonesavvy.com/music-practice-exercise/253/chord-building-game-grand">
         <img src="assets/clefs-grand-staff.png" alt="snapshot" width="50"></a>
-        claves de sol e fá (sistema de piano)
+        piano
     </div>
 </div>
 

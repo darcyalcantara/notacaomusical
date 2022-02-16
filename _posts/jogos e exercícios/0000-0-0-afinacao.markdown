@@ -10,21 +10,29 @@ class: post-template
 subclass: 'post'
 ---
 
-Neste jogo, denominado *Pitchy Ninja*, você escutará uma melodia curta, e deverá repeti-la vocalmente, utilizando o microfone de seu dispositivo. As tonalidades variam, bem como as melodias, a partir da configuração que você escolher.
+Neste jogo, denominado [*Pitchy Ninja*](https://pitchy.ninja), você escutará uma melodia curta, e deverá repeti-la vocalmente, utilizando o microfone de seu dispositivo. As tonalidades variam, bem como as melodias, a partir da configuração que você escolher.
 
-Um dos benefícios do jogo é a possibilidade de visualizar em tempo real a posição de sua voz dentro do espaço melódico. Para isso, é necessário selecionar adequadamente o âmbito em que são construídas as melodias em tonalidades aleatórias. Este pode ser, assim, um recurso adicional para a prática da leitura cantada. Além disso, você ainda recebe um feedback de sua resposta. No início, é comum errar bastante, até o exercício estar corretamente configurado, e você entender qual é a proposta.
+Um dos benefícios deste recurso é a possibilidade de visualizar em tempo real a posição de sua voz dentro do espaço melódico. Para isso, é necessário selecionar adequadamente o âmbito em que são construídas as melodias em tonalidades aleatórias.
 
-![snapshot](assets/pitchy-ninja.jpg)
+Além disso, você ainda recebe um feedback de sua resposta. No início, é comum errar bastante, até que o exercício esteja corretamente configurado, e o usuário tenha entendido qual é a proposta.
 
-Outro benefício deste exercício é trabalhar a micro-afinação, isto é o grau de precisão na adequação entre a frequência que define uma altura e sua reprodução vocal. A acurácia depende de fatores técnico-vocais, da própria construção melódica e também emocionais (nervosismo, etc.) e, assim, não deve ser o único critério na avaliação do quesito alturas na prática do solfejo. Veja mais detalhes sobre isso nos capítulos 6 e 7 de Karpinski (2000), já disponibilizados como texto complementar no tópico 5.
+<img src="assets/pitchy-ninja.jpg" alt="snapshot" width="80%"/>
 
-Para configurar o jogo para sua voz, recomenda-se seguir os passos listados no anexo:
+Outro benefício deste exercício é trabalhar a micro-afinação, isto é o grau de precisão na adequação entre a frequência que define uma certa altura e sua reprodução vocal.
 
-![snapshot](assets/pitchy-ninja-config.jpg)
+A acurácia depende de fatores técnico-vocais, da própria construção melódica, e também emocionais/ambientais (provocados pelo nervosismo em uma avaliação, por exemplo). Por esta razão, não deve ser o principal critério na avaliação na prática do solfejo, especialmente de iniciantes.
 
-Observações:
+Para configurar o jogo para sua voz, recomenda-se seguir os passos listados abaixo:
 
-- "Pitch" é o termo inglês para designar "altura": o atributo vertical das notas musicais no espaço definido entre o grave e o agudo.
-- O Dó central, na configuração do jogo, é o C4, seguindo portanto a nomenclatura internacional.
-- O feedback proporcionado por este jogo é baseado no sistema de avaliação norte-americano, com notas de de A a F, sendo A melhor e F pior.
-- Os níveis vão sendo liberados aos poucos, na medida de seu progresso.
+<img src="assets/pitchy-ninja-config.jpg" alt="snapshot" width="80%"/>
+
+### Algumas observações:
+<p></p>
+
+- Os níveis do jogo vão sendo liberados aos poucos, na medida de seu progresso.
+- - O Dó Central, na configuração do jogo, é o C4, seguindo portanto a nomenclatura internacional.
+- - O feedback proporcionado é baseado no sistema de avaliação norte-americano, com notas de de A a F, sendo A melhor e F pior.
+
+>**Você sabia?** *Pitch* é o termo em inglês para designar *altura*, o atributo vertical das notas musicais, no espaço definido entre o grave e o agudo. Está relacionado à a maneira como percebemos um conjunto de frequências sonoras como uma única altura definida, uma nota musical.
+
+Acesse aqui: [pitchy.ninja](https://pitchy.ninja/).

@@ -363,9 +363,9 @@
         
           <description>&lt;style&gt; 
 	.boxes{ 
-	    width: 30%; 
+	    width: 14%; 
 	    float: left;
-        padding: 10px;
+        padding: 25px;
         text-align: center;
 	} 
 &lt;/style&gt;
@@ -383,7 +383,7 @@
       <item>
         <title>Afinação no solfejo</title>
         
-          <description>&lt;p&gt;Neste jogo, denominado &lt;em&gt;Pitchy Ninja&lt;/em&gt;, você escutará uma melodia curta, e deverá repeti-la vocalmente, utilizando o microfone de seu dispositivo. As tonalidades variam, bem como as melodias, a partir da configuração que você escolher.&lt;/p&gt;
+          <description>&lt;p&gt;Neste jogo, denominado &lt;a href=&quot;https://pitchy.ninja&quot;&gt;&lt;em&gt;Pitchy Ninja&lt;/em&gt;&lt;/a&gt;, você escutará uma melodia curta, e deverá repeti-la vocalmente, utilizando o microfone de seu dispositivo. As tonalidades variam, bem como as melodias, a partir da configuração que você escolher.&lt;/p&gt;
 
 </description>
         
@@ -396,7 +396,7 @@
     
       
       <item>
-        <title>Acordes: identificação e construção</title>
+        <title>Identificação e formação de acordes</title>
         
           <description>&lt;style&gt; 
 	.boxes{ 
@@ -420,7 +420,7 @@
       <item>
         <title>Editores de partitura online e colaborativos</title>
         
-          <description>&lt;p&gt;&lt;a href=&quot;https://www.noteflight.com&quot;&gt;Noteflight&lt;/a&gt; é um editor de partituras online. Como roda diretamente no browser de internet, não necessita de ser instalado.&lt;/p&gt;
+          <description>&lt;p&gt;Uma opção online para editar partituras é proporcionada pelo &lt;a href=&quot;https://www.noteflight.com&quot;&gt;Noteflight&lt;/a&gt;. Como roda diretamente no browser de internet, não necessita de ser instalado.&lt;/p&gt;
 
 </description>
         
@@ -467,15 +467,15 @@
         
           <description>&lt;p&gt;Entre os mais conhecidos softwares para edição de partituras, figuram &lt;em&gt;Sibelius&lt;/em&gt; e &lt;em&gt;Finale&lt;/em&gt;, que consistiram durante décadas no padrão da indústria musical.&lt;/p&gt;
 
-&lt;p&gt;Recentemente, uma aplicação de código aberto ganhou espaço, sobretudo por ser desenvolvido por uma comunidade de programadores de software livre. Trata-se do &lt;a href=&quot;https://musescore.org&quot;&gt;&lt;em&gt;MuseScore&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Recentemente, uma aplicação de código aberto ganhou espaço, sobretudo por envolver uma comunidade de programadores de software livre. Trata-se do &lt;a href=&quot;https://musescore.org&quot;&gt;&lt;em&gt;MuseScore&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Além de estar disponível para Windows, Mac e Linux, o programa é gratuito, o que amplia as possibilidades de utilização em laboratórios de informática, escolas de educação básica, home studios e escolas de música.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Para download e outras informações, acesse o site&lt;/strong&gt;: &lt;a href=&quot;https://musescore.org&quot;&gt;musescore.org&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h3 id=&quot;e-ainda&quot;&gt;E ainda…&lt;/h3&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;vale assistir ao &lt;a href=&quot;https://www.youtube.com/watch?v=SXNfvkoOX_Q&quot;&gt;vídeo&lt;/a&gt; de um painel realizado na conferência virtual da &lt;a href=&quot;https://mola-inc.org&quot;&gt;&lt;em&gt;Major Orchestra Librarians’ Association&lt;/em&gt; (MOLA)&lt;/a&gt;, em 2021, com um panorama comparativo de quatro softwares de editoração musical: Finale, Sibelius, MuseScore e Dorico (este último, uma adição recente ao arsenal do gênero).&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Dica:&lt;/strong&gt; vale assistir ao painel realizado na conferência virtual da &lt;a href=&quot;https://mola-inc.org&quot;&gt;&lt;em&gt;Major Orchestra Librarians’ Association&lt;/em&gt; (MOLA)&lt;/a&gt;, em 2021, com um panorama comparativo de quatro softwares de editoração musical: Finale, Sibelius, MuseScore e Dorico (este último, uma adição mais recente ao cenário musical).&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;iframe src=&quot;https://www.youtube.com/embed/SXNfvkoOX_Q&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
 </description>
@@ -489,9 +489,9 @@
     
       
       <item>
-        <title>Estrutura da música popular apresentada em um sequenciador online interativo</title>
+        <title>Sequenciador online interativo destrincha a estrutura da música popular</title>
         
-          <description>&lt;p&gt;O site a seguir é um recurso didático bastante interessante. Primeiramente, apresenta os elementos musicais de uma maneira nada convencional: a partir das estruturas características da música popular contemporânea, em especial dos gêneros rock e pop. Por ser estruturado em lições, pode funcionar como uma revisão de tudo o que vimos até aqui, e também para aprender novos conceitos.&lt;/p&gt;
+          <description>&lt;p&gt;A Ableton é uma companhia alemã que produz o software &lt;a href=&quot;https://www.ableton.com/en/trial&quot;&gt;Ableton Live&lt;/a&gt;, uma DAW (Digital Audio Workstation) bastante conhecida pelos músicos profissionais.&lt;/p&gt;
 
 </description>
         

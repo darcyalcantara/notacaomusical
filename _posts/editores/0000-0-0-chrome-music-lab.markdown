@@ -5,7 +5,7 @@ cover: assets/chrome-music-lab.png
 navigation: True
 title: "Chrome Music Lab"
 date: 2022-02-05 16:49:00 -0300
-tags: [Repertório]
+tags: [Editores]
 class: post-template
 subclass: 'post'
 ---
@@ -14,4 +14,6 @@ Os recursos interativos podem despertar a curiosidade sobre outros elementos mus
 
 Trazer à consciência a existência destes parâmetros e como se organizam em uma composição musical é um passo importante para reconhecê-los, nomeá-los e utilizá-los criativamente - em composições e aulas de música, por exemplo.
 
-O site do [Chrome Music Lab](https://musiclab.chromeexperiments.com) apresenta uma série de recursos audiovisuais interativos que valem ser explorados, sem pressa. Conheça esse laboratório!
+O site [Chrome Music Lab](https://musiclab.chromeexperiments.com) apresenta uma série de recursos audiovisuais interativos que valem ser explorados, sem pressa.
+
+Conheça esse laboratório!

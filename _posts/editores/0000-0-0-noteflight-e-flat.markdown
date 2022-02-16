@@ -10,8 +10,10 @@ class: post-template
 subclass: 'post'
 ---
 
-[Noteflight](https://www.noteflight.com) é um editor de partituras online. Como roda diretamente no browser de internet, não necessita de ser instalado.
+Uma opção online para editar partituras é proporcionada pelo [Noteflight](https://www.noteflight.com). Como roda diretamente no browser de internet, não necessita de ser instalado.
 
-Embora seja um pouco mais limitado que um software convencional, cumpre bem o básico, e tem algumas vantagens, mesmo na conta gratuita, como salvar partituras na nuvem e permitir a edição colaborativa. Você ainda pode participar da comunidade, compartilhar partituras, etc.
+Embora seja um pouco mais limitado que um software convencional, cumpre bem o básico, e tem algumas vantagens, mesmo na conta gratuita, como salvar partituras na nuvem e permitir a edição colaborativa. Você ainda pode participar da comunidade virtual, acessar e compartilhar partituras de outros usuários, etc.
 
-Além do Noteflight, há ainda o [Flat](https://flat.io/pt-BR), com proposta similar -  vale a pena explorar ambos.
+Como alternativa ao Noteflight, há o [Flat](https://flat.io), que tem proposta bastante similar.
+
+**Acesse:** [noteflight.com](https://www.noteflight.com) e [flat.io](https://flat.io).
