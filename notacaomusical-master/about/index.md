@@ -8,7 +8,7 @@ class: page-template
 subclass: 'post page'
 ---
 
-Nos anos de 2020 e 2021, o isolamento social recomendado para conter a pandemia de Covid-19 trouxe a necessidade da adoção do Ensino Remoto Emergencial na Universidade Federal do Espírito Santo (Ufes).
+Nos anos de 2020 a 2022, o isolamento social recomendado para conter a pandemia de Covid-19 trouxe a necessidade da adoção do Ensino Remoto Emergencial na Universidade Federal do Espírito Santo (Ufes).
 
 Este blog apresenta alguns dos resultados de um levantamento de recursos interativos de livre acesso e gratuitos para a aquisição de conhecimentos e habilidades relacionados à Linguagem Musical.
 
