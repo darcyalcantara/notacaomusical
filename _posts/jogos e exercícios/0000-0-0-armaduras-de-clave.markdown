@@ -36,7 +36,7 @@ Assim como os outros jogos apresentados neste site, você poderá customizá-lo,
 
 Por exemplo: comece com C, G e F. Depois, acrescente D e Bb, e assim por diante.
 
->**Dica:** Seguindo o número de acidentes, vamos percorrendo o *Ciclo das Quintas*, no sentido horário para os sustenidos (#) e anti-horário para os bemóis (b), também chamado de Ciclo das Quartas. O mesmo se aplica às tonalidades menores, chamadas *relativas* das tonalidades maiores.
+>**Dica:** Seguindo o número de acidentes, vamos percorrendo o *Ciclo das Quintas*, no sentido horário para os sustenidos (#) e anti-horário para os bemóis (b), este último também denominado Ciclo das Quartas. O mesmo se aplica às tonalidades menores, chamadas *relativas* das tonalidades maiores.
 
 Clique na clave desejada e experimente:
 

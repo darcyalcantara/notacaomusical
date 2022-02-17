@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="http://0.0.0.0:4000/notacaomusical/tag/pedagogias/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://0.0.0.0:4000/notacaomusical/" rel="alternate" type="text/html" />
-  <updated>2022-02-16T19:28:06-03:00</updated>
+  <updated>2022-02-17T20:12:15-03:00</updated>
   <id>http://0.0.0.0:4000/notacaomusical/tag/pedagogias/feed.xml</id>
 
   
@@ -199,9 +199,17 @@
       <published>2022-02-05T16:49:00-03:00</published>
       <updated>2022-02-05T16:49:00-03:00</updated>
       <id>http://0.0.0.0:4000/notacaomusical/interacoes-ritmicas-posicionais</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/interacoes-ritmicas-posicionais">&lt;p&gt;Uma abordagem funcional (ou posicional) para o ritmo reflete os estudos cognitivos mais recentes sobre a percepção temporal, pois analisa o ritmo métrico a partir da função que cada evento desempenha, de maneira similar à análise harmônica funcional (IIm-V7-I7M, etc.)&lt;/p&gt;
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/interacoes-ritmicas-posicionais">&lt;p&gt;Uma abordagem funcional ou posicional para a percepção de ritmo estabelece como conceitos essenciais a pulsação e as posições dos ataques dos sons no tempo.&lt;/p&gt;
 
-&lt;p&gt;Dentre os conceitos essenciais, encontram-se as a pulsação e as posições dos ataques dos sons no tempo. O “sabor” rítmico de cada som é definido, não pelas durações de tempo (mais longas ou curtas), mas sim pelas &lt;strong&gt;posições dos ataques em relação à pulsação&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Nesta ótica, o &lt;em&gt;sabor&lt;/em&gt; rítmico de cada som é definido, não pelas durações de tempo (mais longas ou curtas), mas sim pelas &lt;em&gt;posições dos ataques em relação à pulsação&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Os estudos cognitivos mais recentes sobre a percepção temporal apontam nesta direção de pensamento e tendem a repercutir, na análise musical, na valorização da função que cada evento desempenha no contexto métrico.&lt;/p&gt;
+
+&lt;p&gt;Uma analogia com o espaço tonal pode deixar mais clara esta ideia. Os conceitos de &lt;em&gt;tempo&lt;/em&gt; e &lt;em&gt;contratempo&lt;/em&gt; são exemplos de atributos de eventos sonoros que se iniciam na cabeça do tempo e no espaço intermediário entre dois tempos, respectivamente, independentemente de suas durações, andamento, unidade de tempo na partitura, etc. De maneira análoga, &lt;em&gt;tônica&lt;/em&gt; e &lt;em&gt;dominante&lt;/em&gt; são utilizados para designar as funções tonais desempenhados pelo 1º e 5º graus de uma escala, a despeito das tonalidades em que se encontram.&lt;/p&gt;
+
+&lt;p&gt;analisa o ritmo métrico a partir da, de maneira similar à análise harmônica funcional (IIm-V7-I7M, etc.)&lt;/p&gt;
+
+&lt;p&gt;Dentre os conceitos essenciais, encontram-se as&lt;/p&gt;
 
 &lt;p&gt;Você experimentará &lt;a href=&quot;https://musiclab.chromeexperiments.com/Rhythm&quot;&gt;neste módulo do Chrome Music Lab&lt;/a&gt; uma maneira lúdica de interagir com o tempo musical que reflete esta abordagem. Por trás da aparente simplicidade, o módulo “Ritmo”, no Chrome Music Lab/Google, promove uma interação musical pedagogicamente refinada, por se basear na intuição rítmica, materializando as posições no tempo (no caso, tempos e contratempos), e não as durações.&lt;/p&gt;
 
@@ -230,7 +238,7 @@
       
 
       
-        <summary type="html">Uma abordagem funcional (ou posicional) para o ritmo reflete os estudos cognitivos mais recentes sobre a percepção temporal, pois analisa o ritmo métrico a partir da função que cada evento desempenha, de maneira similar à análise harmônica funcional (IIm-V7-I7M, etc.)</summary>
+        <summary type="html">Uma abordagem funcional ou posicional para a percepção de ritmo estabelece como conceitos essenciais a pulsação e as posições dos ataques dos sons no tempo.</summary>
       
 
       
@@ -243,13 +251,13 @@
       <published>2022-02-05T16:49:00-03:00</published>
       <updated>2022-02-05T16:49:00-03:00</updated>
       <id>http://0.0.0.0:4000/notacaomusical/folhas-de-dicas</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/folhas-de-dicas">&lt;p&gt;Páginas em PDF que resumem alguns dos conceitos fundamentais da teoria musical por meio de diagramas, símbolos, imagens e textos.&lt;/p&gt;
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/folhas-de-dicas">&lt;p&gt;Estas folhas de dicas, ou &lt;em&gt;cheat sheets&lt;/em&gt;, são materiais em PDF que resumem alguns dos conceitos fundamentais da teoria musical, por meio de diagramas, símbolos, imagens e textos.&lt;/p&gt;
 
-&lt;p&gt;Esta é a proposta do site de Toby Rush, &lt;a href=&quot;https://tobyrush.com/theorypages&quot;&gt;&lt;em&gt;Music Theory for Musicians and Normal People&lt;/em&gt;&lt;/a&gt; (título humorístico, que pode ser traduzido como “Teoria musical para músicos e pessoas normais”).&lt;/p&gt;
+&lt;p&gt;A proposta é do site de Toby Rush, &lt;a href=&quot;https://tobyrush.com/theorypages&quot;&gt;&lt;em&gt;Music Theory for Musicians and Normal People&lt;/em&gt;&lt;/a&gt; (título humorístico, que pode ser traduzido como “Teoria musical para músicos e pessoas normais”).&lt;/p&gt;
 
-&lt;p&gt;As &lt;em&gt;cheat sheets&lt;/em&gt; (folhas com dicas ou referências rápidas sobre um assunto) cobrem do ciclo de quintas aos sinais de dinâmica e articulação, do contraponto do século XVI às progressões harmônicas. O material pode ser utilizado em atividade de revisão de conceitos, quando já se sabe o principal, mas se deseja fixar ou revisar os aspectos principais, de uma maneira mais lúdica.&lt;/p&gt;
+&lt;p&gt;As &lt;em&gt;cheat sheets&lt;/em&gt; trazem referências rápidas sobre assuntos variados, do ciclo de quintas aos principais sinais de dinâmica e articulação, do contraponto do século XVI às progressões harmônicas jazzísticas. O material pode ser utilizado em atividade de revisão de conceitos, quando já se sabe o principal mas se deseja fixar ou revisar o conteúdo.&lt;/p&gt;
 
-&lt;p&gt;As folhas têm sido atualizadas com novos conteúdos, e já estão disponíveis em &lt;strong&gt;versões traduzidas para o português&lt;/strong&gt; - basta clicar na bandeira do Brasil, na lateral esquerda.&lt;/p&gt;
+&lt;p&gt;As folhas têm sido atualizadas com novas informações, e já estão disponíveis em &lt;em&gt;versões traduzidas para o português&lt;/em&gt; - basta clicar na bandeira do Brasil, na lateral esquerda.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://tobyrush.com/theorypages&quot;&gt;Acesse aqui.&lt;/a&gt;&lt;/p&gt;</content>
 
@@ -272,7 +280,7 @@
       
 
       
-        <summary type="html">Páginas em PDF que resumem alguns dos conceitos fundamentais da teoria musical por meio de diagramas, símbolos, imagens e textos.</summary>
+        <summary type="html">Estas folhas de dicas, ou cheat sheets, são materiais em PDF que resumem alguns dos conceitos fundamentais da teoria musical, por meio de diagramas, símbolos, imagens e textos.</summary>
       
 
       

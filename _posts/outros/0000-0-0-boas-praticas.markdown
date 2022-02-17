@@ -10,14 +10,14 @@ class: post-template
 subclass: 'post'
 ---
 
-As boas práticas de escrita musical devem ser conhecidas pelos estudantes universitários, para que as partituras que venham a produzir sejam de leitura mais fácil, menos ambíguas e respeitando as convenções estabelecidas nas edições profissionais.
+As boas práticas de escrita musical devem ser conhecidas pelos estudantes universitários de música, para que as partituras que venham a produzir sigam as regras da grafia musical vigente.
 
-Alguns manuais e sites ajudam nesta tarefa. Segue uma lista com algumas obras e sites.
+Ao respeitar as convenções estabelecidas nas edições profissionais, tornam-se menos ambíguas e facilitam o trabalho de decodificação que é realizado no momento da leitura. Alguns recursos ajudam nesta tarefa; segue uma lista com algumas obras e sites essenciais.
 
 ### Manuais (em inglês):
 <p></p>
 
-A bíblia da área é a seguinte publicação:
+Nos dias atuais, a bíblia da área é, definitivamente, a seguinte publicação:
 
 - GOULD, Elaine. [*Behind Bars*](https://www.fabermusic.com/news/elaine-goulds-behind-bars-is-a-worldwide-hit-567): the Definitive Guide to Music Notation. Londres: Faber Music, 2011.
 
@@ -29,7 +29,7 @@ O manual a seguir é disponibilizado gratuitamente pela *Music Publishers’ Ass
 
 - [Standard Music Notation Practice](https://www.mpa.org/wp-content/uploads/2018/06/standard-practice-engraving.pdf).
 
-Duas referências indicadas pelo IMSLP:
+O site colaborativo IMSLP disponibiliza duas referências:
 
 - [*Repository of music-notation mistakes or Essay on the true art of music engraving*](https://imslp.org/wiki/Repository_of_music-notation_mistakes_%28Coulon,_Jean-Pierre%29), de Jean-Pierre Coulon (2014).
 
@@ -44,15 +44,14 @@ Uma opção de livro em português é esta:
 
 Já a edição portuguesa abaixo, traduzida do espanhol, apresenta as regras de grafia entremeadas a outros tópicos de teoria musical.
 
-- ZAMACOIS, Joaquín. Teoria da Música. Lisboa: Edições 70, 2009.
+- ZAMACOIS, Joaquín. [Teoria da Música](https://www.amazon.com.br/Teoria-M%C3%BAsica-Joaqu%C3%ADn-Zamacois/dp/9724413624). Lisboa: Edições 70, 2009.
 
-## Sites e comunidades virtuais:
+### Sites e comunidades virtuais:
 <p></p>
 
-O grupo no Facebook [Music Engraving Tips](https://www.facebook.com/groups/musicengravingtips) é um excelente espaço de convivência e aprendizagem colaborativa. Participam editores profissionais de vários lugares do mundo, e as questões e respostas são de alto nível. Há também um [site](http://musicengravingtips.com).
+O grupo no Facebook [Music Engraving Tips](https://www.facebook.com/groups/musicengravingtips) é um excelente espaço de convivência e aprendizagem colaborativa. Participam nele editores profissionais de vários lugares do mundo, e as questões e respostas são de alto nível. Há também um site, de mesmo nome: [musicengravingtips.com](http://musicengravingtips.com).
 
-O site IMSLP também disponibiliza algumas regras básicas para aprimorar partituras: 
-[Typesetting Guidelines](https://imslp.org/wiki/IMSLP:Typesetting_Guidelines).
+O repositório IMSLP também recomenda, a quem intenciona contribuir com suas próprias composições, arranjos ou transcrições, algumas regras básicas: [Typesetting Guidelines](https://imslp.org/wiki/IMSLP:Typesetting_Guidelines).
 
 ### Sugestões?
 <p></p>

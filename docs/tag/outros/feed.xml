@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="http://0.0.0.0:4000/notacaomusical/tag/outros/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://0.0.0.0:4000/notacaomusical/" rel="alternate" type="text/html" />
-  <updated>2022-02-16T19:28:06-03:00</updated>
+  <updated>2022-02-17T20:12:15-03:00</updated>
   <id>http://0.0.0.0:4000/notacaomusical/tag/outros/feed.xml</id>
 
   
@@ -44,19 +44,217 @@
 
   
     <entry>
-      <title type="html">Boas práticas de escrita musical</title>
-      <link href="http://0.0.0.0:4000/notacaomusical/boas-praticas-de-escrita" rel="alternate" type="text/html" title="Boas práticas de escrita musical" />
+      <title type="html">Visualização circular do ritmo</title>
+      <link href="http://0.0.0.0:4000/notacaomusical/visualizacao-circular-ritmo" rel="alternate" type="text/html" title="Visualização circular do ritmo" />
+      <published>2022-02-07T16:49:00-03:00</published>
+      <updated>2022-02-07T16:49:00-03:00</updated>
+      <id>http://0.0.0.0:4000/notacaomusical/visualizacao-circular-ritmo</id>
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/visualizacao-circular-ritmo">&lt;p&gt;Uma demanda de etnomusicólogos&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; que estudam tradições musicais não ocidentais é o registro gráfico de sons e ritmos que diferem da métrica e das escalas usuais na música de concerto de matriz europeia, que pode ser necessário para algumas formas de análise.&lt;/p&gt;
+
+&lt;p&gt;A partitura convencional, muitas vezes, não é o meio mais adequado para esse registro, pois acomoda melhor as estruturas sonoras e práticas da música de concerto de tradição europeia e, em alguma medida, da música popular dos séculos XX e XXI.&lt;/p&gt;
+
+&lt;p&gt;Para esta e outras aplicações, tem ganhado espaço uma forma alternativa de anotação de padrões rítmicos regulares, que é a representação circular. Observe, no vídeo abaixo, que são definidas as posições dos ataques (pontos iniciais) dos sons em relação à pulsação.&lt;/p&gt;
+
+&lt;p&gt;Nesta maneira de representar o ritmo percebido, as durações emergem como categorias secundárias. E,Além de intuitiva e didática, esta forma de visualização permite ainda comparar diferentes células rítmicas características de estilos musicais.&lt;/p&gt;
+
+&lt;p&gt;Lembre-se de ativar a legenda em português, caso não esteja automaticamente ativada.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/2UphAzryVpY&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;💡 O livro &lt;a href=&quot;https://global.oup.com/academic/product/hearing-in-time-9780199744374?cc=us&amp;amp;lang=en&amp;amp;&quot;&gt;Hearing in Time&lt;/a&gt;: Psychological Aspects of Musical Meter, de Justin London, apresenta elaborados esquemas circulares para descrever e comparar ritmos em várias culturas, com ênfase na maneira como percebemos as estruturas temporais. Vale conhecer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/hearing-in-time.jpeg&quot; alt=&quot;snapshot&quot; width=&quot;30%&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Especialistas que estudam a música com ênfase nas relações entre os sons e os aspectos culturais. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Outros" />
+      
+
+      
+        <summary type="html">Uma demanda de etnomusicólogos1 que estudam tradições musicais não ocidentais é o registro gráfico de sons e ritmos que diferem da métrica e das escalas usuais na música de concerto de matriz europeia, que pode ser necessário para algumas formas de análise. Especialistas que estudam a música com ênfase nas relações entre os sons e os aspectos culturais. &amp;#8617;</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">“Estudo para piano”, de Tim Rescala</title>
+      <link href="http://0.0.0.0:4000/notacaomusical/tim-rescala" rel="alternate" type="text/html" title="&quot;Estudo para piano&quot;, de Tim Rescala" />
       <published>2022-02-05T16:49:00-03:00</published>
       <updated>2022-02-05T16:49:00-03:00</updated>
-      <id>http://0.0.0.0:4000/notacaomusical/boas-praticas-de-escrita</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/boas-praticas-de-escrita">&lt;p&gt;As boas práticas de escrita musical devem ser conhecidas pelos estudantes universitários, para que as partituras que venham a produzir sejam de leitura mais fácil, menos ambíguas e respeitando as convenções estabelecidas nas edições profissionais.&lt;/p&gt;
+      <id>http://0.0.0.0:4000/notacaomusical/tim-rescala</id>
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/tim-rescala">&lt;p&gt;O estudo musical, embora gratificante e prazeroso, se dá também por repetições e treinamentos que podem ser exaustivos, a depender do objetivo pretendido.&lt;/p&gt;
 
-&lt;p&gt;Alguns manuais e sites ajudam nesta tarefa. Segue uma lista com algumas obras e sites.&lt;/p&gt;
+&lt;p&gt;No caminho para a proficiência, isto é, para um desempenho de alto nível, as repetições podem parecer, aos ouvidos externos, intermináveis! E isto vale também para o treinamento auditivo: solfejo, ditado…&lt;/p&gt;
+
+&lt;p&gt;O vídeo abaixo traz uma performance de uma peça que tematiza um pouco desta relação por vezes conflituosa vivida pelo aluno de música com seu objeto de estudo. Chama-se &lt;em&gt;Estudo para piano&lt;/em&gt; (1989), de Tim Rescala, compositor, pianista, arranjador e autor teatral. A intérprete é Maria Teresa Madeira, uma das mais conhecidas e importantes pianistas brasileiras da contemporaneidade.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/VhO_gtH7H6w&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Após assistir a performance ao vivo, acompanhe este outro vídeo, que traz uma gravação em estúdio acompanhada da partitura. Repare especialmente nos sinais utilizados para indicar arpejos, legatos, clusters, etc., bem como o ritmo precisamente definido do texto a ser vocalizado.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/3e2hawuA55o&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Dica:&lt;/strong&gt; Aproveite também para pesquisar sobre as biografias e produções destes dois nomes emblemáticos da cultura musical brasileira.&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Outros" />
+      
+
+      
+        <summary type="html">O estudo musical, embora gratificante e prazeroso, se dá também por repetições e treinamentos que podem ser exaustivos, a depender do objetivo pretendido.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Expressividade musical</title>
+      <link href="http://0.0.0.0:4000/notacaomusical/expressividade-e-fraseado" rel="alternate" type="text/html" title="Expressividade musical" />
+      <published>2022-02-05T16:49:00-03:00</published>
+      <updated>2022-02-05T16:49:00-03:00</updated>
+      <id>http://0.0.0.0:4000/notacaomusical/expressividade-e-fraseado</id>
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/expressividade-e-fraseado">&lt;p&gt;É importante equilibrar o estudo concentrado com os tempos de descontração. Melhor ainda se for com um mestre do humor, Rowan Atkinson, o Mr. Bean.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/Wra2l6z7sdc&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Uma boa parte da graça deste vídeo está na manipulação gestual dos atributos musicais pelo personagem, como a &lt;em&gt;dinâmica&lt;/em&gt; (variações de intensidade) e &lt;em&gt;agógica&lt;/em&gt; (variações de andamento; no caso, pelo uso de fermatas). Não é interessante?&lt;/p&gt;
+
+&lt;p&gt;Além disso, Bean exibe duas expressões faciais contrastantes, e que representam adequadamente a atmosfera de cada uma das músicas que o quarteto interpreta, uma com uma harmonia mais tradicional, clássica, e outra jazzística, mais ritmada.&lt;/p&gt;
+
+&lt;h3 id=&quot;comunicação-da-expressividade-em-pequenos-gestos&quot;&gt;Comunicação da expressividade em pequenos gestos&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Muitas vezes o maestro conduz apenas com sutis movimentos. No segundo vídeo, testemunhamos Leonard Bernstein regendo apenas com o olhar e discretos movimentos do rosto. Impressiona!&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/56qZblncQrs&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Por último, vale assistir a um vídeo que viralizou nos anos iniciais do YouTube. Trata-se de uma “interpretação puramente facial” do Concerto para Violino N. 1 (Op. 6) de Niccolò Paganini. Apesar do caráter humorístico, não deixa de ser um estudo de fraseologia musical e interpretação teatral – a música tem esse potencial interdisciplinar.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/FQCdQpRxhKE&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Outros" />
+      
+
+      
+        <summary type="html">É importante equilibrar o estudo concentrado com os tempos de descontração. Melhor ainda se for com um mestre do humor, Rowan Atkinson, o Mr. Bean.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Dicionário de termos musicais (em inglês)</title>
+      <link href="http://0.0.0.0:4000/notacaomusical/dicionario-termos-musicais" rel="alternate" type="text/html" title="Dicionário de termos musicais (em inglês)" />
+      <published>2022-02-05T16:49:00-03:00</published>
+      <updated>2022-02-05T16:49:00-03:00</updated>
+      <id>http://0.0.0.0:4000/notacaomusical/dicionario-termos-musicais</id>
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/dicionario-termos-musicais">&lt;p&gt;No campo da pedagogia da teoria e percepção musical, a literatura em língua inglesa é ampla e aprofundada. Além disso, o idioma é muito utilizado em eventos científicos no campo da cognição musical, que muito interessa aos professores de linguagem musical.&lt;/p&gt;
+
+&lt;p&gt;Por estas e outras razões, vale conhecer &lt;a href=&quot;https://www.meloteca.com/dicionario-de-musica-ingles-portugues&quot;&gt;aqui&lt;/a&gt; o dicionário online de termos musicais do site &lt;em&gt;Meloteca&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Eventualmente, vale acessar também o site &lt;a href=&quot;https://www.linguee.com.br&quot;&gt;&lt;em&gt;Linguee&lt;/em&gt;&lt;/a&gt;, que apresenta traduções em contexto, e o &lt;a href=&quot;https://translate.google.com.br/?hl=pt-BR&quot;&gt;&lt;em&gt;Google Tradutor&lt;/em&gt;&lt;/a&gt;, que funciona melhor para frases do que palavras isoladas, já que é sensível ao contexto.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Dica:&lt;/strong&gt; Com frequência, acessamos literatura sobre música também em outros idiomas, como espanhol, francês e italiano. A aprendizagem de um idioma estrangeiro amplia as possibilidades de acesso ao conhecimento!&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Outros" />
+      
+
+      
+        <summary type="html">No campo da pedagogia da teoria e percepção musical, a literatura em língua inglesa é ampla e aprofundada. Além disso, o idioma é muito utilizado em eventos científicos no campo da cognição musical, que muito interessa aos professores de linguagem musical.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Boas práticas de escrita musical</title>
+      <link href="http://0.0.0.0:4000/notacaomusical/boas-praticas" rel="alternate" type="text/html" title="Boas práticas de escrita musical" />
+      <published>2022-02-05T16:49:00-03:00</published>
+      <updated>2022-02-05T16:49:00-03:00</updated>
+      <id>http://0.0.0.0:4000/notacaomusical/boas-praticas</id>
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/boas-praticas">&lt;p&gt;As boas práticas de escrita musical devem ser conhecidas pelos estudantes universitários de música, para que as partituras que venham a produzir sigam as regras da grafia musical vigente.&lt;/p&gt;
+
+&lt;p&gt;Ao respeitar as convenções estabelecidas nas edições profissionais, tornam-se menos ambíguas e facilitam o trabalho de decodificação que é realizado no momento da leitura. Alguns recursos ajudam nesta tarefa; segue uma lista com algumas obras e sites essenciais.&lt;/p&gt;
 
 &lt;h3 id=&quot;manuais-em-inglês&quot;&gt;Manuais (em inglês):&lt;/h3&gt;
 &lt;p&gt;&lt;/p&gt;
 
-&lt;p&gt;A bíblia da área é a seguinte publicação:&lt;/p&gt;
+&lt;p&gt;Nos dias atuais, a bíblia da área é, definitivamente, a seguinte publicação:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;GOULD, Elaine. &lt;a href=&quot;https://www.fabermusic.com/news/elaine-goulds-behind-bars-is-a-worldwide-hit-567&quot;&gt;&lt;em&gt;Behind Bars&lt;/em&gt;&lt;/a&gt;: the Definitive Guide to Music Notation. Londres: Faber Music, 2011.&lt;/li&gt;
@@ -74,7 +272,7 @@
   &lt;li&gt;&lt;a href=&quot;https://www.mpa.org/wp-content/uploads/2018/06/standard-practice-engraving.pdf&quot;&gt;Standard Music Notation Practice&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Duas referências indicadas pelo IMSLP:&lt;/p&gt;
+&lt;p&gt;O site colaborativo IMSLP disponibiliza duas referências:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -97,16 +295,15 @@
 &lt;p&gt;Já a edição portuguesa abaixo, traduzida do espanhol, apresenta as regras de grafia entremeadas a outros tópicos de teoria musical.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;ZAMACOIS, Joaquín. Teoria da Música. Lisboa: Edições 70, 2009.&lt;/li&gt;
+  &lt;li&gt;ZAMACOIS, Joaquín. &lt;a href=&quot;https://www.amazon.com.br/Teoria-M%C3%BAsica-Joaqu%C3%ADn-Zamacois/dp/9724413624&quot;&gt;Teoria da Música&lt;/a&gt;. Lisboa: Edições 70, 2009.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;sites-e-comunidades-virtuais&quot;&gt;Sites e comunidades virtuais:&lt;/h2&gt;
+&lt;h3 id=&quot;sites-e-comunidades-virtuais&quot;&gt;Sites e comunidades virtuais:&lt;/h3&gt;
 &lt;p&gt;&lt;/p&gt;
 
-&lt;p&gt;O grupo no Facebook &lt;a href=&quot;https://www.facebook.com/groups/musicengravingtips&quot;&gt;Music Engraving Tips&lt;/a&gt; é um excelente espaço de convivência e aprendizagem colaborativa. Participam editores profissionais de vários lugares do mundo, e as questões e respostas são de alto nível. Há também um &lt;a href=&quot;http://musicengravingtips.com&quot;&gt;site&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;O grupo no Facebook &lt;a href=&quot;https://www.facebook.com/groups/musicengravingtips&quot;&gt;Music Engraving Tips&lt;/a&gt; é um excelente espaço de convivência e aprendizagem colaborativa. Participam nele editores profissionais de vários lugares do mundo, e as questões e respostas são de alto nível. Há também um site, de mesmo nome: &lt;a href=&quot;http://musicengravingtips.com&quot;&gt;musicengravingtips.com&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;O site IMSLP também disponibiliza algumas regras básicas para aprimorar partituras: 
-&lt;a href=&quot;https://imslp.org/wiki/IMSLP:Typesetting_Guidelines&quot;&gt;Typesetting Guidelines&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;O repositório IMSLP também recomenda, a quem intenciona contribuir com suas próprias composições, arranjos ou transcrições, algumas regras básicas: &lt;a href=&quot;https://imslp.org/wiki/IMSLP:Typesetting_Guidelines&quot;&gt;Typesetting Guidelines&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;sugestões&quot;&gt;Sugestões?&lt;/h3&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -132,7 +329,7 @@
       
 
       
-        <summary type="html">As boas práticas de escrita musical devem ser conhecidas pelos estudantes universitários, para que as partituras que venham a produzir sejam de leitura mais fácil, menos ambíguas e respeitando as convenções estabelecidas nas edições profissionais.</summary>
+        <summary type="html">As boas práticas de escrita musical devem ser conhecidas pelos estudantes universitários de música, para que as partituras que venham a produzir sigam as regras da grafia musical vigente.</summary>
       
 
       

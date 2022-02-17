@@ -21,15 +21,15 @@ subclass: 'post'
 
 Tão importante quanto reconhecer os nomes das notas na pauta é saber localizá-las em um instrumento musical, como o piano e o violão.
 
-O site [*ToneSavvy*](https://tonesavvy.com) oferece a oportunidade de um treinamento da associação entre a localização da nota na pauta e a posição no instrumento necessária para produzir o mesmo som, de forma semelhante à notação da disposição corporal.
+O site [*ToneSavvy*] oferece a oportunidade de um treinamento da associação entre a localização da nota na pauta e a posição no instrumento necessária para produzir o mesmo som, de forma semelhante à chamada *notação da disposição corporal* -- vide as tablaturas para instrumentos como alaúde, guitarra, flauta-doce e teclado.
 
-Por exemplo, a posição do Ab4 no teclado do piano:
+Veja, no exemplo, o reconhecimento da posição do Ab4 no teclado do piano:
 
 <img src="assets/tonesavvy-piano.png" alt="snapshot" width="60%">
 
-A sugestão é praticar o reconhecimento em ao menos um instrumento harmônico (piano ou violão), independentemente de qual seja o instrumento que se prefere tocar. Lembre-se de registrar *score* e tempo, para acompanhar seu desenvolvimento.
+A sugestão é praticar a atividade em ao menos um instrumento harmônico (piano ou violão), independentemente de qual seja o instrumento que se prefere tocar. Como atividade auto-instrucional, Lembre-se de registrar o *score* e o tempo, para monitorar seu próprio desenvolvimento.
 
-Além de piano e violão, o site oferece ainda um exercício para treinar a posição das notas em instrumentos de cordas friccionadas (violino, viola, violoncelo e contrabaixo).
+Além de piano e violão, o site oferece ainda um exercício para treinar a posição das notas em instrumentos de cordas friccionadas -- violino, viola, violoncelo e contrabaixo.
 
 **Clique no instrumento desejado para acessar o exercício**:
 

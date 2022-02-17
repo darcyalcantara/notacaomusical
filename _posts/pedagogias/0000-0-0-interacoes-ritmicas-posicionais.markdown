@@ -10,9 +10,17 @@ class: post-template
 subclass: 'post'
 ---
 
-Uma abordagem funcional (ou posicional) para o ritmo reflete os estudos cognitivos mais recentes sobre a percepção temporal, pois analisa o ritmo métrico a partir da função que cada evento desempenha, de maneira similar à análise harmônica funcional (IIm-V7-I7M, etc.)
+Uma abordagem funcional ou posicional para a percepção de ritmo estabelece como conceitos essenciais a pulsação e as posições dos ataques dos sons no tempo.
 
-Dentre os conceitos essenciais, encontram-se as a pulsação e as posições dos ataques dos sons no tempo. O "sabor" rítmico de cada som é definido, não pelas durações de tempo (mais longas ou curtas), mas sim pelas **posições dos ataques em relação à pulsação**.
+Nesta ótica, o *sabor* rítmico de cada som é definido, não pelas durações de tempo (mais longas ou curtas), mas sim pelas *posições dos ataques em relação à pulsação*.
+
+Os estudos cognitivos mais recentes sobre a percepção temporal apontam nesta direção de pensamento e tendem a repercutir, na análise musical, na valorização da função que cada evento desempenha no contexto métrico.
+
+Uma analogia com o espaço tonal pode deixar mais clara esta ideia. Os conceitos de *tempo* e *contratempo* são exemplos de atributos de eventos sonoros que se iniciam na cabeça do tempo e no espaço intermediário entre dois tempos, respectivamente, independentemente de suas durações, andamento, unidade de tempo na partitura, etc. De maneira análoga, *tônica* e *dominante* são utilizados para designar as funções tonais desempenhados pelo 1º e 5º graus de uma escala, a despeito das tonalidades em que se encontram.
+
+analisa o ritmo métrico a partir da, de maneira similar à análise harmônica funcional (IIm-V7-I7M, etc.)
+
+Dentre os conceitos essenciais, encontram-se as 
 
 Você experimentará [neste módulo do Chrome Music Lab](https://musiclab.chromeexperiments.com/Rhythm) uma maneira lúdica de interagir com o tempo musical que reflete esta abordagem. Por trás da aparente simplicidade, o módulo "Ritmo", no Chrome Music Lab/Google, promove uma interação musical pedagogicamente refinada, por se basear na intuição rítmica, materializando as posições no tempo (no caso, tempos e contratempos), e não as durações.
 

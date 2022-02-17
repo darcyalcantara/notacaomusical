@@ -1,9 +1,9 @@
 ---
 layout: post
 current: post
-cover: assets/sarah-glover-national-anthem.jpeg
+cover: assets/sheet-music.jpg
 navigation: True
-title: "Reconhecer os graus da escala"
+title: "Reconhecimento das notas na pauta musical"
 date: 2022-02-05 16:49:00 -0300
 tags: [Jogos e Exercícios]
 class: post-template
@@ -19,37 +19,20 @@ subclass: 'post'
 	} 
 </style>
 
-Não há solfejo sem análise musical. A leitura cantada à primeira vista, de fato, se inicia com o reconhecimento da estrutura musical subjacente aos símbolos representados na pauta.
+Para realizar atividades sobre a pauta musical, é fundamental desenvolver uma leitura rápida e precisa dos nomes das notas musicais em várias claves.
 
-Em um contexto tonal, a informação melódica mais importante é a função que cada nota desempenha no contexto da escala; por isto, é importante treinar seu reconhecimento ágil e com acurácia.
+Hoje em dia, existem inúmeros aplicativos e sites que ajudam a memorizar a posição das notas na pauta. Um destes recursos é o site *Tone Savvy*, que permite realizar um treinamento altamente customizável, o que o torna atrativo a todos, independentemente de sua familiaridade com a pauta musical.
 
-O exercício a seguir prepara para o a análise melódica e, consequentemente, para a leitura cantada à primeira vista. Lembre-se, antes de iniciar, de selecionar a opção *moveable-do* (dó móvel) no campo *note names* (nomes das notas), conforme a figura abaixo.
+Algumas das opções de customização:
 
-<img src="assets/note-names-dó-móvel-config.png" alt="snapshot" width="85%">
+- claves diversas (sol, fá e dó em várias posições);
+- âmbito melódico (extensão da nota mais grave à mais aguda);
+- nomenclatura alfabética (C, D, E...), silábica (dó, ré, mi...), alemã (H - si natural, B - si bemol);
+- sílabas de solfejo em dó fixo ou dó móvel;
+- notas apenas nas linhas, ou apenas nos espaços;
+- responder com o mouse, teclado ou controlador MIDI.
 
-Para o solfejo, tão importante quanto identificar os nomes das notas musicais nas claves e reconhecer os acidentes que definem as tonalidades e modos é associar as notas musicais aos números correspondentes aos lugares ou posições que ocupam na escala, de 1 a 7. Tais números são denominados graus da escala, e recebem nomes especiais:
-
-1. tônica: *dó*,
-2. sobretônica: *ré*,
-3. mediante: *mi*,
-4. subdominante: *fá*,
-5. dominante: *sol*,
-6. submediante: *lá* e
-7. sensível: *ti*.
-
-No exercício, você visualizará uma pauta musical, com uma armadura de clave e uma nota musical. Primeiramente, você deverá reconhecer a tonalidade maior representada pela armadura. Em seguida, deverá indicar a função tonal que a nota musical representada desempenha no contexto daquela escala.
-
-Veja, no exemplo, como identificar os graus na tonalidade de D maior:
-
-1. tônica -- canta-se: *dó* para a nota: D (Ré);
-2. sobretônica -- canta-se: *ré* para a nota: E (Mi);
-3. mediante -- canta-se: *mi* para a nota: F# (Fá sustenido);
-4. subdominante -- canta-se: *fá* para a nota: G (Sol);
-5. dominante -- canta-se: *sol* para a nota: A (Lá);
-6. submediante -- canta-se: *lá* para a nota: B (Si) e
-7. sensível -- canta-se: *ti* para a nota: C# (Dó sustenido).
-
-Sugere-se praticar tanto no sistema com claves de sol e fá (*grand staff*), quanto na clave de dó na terceira linha (clave de viola, ou de contralto). Vale ainda executar a escala maior no teclado (instrumento físico ou virtual), cantando junto os graus: dó, ré, mi, etc. (independentemente da tonalidade) e também com números: 1, 2, 3, etc.
+O site oferece também um medidor de acertos e de velocidade nas respostas, o que permite diagnosticar seu desempenho com mais precisão.
 
 **Clique na clave desejada**:
 
@@ -91,15 +74,13 @@ Sugere-se praticar tanto no sistema com claves de sol e fá (*grand staff*), qua
     </div>
 </div>
 
-### Notas em movimento
+### Desenvolvendo a habilidade de leitura à primeira vista
 <p></p>
-Após praticar bastante, prossiga o reconhecimento dos graus ou funções tonais desempenhadas pelas notas que compõem a escala maior, nas diversas claves existentes.
+Já no jogo seguinte, você também deverá indicar os nomes das notas musicais, mas elas se apresentarão em movimento.
 
-Da mesma maneira que no tópico anterior, ao invés de utilizarmos os nomes dos graus (tônica, sobretônica, mediante, etc.), nós utilizaremos as sílabas de solfejo móvel (respectivamente, dó, re, mi, etc.) -- como vimos, outra maneira de nomeá-las é por meio de números: 1, 2, 3, etc.
+Esta atividade colabora para o desenvolvimento da leitura à primeira vista, por simular os rápidos movimentos oculares necessários para antecipar os próximos sons.
 
-Não esqueça de configurar o exercício conforme a figura ilustrativa em anexo. Controle a velocidade de movimento das notas por meio do parâmetro *speed*.
-
-<img src="assets/notas-em-movimento-config.png" alt="snapshot" width="85%">
+É possível ajustar a velocidade, bem como o âmbito melódico -- para começar, recomendamos do C2 ao C6, na convenção internacional, considerando o C4 como Dó Central (veja mais sobre isso logo abaixo). Monitore o escore para avaliar seu progresso.
 
 **Clique na clave desejada**:
 
@@ -141,4 +122,4 @@ Não esqueça de configurar o exercício conforme a figura ilustrativa em anexo.
     </div>
 </div>
 
-Bons estudos!
+>**Você sabia?** Como dissemos acima, na chamada *notação científica de alturas*, o C4 corresponde ao Dó Central, ou Dó Médio, por estar localizado bem na região central do piano. Ao contrário desta forma de nomear as oitavas, internacionalmente utilizada, convencionou-se na literatura produzida no Brasil o uso do Dó3 como Dó Central. Além disto, na nomenclatura internacional, o teclado começa na oitava 0 ("zero") -- ... A#0, B0, C1, C#1 ... -- enquanto, na segunda, se inicia na oitava -2 e passamos da oitava -1 diretamente a 1, sem o 0 ("zero") -- ... A#-1, B-1, C1, C#1 ... Como consequência, é de se esperar certa confusão entre os iniciantes, em especial pelo fato dos softwares comumente utilizados adotarem a nomenclatura internacional.

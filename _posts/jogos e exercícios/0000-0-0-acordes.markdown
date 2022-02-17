@@ -17,7 +17,7 @@ subclass: 'post'
         padding: 25px;
         text-align: center;
 	} 
-</style> 
+</style>
 
 O site *ToneSavvy* proporciona um jogo específico para a identificação de tríades e tétrades, em várias claves e tonalidades.
 
@@ -70,7 +70,7 @@ A configuração padrão define apenas tríades maiores, menores, aumentadas e d
 
 Agora, o jogo é no sentido contrário: é a vez de construir os escravos, selecionando as notas que, combinadas, formarão tríades ou tétradas.
 
-Para começar, sugere-se deixar as opções que já aparecem no site como padrão, e ir aos poucos dificultando as coisas.
+Para começar, sugere-se deixar as opções que já aparecem no site como padrão, e ir aos poucos acrescentando desafios.
 
 Escolha uma clave e **experimente**:
 

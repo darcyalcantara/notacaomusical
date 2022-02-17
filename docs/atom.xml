@@ -10,8 +10,15 @@
       <item>
         <title>Visualização circular do ritmo</title>
         
-          <description>&lt;p&gt;Uma demanda dos etnomusicólogos (especialistas que estudam a música com ênfase nas relações entre os sons e os aspectos culturais) é o registro gráfico dos elementos musicais.&lt;/p&gt;
+          <description>&lt;p&gt;Uma demanda de etnomusicólogos&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; que estudam tradições musicais não ocidentais é o registro gráfico de sons e ritmos que diferem da métrica e das escalas usuais na música de concerto de matriz europeia, que pode ser necessário para algumas formas de análise.&lt;/p&gt;
 
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Especialistas que estudam a música com ênfase nas relações entre os sons e os aspectos culturais. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
 </description>
         
         <pubDate>Mon, 07 Feb 2022 16:49:00 -0300</pubDate>
@@ -38,8 +45,8 @@
         
         <pubDate>Mon, 07 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/tonesavvy-instrumento</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/tonesavvy-instrumento</guid>
+        http://0.0.0.0:4000/notas-no-instrumento</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/notas-no-instrumento</guid>
       </item>
       
     
@@ -182,7 +189,7 @@
       <item>
         <title>Interações rítmicas funcionais ou posicionais</title>
         
-          <description>&lt;p&gt;Uma abordagem funcional (ou posicional) para o ritmo reflete os estudos cognitivos mais recentes sobre a percepção temporal, pois analisa o ritmo métrico a partir da função que cada evento desempenha, de maneira similar à análise harmônica funcional (IIm-V7-I7M, etc.)&lt;/p&gt;
+          <description>&lt;p&gt;Uma abordagem funcional ou posicional para a percepção de ritmo estabelece como conceitos essenciais a pulsação e as posições dos ataques dos sons no tempo.&lt;/p&gt;
 
 </description>
         
@@ -197,7 +204,7 @@
       <item>
         <title>Folhas de dicas ou referências rápidas</title>
         
-          <description>&lt;p&gt;Páginas em PDF que resumem alguns dos conceitos fundamentais da teoria musical por meio de diagramas, símbolos, imagens e textos.&lt;/p&gt;
+          <description>&lt;p&gt;Estas folhas de dicas, ou &lt;em&gt;cheat sheets&lt;/em&gt;, são materiais em PDF que resumem alguns dos conceitos fundamentais da teoria musical, por meio de diagramas, símbolos, imagens e textos.&lt;/p&gt;
 
 </description>
         
@@ -224,22 +231,22 @@
     
       
       <item>
-        <title>O lugar da repetição no estudo</title>
+        <title>&quot;Estudo para piano&quot;, de Tim Rescala</title>
         
-          <description>&lt;p&gt;O estudo musical, embora gratificante e prazeroso, se dá também por repetições e treinamentos exaustivos (aos ouvidos externos, por vezes intermináveis!), para se alcançar a proficiência, isto é, um desempenho de alto nível.&lt;/p&gt;
+          <description>&lt;p&gt;O estudo musical, embora gratificante e prazeroso, se dá também por repetições e treinamentos que podem ser exaustivos, a depender do objetivo pretendido.&lt;/p&gt;
 
 </description>
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/tim-rescala-estudo-para-piano</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/tim-rescala-estudo-para-piano</guid>
+        http://0.0.0.0:4000/tim-rescala</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/tim-rescala</guid>
       </item>
       
     
       
       <item>
-        <title>Expressividade e fraseado musical</title>
+        <title>Expressividade musical</title>
         
           <description>&lt;p&gt;É importante equilibrar o estudo concentrado com os tempos de descontração. Melhor ainda se for com um mestre do humor, Rowan Atkinson, o Mr. Bean.&lt;/p&gt;
 
@@ -254,46 +261,31 @@
     
       
       <item>
+        <title>Dicionário de termos musicais (em inglês)</title>
+        
+          <description>&lt;p&gt;No campo da pedagogia da teoria e percepção musical, a literatura em língua inglesa é ampla e aprofundada. Além disso, o idioma é muito utilizado em eventos científicos no campo da cognição musical, que muito interessa aos professores de linguagem musical.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
+        <link>
+        http://0.0.0.0:4000/dicionario-termos-musicais</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/dicionario-termos-musicais</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Boas práticas de escrita musical</title>
         
-          <description>&lt;p&gt;As boas práticas de escrita musical devem ser conhecidas pelos estudantes universitários, para que as partituras que venham a produzir sejam de leitura mais fácil, menos ambíguas e respeitando as convenções estabelecidas nas edições profissionais.&lt;/p&gt;
+          <description>&lt;p&gt;As boas práticas de escrita musical devem ser conhecidas pelos estudantes universitários de música, para que as partituras que venham a produzir sigam as regras da grafia musical vigente.&lt;/p&gt;
 
 </description>
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/boas-praticas-de-escrita</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/boas-praticas-de-escrita</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Reconhecimento das notas na pauta musical</title>
-        
-          <description>&lt;p&gt;Para realizar atividades sobre a pauta musical, é fundamental desenvolver uma leitura rápida e precisa dos nomes das notas musicais em várias claves.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
-        <link>
-        http://0.0.0.0:4000/tonesavvy-pauta</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/tonesavvy-pauta</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Formação das escalas</title>
-        
-          <description>&lt;p&gt;O site ToneSavvy apresenta um exercício chamado &lt;em&gt;Scale Building&lt;/em&gt; (formação das escalas).&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
-        <link>
-        http://0.0.0.0:4000/tonesavvy-escala</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/tonesavvy-escala</guid>
+        http://0.0.0.0:4000/boas-praticas</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/boas-praticas</guid>
       </item>
       
     
@@ -301,7 +293,14 @@
       <item>
         <title>Reconhecer os graus da escala</title>
         
-          <description>&lt;p&gt;Não há solfejo sem análise. O solfejo, de fato, se inicia com o reconhecimento da estrutura musical subjacente aos símbolos representados na pauta.&lt;/p&gt;
+          <description>&lt;style&gt; 
+	.boxes{ 
+	    width: 14%; 
+	    float: left;
+        padding: 25px;
+        text-align: center;
+	} 
+&lt;/style&gt;
 
 </description>
         
@@ -314,9 +313,38 @@
     
       
       <item>
+        <title>Reconhecimento das notas na pauta musical</title>
+        
+          <description>&lt;style&gt; 
+	.boxes{ 
+	    width: 14%; 
+	    float: left;
+        padding: 25px;
+        text-align: center;
+	} 
+&lt;/style&gt;
+
+</description>
+        
+        <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
+        <link>
+        http://0.0.0.0:4000/notas-na-pauta</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/notas-na-pauta</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Intervalos</title>
         
-          <description>&lt;p&gt;As relações musicais estabelecidas entre duas ou mais melodias executadas simultaneamente ficam mais fáceis de serem estudadas a partir da teoria sobre intervalos.&lt;/p&gt;
+          <description>&lt;style&gt; 
+	.boxes{ 
+	    width: 14%; 
+	    float: left;
+        padding: 25px;
+        text-align: center;
+	} 
+&lt;/style&gt;
 
 </description>
         
@@ -331,7 +359,7 @@
       <item>
         <title>Reconhecimento auditivo da função tonal dos graus da escala</title>
         
-          <description>&lt;p&gt;No importante exercício a seguir, iniciamos o treinamento auditivo referente à percepção de alturas. Desejamos praticar o reconhecimento da função tonal de uma nota musical, no contexto de uma escala. Este exercício traz inúmeros benefícios: para além do ditado melódico (e harmônico), contribui para o solfejo.&lt;/p&gt;
+          <description>&lt;p&gt;No importante exercício a seguir, iniciamos o treinamento auditivo referente à percepção de alturas, com ênfase no contexto musical. Desejamos praticar o reconhecimento da função tonal de uma nota musical no contexto de uma escala.&lt;/p&gt;
 
 </description>
         
@@ -344,16 +372,38 @@
     
       
       <item>
-        <title>Digitação das escalas no teclado</title>
+        <title>Formação das escalas</title>
         
-          <description>&lt;p&gt;Independentemente do instrumento que você toca, é importante conhecer razoavelmente a estrutura do piano, e ser capaz de tocar melodias e acordes simples.&lt;/p&gt;
+          <description>&lt;style&gt; 
+	.boxes{ 
+	    width: 14%; 
+	    float: left;
+        padding: 25px;
+        text-align: center;
+	} 
+&lt;/style&gt;
 
 </description>
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/escalas-no-piano</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/escalas-no-piano</guid>
+        http://0.0.0.0:4000/formacao-das-escalas</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/formacao-das-escalas</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Digitação das escalas no teclado</title>
+        
+          <description>&lt;p&gt;Independentemente do instrumento que você toca, é importante conhecer razoavelmente a estrutura do teclado do piano, e ser capaz de tocar melodias e acordes simples.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
+        <link>
+        http://0.0.0.0:4000/escalas-no-teclado</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/escalas-no-teclado</guid>
       </item>
       
     
