@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="http://0.0.0.0:4000/notacaomusical/tag/pedagogias/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://0.0.0.0:4000/notacaomusical/" rel="alternate" type="text/html" />
-  <updated>2022-02-17T20:12:15-03:00</updated>
+  <updated>2022-02-18T15:08:09-03:00</updated>
   <id>http://0.0.0.0:4000/notacaomusical/tag/pedagogias/feed.xml</id>
 
   
@@ -51,24 +51,31 @@
       <id>http://0.0.0.0:4000/notacaomusical/takadimi</id>
       <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/takadimi">&lt;p&gt;Além de &lt;em&gt;O Passo&lt;/em&gt;, outro sistema de solmização rítmica muito utilizado em todo o mundo é &lt;strong&gt;Takadimi&lt;/strong&gt;, desenvolvido ao longo da década de 1990 por Richard Hoffman, William Pelto e John W. White.&lt;/p&gt;
 
-&lt;p&gt;As raízes do método Takadimi estão nas vocalizações rítmicas indianas, mas a metodologia foi desenvolvida e experimentada no contexto do ensino musical em universidades norte-americanas.&lt;/p&gt;
+&lt;p&gt;As raízes do método Takadimi estão nas vocalizações rítmicas indianas, mas a metodologia foi desenvolvida e experimentada no contexto do ensino musical em universidades norte-americanas. A abordagem tamém recupera criticamente outros sistemas de silabação rítmica, como os criados por Zoltán Kodály Edwin Gordon.&lt;/p&gt;
 
-&lt;p&gt;Seu diferencial em relação a outras pedagogias rítmicas é o fato de que, assim como em &lt;em&gt;O Passo&lt;/em&gt;, as sílabas representam as posições dos ataques dos sons em relação à pulsação. É considerada uma solmização rítmica funcional: tem como objetivo chamar a atenção para a função rítmica que os sons desempenham no contexto musical em que estão inseridos. Neste sentido, é similar ao solfejo relativo ou funcional, em que denominamos “dó” o primeiro grau da escala maior, “ré” o segundo, “ti” o sétimo, etc., independentemente da tonalidade, acidentes, etc.&lt;/p&gt;
+&lt;p&gt;Seu diferencial em relação a outras pedagogias rítmicas é o fato de que, assim como em &lt;em&gt;O Passo&lt;/em&gt;, as sílabas representam as posições dos ataques dos sons em relação à pulsação. Por esta razão, é considerada uma solmização rítmica funcional: tem como objetivo chamar a atenção para a &lt;a href=&quot;interacoes-ritmicas-posicionais.html&quot;&gt;função rítmica que os sons desempenham&lt;/a&gt; no contexto musical em que estão inseridos.&lt;/p&gt;
+
+&lt;p&gt;Neste sentido, é similar ao solfejo melódico relativo ou funcional, em que denominamos &lt;em&gt;dó&lt;/em&gt; o primeiro grau da escala maior, &lt;em&gt;ré&lt;/em&gt; o segundo, &lt;em&gt;ti&lt;/em&gt; o sétimo, etc., independentemente da tonalidade, acidentes, etc.&lt;/p&gt;
+
+&lt;p&gt;A sílaba &lt;em&gt;ta&lt;/em&gt; representa o som cujo ataque coincide com a pulsação primária (cabeça do tempo), independentemente da duração da nota, ou da unidade de tempo; já a sílaba &lt;em&gt;di&lt;/em&gt; corresponde ao contratempo, também de maneira independente do compasso, unidade de tempo. Veja:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/takadimi-1.png&quot; alt=&quot;snapshot&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;A sílaba “ta” representa o som cujo ataque coincide com a pulsação primária (cabeça do tempo), independentemente da duração da nota, ou da unidade de tempo; já a sílaba “di” corresponde ao contratempo, também de maneira independente do compasso, unidade de tempo…&lt;/p&gt;
+&lt;p&gt;O método Takadimi traz muitas sílabas para memorizar, e, neste momento, sugerimos inicialmente focalizar apenas naquelas sílabas que representam as estruturas rítmicas que estejam sendo praticadas, começando com &lt;em&gt;ta&lt;/em&gt; e &lt;em&gt;di&lt;/em&gt; e, posteriormente acrescentando &lt;em&gt;ka&lt;/em&gt; e &lt;em&gt;mi&lt;/em&gt; (para compassos simples) e &lt;em&gt;ki&lt;/em&gt; e &lt;em&gt;da&lt;/em&gt; (para compassos compostos).&lt;/p&gt;
 
-&lt;p&gt;O método Takadimi traz muitas sílabas para memorizar, e, neste momento, vamos focalizar apenas naquelas sílabas que representam as estruturas rítmicas que praticamos até aqui: “ta” e “di” (outras sílabas serão trabalhadas no próximo semestre).&lt;/p&gt;
+&lt;p&gt;Experimente:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/takadimi-2.png&quot; alt=&quot;snapshot&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Abaixo, vocês encontrarão referências úteis para aprender este sistema, que será retomado no próximo semestre:&lt;/p&gt;
+&lt;h3 id=&quot;recursos-para-aprender-takadimi&quot;&gt;Recursos para aprender Takadimi&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Abaixo, você encontrará referências úteis para aprender este sistema:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;o &lt;a href=&quot;http://www.takadimi.net/documents/TakadimiArticle.pdf&quot;&gt;artigo&lt;/a&gt; que descreve suas bases musicais e pedagógicas, publicado no Journal of Music Theory Pedagogy (JMTP);&lt;/li&gt;
-  &lt;li&gt;o &lt;a href=&quot;http://www.takadimi.net&quot;&gt;site oficial&lt;/a&gt; e&lt;/li&gt;
-  &lt;li&gt;um &lt;a href=&quot;http://www.takadimi.net/documents/Takadimi%20short%20guide%20for%20Web.pdf&quot;&gt;guia resumido&lt;/a&gt; (comece por aqui!).&lt;/li&gt;
+  &lt;li&gt;o &lt;a href=&quot;http://www.takadimi.net&quot;&gt;site oficial&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;o &lt;a href=&quot;http://www.takadimi.net/documents/TakadimiArticle.pdf&quot;&gt;artigo&lt;/a&gt; que descreve suas bases musicais e pedagógicas, publicado no Journal of Music Theory Pedagogy (&lt;a href=&quot;JMTP.html&quot;&gt;JMTP&lt;/a&gt;) e&lt;/li&gt;
+  &lt;li&gt;um &lt;a href=&quot;http://www.takadimi.net/documents/Takadimi%20short%20guide%20for%20Web.pdf&quot;&gt;guia resumido&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;No YouTube, há também inúmeros vídeos com demonstrações e tutoriais, em vários idiomas.&lt;/p&gt;
@@ -107,22 +114,33 @@
       <published>2022-02-05T16:49:00-03:00</published>
       <updated>2022-02-05T16:49:00-03:00</updated>
       <id>http://0.0.0.0:4000/notacaomusical/percepcao-e-musica-popular</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/percepcao-e-musica-popular">&lt;p&gt;Muitos estabelecimentos regulares de ensino de música empregam metodologias que caracterizam as chamadas &lt;em&gt;práticas formais de aprendizagem&lt;/em&gt;.&lt;/p&gt;
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/percepcao-e-musica-popular">&lt;p&gt;Muitos estabelecimentos regulares de ensino de música empregam metodologias que podemos denominar &lt;em&gt;práticas formais de aprendizagem&lt;/em&gt;, na ótica da sociologia da educação musical de Lucy Green.&lt;/p&gt;
 
-&lt;p&gt;Estas maneiras de aprender requerem o conhecimento prévio ou concomitante da notação musical tradicional, envolvem a apreciação e a interpretação de peças do repertório ocidental clássico (sobretudo do Barroco, Classicismo e Romantismo), e se dão por meio de atividades individuais, altamente especializadas, e voltadas historicamente à formação de concertistas.&lt;/p&gt;
+&lt;p&gt;Comumente, estas maneiras de aprender requerem o conhecimento prévio ou concomitante da notação musical tradicional, envolvem a apreciação e a interpretação de peças do repertório ocidental clássico (sobretudo do Barroco, Classicismo e Romantismo), e se dão por meio de atividades individuais, altamente especializadas, e voltadas historicamente à formação de concertistas.&lt;/p&gt;
 
-&lt;p&gt;No século XX, difundiram-se outras maneiras de se aprender música, sobretudo a partir da profusão de música midiática, da indústria cultural, e das novas maneiras de se relacionar com o conteúdo sonoro, por meio de gravações e instrumentos eletroacústicos. Nas &lt;em&gt;práticas informais de aprendizagem&lt;/em&gt;, aprende-se em grupo, por meio da formação de bandas ou grupos musicais, com repertório do próprio interesse, e sem necessariamente a mediação dos símbolos da partitura convencional.&lt;/p&gt;
+&lt;p&gt;No século XX, em contraste com esta tradição de matriz europeia, difundiram-se outras maneiras de se aprender música, sobretudo a partir da profusão de música midiática, da indústria cultural, e das novas maneiras de se relacionar com o conteúdo sonoro, por meio de gravações e instrumentos eletroacústicos, em especial nas Américas (em tradições como o samba e jazz, por exemplo).&lt;/p&gt;
 
-&lt;p&gt;Tais terminologias, &lt;em&gt;aprendizagens formais&lt;/em&gt; e &lt;em&gt;informais&lt;/em&gt;, são extraídas da sociologia da educação musical desenvolvida por Lucy Green, professora e pesquisadora britânica, e não trazem em si qualquer atribuição de valor positivo ou negativo, ou mesmo hierarquia de complexidade.&lt;/p&gt;
+&lt;p&gt;Nas chamadas &lt;em&gt;práticas informais de aprendizagem&lt;/em&gt;, costuma-se aprender em grupo, por meio da formação de bandas ou grupos musicais, com repertório do próprio interesse dos participantes, e sem necessariamente a mediação dos símbolos da partitura convencional.&lt;/p&gt;
+
+&lt;p&gt;Como dissemos no começo, tais terminologias – &lt;em&gt;aprendizagens formais&lt;/em&gt; e &lt;em&gt;informais&lt;/em&gt; – são extraídas da sociologia da educação musical desenvolvida por Lucy Green, professora e pesquisadora britânica, e não trazem em si qualquer atribuição de valor positivo ou negativo, ou mesmo hierarquia de complexidade.&lt;/p&gt;
 
 &lt;p&gt;Você já deve ter reparado que, na educação musical formal, em universidades e conservatórios, predominam as práticas formais de aprendizagem. No entanto, há um número cada vez maior de instituições no mundo que buscam contemplar também estratégias informais, construindo maneira alternativas para a aprendizagem musical.&lt;/p&gt;
 
-&lt;p&gt;No primeiro link, você poderá conhecer um pouco do projeto &lt;a href=&quot;https://www.musicalfutures.org&quot;&gt;Musical Futures&lt;/a&gt;, que teve a consultoria de Green, e levou a escolas britânicas a proposta do ensino de música a partir da música popular e das práticas informais.&lt;/p&gt;
+&lt;h3 id=&quot;exemplos&quot;&gt;Exemplos&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Como exemplos destas possibilidades didáticas, vale conhecer um pouco de duas iniciativas:&lt;/p&gt;
 
-&lt;p&gt;Já no segundo link, você conhecerá um pouco da &lt;a href=&quot;http://bituca.org.br&quot;&gt;Bituca Universidade de Música Popular&lt;/a&gt;, uma escola profissionalizante de música popular, livre e gratuita, criada no interior do estado de Minas Gerais, em 2004.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;o &lt;a href=&quot;https://www.musicalfutures.org&quot;&gt;Musical Futures&lt;/a&gt;, projeto que teve a consultoria de Green, e levou a escolas britânicas a proposta do ensino de música a partir da música popular e das práticas informais; e&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;a &lt;a href=&quot;http://bituca.org.br&quot;&gt;Bituca Universidade de Música Popular&lt;/a&gt;, uma escola profissionalizante de música popular, livre e gratuita, criada em 2004 no interior do estado de Minas Gerais.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;💡 Em nossas disciplinas, temos adotado um caminho didático que busca conjugar contribuições de práticas formais e informais de aprendizagem musical, associando práticas advindas das tradições ocidentais clássica e popular, bem como metodologias estabelecidas em ambos os campos.&lt;/p&gt;
+  &lt;p&gt;💡 Em nossas disciplinas de Linguagem Musical na Ufes, pretendemos adotar um caminho didático que busca conjugar contribuições de práticas formais e informais de aprendizagem musical, associando práticas advindas das tradições ocidentais clássica e popular, bem como metodologias estabelecidas em ambos os campos.&lt;/p&gt;
 &lt;/blockquote&gt;</content>
 
       
@@ -144,7 +162,7 @@
       
 
       
-        <summary type="html">Muitos estabelecimentos regulares de ensino de música empregam metodologias que caracterizam as chamadas práticas formais de aprendizagem.</summary>
+        <summary type="html">Muitos estabelecimentos regulares de ensino de música empregam metodologias que podemos denominar práticas formais de aprendizagem, na ótica da sociologia da educação musical de Lucy Green.</summary>
       
 
       
@@ -157,15 +175,18 @@
       <published>2022-02-05T16:49:00-03:00</published>
       <updated>2022-02-05T16:49:00-03:00</updated>
       <id>http://0.0.0.0:4000/notacaomusical/o-passo</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/o-passo">&lt;p&gt;&lt;em&gt;O Passo&lt;/em&gt; é um método de educação musical criado em 1996. Difundido em vários países, o método propõe uma abordagem democrática e inclusiva para a aprendizagem musical.&lt;/p&gt;
+      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/o-passo">&lt;p&gt;&lt;em&gt;O Passo&lt;/em&gt; é um método de educação musical criado em 1996 e, desde então, difundido em vários países. O método propõe uma abordagem democrática e inclusiva para a aprendizagem musical.&lt;/p&gt;
 
-&lt;p&gt;Assista a entrevista com o criador do método, Lucas Ciavatta, que traz depoimentos de músicos e pesquisadores.&lt;/p&gt;
+&lt;p&gt;Assista a entrevista com seu criador, o professor Lucas Ciavatta, que traz ainda depoimentos de vários músicos e pesquisadores.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://www.youtube.com/embed/H1nVzbHtRAw&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;O &lt;a href=&quot;https://www.institutodopasso.org&quot;&gt;site&lt;/a&gt; disponibiliza textos, vídeos e exercícios. Há também recursos complementares em um &lt;a href=&quot;https://www.youtube.com/user/opasso&quot;&gt;canal no YouTube&lt;/a&gt;. Para quem desejar se aprofundar, são oferecidos cursos e oficinas, inclusive online.&lt;/p&gt;
+&lt;p&gt;O &lt;a href=&quot;https://www.institutodopasso.org&quot;&gt;site oficial&lt;/a&gt; disponibiliza textos, vídeos e exercícios. Há também recursos complementares em um &lt;a href=&quot;https://www.youtube.com/user/opasso&quot;&gt;canal no YouTube&lt;/a&gt;. Para quem desejar se aprofundar, são oferecidos cursos e oficinas, inclusive online.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Fonte da imagem: site de O Passo.&lt;/em&gt;&lt;/p&gt;</content>
+&lt;p&gt;Vale conhecer!&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;Fonte da imagem de capa: &lt;a href=&quot;https://www.institutodopasso.org&quot;&gt;site&lt;/a&gt; de O Passo.&lt;/em&gt;&lt;/p&gt;</content>
 
       
       
@@ -186,7 +207,7 @@
       
 
       
-        <summary type="html">O Passo é um método de educação musical criado em 1996. Difundido em vários países, o método propõe uma abordagem democrática e inclusiva para a aprendizagem musical.</summary>
+        <summary type="html">O Passo é um método de educação musical criado em 1996 e, desde então, difundido em vários países. O método propõe uma abordagem democrática e inclusiva para a aprendizagem musical.</summary>
       
 
       
@@ -201,23 +222,28 @@
       <id>http://0.0.0.0:4000/notacaomusical/interacoes-ritmicas-posicionais</id>
       <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/interacoes-ritmicas-posicionais">&lt;p&gt;Uma abordagem funcional ou posicional para a percepção de ritmo estabelece como conceitos essenciais a pulsação e as posições dos ataques dos sons no tempo.&lt;/p&gt;
 
-&lt;p&gt;Nesta ótica, o &lt;em&gt;sabor&lt;/em&gt; rítmico de cada som é definido, não pelas durações de tempo (mais longas ou curtas), mas sim pelas &lt;em&gt;posições dos ataques em relação à pulsação&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Por esta ótica, o &lt;em&gt;sabor&lt;/em&gt; rítmico de cada som é primariamente definido, não pelas durações de tempo (mais longas ou curtas), mas sim pelas &lt;em&gt;posições dos ataques em relação à pulsação&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;Os estudos cognitivos mais recentes sobre a percepção temporal apontam nesta direção de pensamento e tendem a repercutir, na análise musical, na valorização da função que cada evento desempenha no contexto métrico.&lt;/p&gt;
+&lt;p&gt;Uma analogia com o espaço tonal pode deixar mais clara esta ideia. Os conceitos de &lt;em&gt;tempo&lt;/em&gt; e &lt;em&gt;contratempo&lt;/em&gt; são exemplos de atributos de eventos sonoros que se iniciam na cabeça do tempo e no espaço intermediário entre dois tempos, respectivamente, independentemente de suas durações, andamento, unidade de tempo na partitura, etc.&lt;/p&gt;
 
-&lt;p&gt;Uma analogia com o espaço tonal pode deixar mais clara esta ideia. Os conceitos de &lt;em&gt;tempo&lt;/em&gt; e &lt;em&gt;contratempo&lt;/em&gt; são exemplos de atributos de eventos sonoros que se iniciam na cabeça do tempo e no espaço intermediário entre dois tempos, respectivamente, independentemente de suas durações, andamento, unidade de tempo na partitura, etc. De maneira análoga, &lt;em&gt;tônica&lt;/em&gt; e &lt;em&gt;dominante&lt;/em&gt; são utilizados para designar as funções tonais desempenhados pelo 1º e 5º graus de uma escala, a despeito das tonalidades em que se encontram.&lt;/p&gt;
+&lt;p&gt;De maneira análoga, &lt;em&gt;tônica&lt;/em&gt; e &lt;em&gt;dominante&lt;/em&gt; são utilizados para designar as funções tonais desempenhados pelo 1º e 5º graus de uma escala, a despeito das tonalidades em que se encontram. E assim, a análise funcional do ritmo métrico se dá de maneira similar à análise harmônica funcional (IIm-V7-I7M, etc.).&lt;/p&gt;
 
-&lt;p&gt;analisa o ritmo métrico a partir da, de maneira similar à análise harmônica funcional (IIm-V7-I7M, etc.)&lt;/p&gt;
+&lt;p&gt;Os estudos cognitivos mais recentes sobre a percepção temporal apontam na direção desta abordagem e tendem a repercutir, na análise de obras complexas ou no ensino dos mais elementares conceitos musicais, como se vê no exercício proposto abaixo.&lt;/p&gt;
 
-&lt;p&gt;Dentre os conceitos essenciais, encontram-se as&lt;/p&gt;
+&lt;h3 id=&quot;chrome-music-lab&quot;&gt;Chrome Music Lab&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
 
-&lt;p&gt;Você experimentará &lt;a href=&quot;https://musiclab.chromeexperiments.com/Rhythm&quot;&gt;neste módulo do Chrome Music Lab&lt;/a&gt; uma maneira lúdica de interagir com o tempo musical que reflete esta abordagem. Por trás da aparente simplicidade, o módulo “Ritmo”, no Chrome Music Lab/Google, promove uma interação musical pedagogicamente refinada, por se basear na intuição rítmica, materializando as posições no tempo (no caso, tempos e contratempos), e não as durações.&lt;/p&gt;
+&lt;p&gt;Você experimentará &lt;a href=&quot;https://musiclab.chromeexperiments.com/Rhythm&quot;&gt;neste módulo do Chrome Music Lab&lt;/a&gt; uma maneira lúdica de interagir com o tempo musical que reflete esta abordagem. Por trás da aparente simplicidade, o módulo &lt;em&gt;Ritmo&lt;/em&gt;, no Chrome Music Lab/Google, promove uma interação musical pedagogicamente refinada, por se basear na intuição rítmica, materializando as posições no tempo (no caso, tempos e contratempos), e não as durações proporcionais dos valores representadas na partitura convencional.&lt;/p&gt;
 
 &lt;video width=&quot;65%&quot; controls=&quot;&quot;&gt;
   &lt;source src=&quot;assets/chrome-music-lab-ritmo.mov&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 
-&lt;p&gt;Esta forma de representação visual do conteúdo rítmico, aliás, já aparecia de maneira similar nos primeiros sequenciadores rítmicos, de bateria, as influentes “drum machines”, como se pode ver neste &lt;a href=&quot;https://www.youtube.com/watch?v=4d89S-jOsfY&quot;&gt;breve documentário&lt;/a&gt;.&lt;/p&gt;</content>
+&lt;p&gt;Esta forma de representação visual do conteúdo rítmico, aliás, já aparecia de maneira similar nos primeiros sequenciadores rítmicos, de bateria, as influentes “drum machines”, como se pode ver neste &lt;a href=&quot;https://www.youtube.com/watch?v=4d89S-jOsfY&quot;&gt;breve documentário&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Dica: Veja outros experimentos similares no &lt;a href=&quot;chrome-music-lab.html&quot;&gt;Chrome Music Lab&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;</content>
 
       
       
@@ -329,20 +355,20 @@
       <id>http://0.0.0.0:4000/notacaomusical/mao-guidoniana</id>
       <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/mao-guidoniana">&lt;p&gt;Você sabia que o solfejo, ou leitura musical cantada à primeira vista, tem uma história que ultrapassa um milênio?&lt;/p&gt;
 
-&lt;p&gt;O vídeo a seguir foi publicado pelo canal &lt;a href=&quot;https://www.youtube.com/c/EarlyMusicSourcescom&quot;&gt;&lt;em&gt;Early Music Sources&lt;/em&gt;&lt;/a&gt; (Arquivos de Música Antiga, em tradução livre), dedicado às práticas musicais dos períodos medieval, renascentista e barroco. Ele é um pouco mais longo e demanda uma certa dedicação para que seja plenamente compreendido.&lt;/p&gt;
+&lt;p&gt;O vídeo a seguir foi publicado pelo canal &lt;a href=&quot;https://www.youtube.com/c/EarlyMusicSourcescom&quot;&gt;&lt;em&gt;Early Music Sources&lt;/em&gt;&lt;/a&gt; (Arquivos de Música Antiga, em tradução livre), dedicado às práticas musicais dos períodos medieval, renascentista e barroco. Ele é um pouco mais longo e demanda uma certa concentração para que seja plenamente compreendido.&lt;/p&gt;
 
-&lt;p&gt;Este vídeo aprofundará alguns dos conceitos mais conhecidos sobre a origem dos nomes das notas musicais, por meio da demonstração da técnica de solfejo criada pelo monge italiano Guido d’Arezzo (992-1050), e seu desenvolvimento posterior, já no século XVI.&lt;/p&gt;
+&lt;p&gt;O vídeo aprofunda alguns dos conceitos mais conhecidos sobre a origem dos nomes das notas musicais, por meio da demonstração da técnica de solfejo criada pelo monge italiano Guido d’Arezzo (992-1050), até seu desenvolvimento posterior, já no século XVI.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://www.youtube.com/embed/IRDDT1uSrd0&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Trata-se de uma pedagogia elaboradíssima, cuja característica principal, que desejamos ressaltar, é o fato dos nomes “ut, re, mi, fa, sol e la” serem utilizadas de maneira MÓVEL, isto é, RELATIVA. Tais sílabas não se associavam a uma ou outra nota de maneira FIXA; ao contrário, as “notas musicais”, no sentido mais contemporâneo, isto é, como alturas fixas, eram tratadas por seus nomes alfabéticos: A - Lá, B - Si, C - Dó, D - Ré, E - Mi, F - Fá e G - Sol, com pequenas diferenças em alguns países.&lt;/p&gt;
+&lt;p&gt;Trata-se de uma pedagogia elaboradíssima, cuja característica principal, que desejamos ressaltar, é o fato dos nomes &lt;em&gt;ut, re, mi, fa, sol e la&lt;/em&gt; serem utilizadas de maneira &lt;em&gt;móvel&lt;/em&gt;, isto é, &lt;em&gt;relativa&lt;/em&gt;. Tais sílabas não se associavam a uma ou outra nota de maneira &lt;em&gt;fixa&lt;/em&gt;; ao contrário, as “notas musicais”, no sentido mais contemporâneo, isto é, como alturas fixas, eram tratadas por seus nomes alfabéticos – A, B, C, D, E, F e G – com pequenas diferenças em alguns países.&lt;/p&gt;
 
-&lt;p&gt;No vídeo, portanto, as sílabas melódicas “ut, re, mi, fa, sol e la” são utilizadas como recursos móveis para estabelecer padrões intervalares, o que, em certo sentido, evoca o solfejo móvel contemporâneo (embora não tenha, obviamenter, o sentido tonal de que se imbuirão as notas a partir do final do Renascimento e começo do período Barroco).&lt;/p&gt;
+&lt;p&gt;No vídeo, portanto, as sílabas melódicas &lt;em&gt;ut, re, mi, fa, sol e la&lt;/em&gt; são utilizadas como recursos móveis para estabelecer padrões intervalares, o que, em certo sentido, evoca o solfejo móvel contemporâneo (embora não tenha, obviamente, o sentido tonal de que se imbuirão as notas a partir do final do Renascimento e começo do período Barroco).&lt;/p&gt;
 
-&lt;p&gt;Lembre-se de ativar a legenda em português para melhor compreender a exposição, e aprecie as belas melodias solmizadas.&lt;/p&gt;
+&lt;p&gt;Lembre-se de ativar a legenda em português para facilitar o entendimento da exposição, e aprecie as belas melodias solmizadas.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;De certa maneira, esta elaborada técnica de solfejo por hexacordes criada por Guido d’Arezzo nos influencia até hoje, não apenas no que se refere ao batismo das notas, mas sobretudo ao propor uma prática de aprendizagem da leitura cantada à primeira vista por meio de um sistema de sílabas relativas atribuídas às diferentes alturas.&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;Você sabia?:&lt;/strong&gt; Esta elaborada técnica de solfejo por hexacordes criada por Guido d’Arezzo nos influencia até hoje, não apenas no que se refere ao batismo das notas, mas sobretudo ao propor uma prática de aprendizagem da leitura cantada à primeira vista por meio de um sistema de sílabas relativas atribuídas às diferentes alturas. Além disso, preconizou a utilização de artifícios mnemônicos: além das próprias sílabas, também um complexo sistema que previa a indicação, simultânea ao canto, de uma posição nas juntas e pontas dos dedos correspondente à altura pretendida.&lt;/p&gt;
 &lt;/blockquote&gt;</content>
 
       

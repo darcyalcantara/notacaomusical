@@ -3,20 +3,22 @@ layout: post
 current: post
 cover: assets/library.jpg
 navigation: True
-title: "Fontes confiáveis para partituras"
+title: "Fontes confiáveis de partituras"
 date: 2022-02-05 16:49:00 -0300
 tags: [Repertório]
 class: post-template
 subclass: 'post'
 ---
 
-A busca de partituras deve ser feita em fontes confiáveis. Isto significa ser tão criterioso quanto com a busca de fontes bibliográficas.
+A busca de partituras deve ser feita em fontes confiáveis. Isto significa ser tão criterioso quanto com a busca de fontes bibliográficas, ou de gravações de referência.
 
-Por isso, há de se ter certo cuidado com os resultados de pesquisas feitas no Google, que podem retornar partituras e cifras de qualidade duvidosa, isto é, que não representam adequadamente as obras. Seguem abaixo alguns sites que fornecem partituras de boa qualidade editorial.
+Por isso, há de se ter certo cuidado com os resultados de pesquisas feitas no Google, que podem retornar partituras e cifras de qualidade duvidosa, isto é, que não representam adequadamente as obras.
+
+Seguem abaixo alguns sites que fornecem partituras com boa qualidade editorial.
 
 ### Obras clássicas e vocais
 <p></p>
-- [**IMSLP**](http://imslp.org/) - O site do *International Music Score Library Project* (IMSLP), criado em 2006, é a principal fonte para para download de partituras da tradição clássica ocidental, trazendo inclusive fac-símiles de manuscritos. A maior parte das obras está em domínio público, ou tiveram sua divulgação autorizada pelos respectivos compositores ou editores. Mais recentemente, passou a disponibilizar também gravações. Os números impressionam: 169.142 obras, 20.430 compositores, 541.305 partituras e 64.928 gravações (dados de 21/11/2020).
+- [**IMSLP**](http://imslp.org/) - O site do *International Music Score Library Project* (IMSLP), criado em 2006, é a principal fonte para para download de partituras da tradição clássica ocidental, trazendo inclusive *fac-símiles* de manuscritos. A maior parte das obras está em domínio público, ou tiveram sua divulgação autorizada pelos respectivos compositores ou editores. Mais recentemente, passou a disponibilizar também gravações. Os números impressionam: 169.142 obras, 20.430 compositores, 541.305 partituras e 64.928 gravações (dados de 21/11/2020).
 
 - [**CPDL**](http://cpdl.org/) - O repositório *Choral Public Domain Library* (CPDL), fundado em 1998, apresenta também milhares de composições e arranjos para coral e outras formações vocais (*a cappella* ou com instrumentos). São 36.785 obras de 3.658 compositores (dados de 21/11/2020).
 
