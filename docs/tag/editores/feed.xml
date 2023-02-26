@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
-  <link href="http://0.0.0.0:4000/notacaomusical/tag/editores/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://0.0.0.0:4000/notacaomusical/" rel="alternate" type="text/html" />
-  <updated>2022-02-18T15:08:09-03:00</updated>
-  <id>http://0.0.0.0:4000/notacaomusical/tag/editores/feed.xml</id>
+  <link href="http://localhost:4000/notacaomusical/tag/editores/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/notacaomusical/" rel="alternate" type="text/html" />
+  <updated>2023-02-25T22:43:59-03:00</updated>
+  <id>http://localhost:4000/notacaomusical/tag/editores/feed.xml</id>
 
   
   
@@ -45,11 +45,11 @@
   
     <entry>
       <title type="html">Editores de partitura online e colaborativos</title>
-      <link href="http://0.0.0.0:4000/notacaomusical/noteflight-e-flat" rel="alternate" type="text/html" title="Editores de partitura online e colaborativos" />
+      <link href="http://localhost:4000/notacaomusical/noteflight-e-flat" rel="alternate" type="text/html" title="Editores de partitura online e colaborativos" />
       <published>2022-02-05T16:49:00-03:00</published>
       <updated>2022-02-05T16:49:00-03:00</updated>
-      <id>http://0.0.0.0:4000/notacaomusical/noteflight-e-flat</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/noteflight-e-flat">&lt;p&gt;Uma opção online para editar partituras é proporcionada pelo &lt;a href=&quot;https://www.noteflight.com&quot;&gt;Noteflight&lt;/a&gt;. Como roda diretamente no browser de internet, não necessita de ser instalado.&lt;/p&gt;
+      <id>http://localhost:4000/notacaomusical/noteflight-e-flat</id>
+      <content type="html" xml:base="http://localhost:4000/notacaomusical/noteflight-e-flat">&lt;p&gt;Uma opção online para editar partituras é proporcionada pelo &lt;a href=&quot;https://www.noteflight.com&quot;&gt;Noteflight&lt;/a&gt;. Como roda diretamente no browser de internet, não necessita de ser instalado.&lt;/p&gt;
 
 &lt;p&gt;Embora seja um pouco mais limitado que um software convencional, cumpre bem o básico, e tem algumas vantagens, mesmo na conta gratuita, como salvar partituras na nuvem e permitir a edição colaborativa. Você ainda pode participar da comunidade virtual, acessar e compartilhar partituras de outros usuários, etc.&lt;/p&gt;
 
@@ -85,11 +85,11 @@
   
     <entry>
       <title type="html">Chrome Music Lab</title>
-      <link href="http://0.0.0.0:4000/notacaomusical/chrome-music-lab" rel="alternate" type="text/html" title="Chrome Music Lab" />
+      <link href="http://localhost:4000/notacaomusical/chrome-music-lab" rel="alternate" type="text/html" title="Chrome Music Lab" />
       <published>2022-02-05T16:49:00-03:00</published>
       <updated>2022-02-05T16:49:00-03:00</updated>
-      <id>http://0.0.0.0:4000/notacaomusical/chrome-music-lab</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/chrome-music-lab">&lt;p&gt;Os recursos interativos podem despertar a curiosidade sobre outros elementos musicais e parâmetros sonoros: além de ritmo e alturas, duração, timbre, intensidade, textura, etc.&lt;/p&gt;
+      <id>http://localhost:4000/notacaomusical/chrome-music-lab</id>
+      <content type="html" xml:base="http://localhost:4000/notacaomusical/chrome-music-lab">&lt;p&gt;Os recursos interativos podem despertar a curiosidade sobre outros elementos musicais e parâmetros sonoros: além de ritmo e alturas, duração, timbre, intensidade, textura, etc.&lt;/p&gt;
 
 &lt;p&gt;Trazer à consciência a existência destes parâmetros e como se organizam em uma composição musical é um passo importante para reconhecê-los, nomeá-los e utilizá-los criativamente - em composições e aulas de música, por exemplo.&lt;/p&gt;
 
@@ -125,11 +125,11 @@
   
     <entry>
       <title type="html">Editor de partituras gratuito e de código aberto</title>
-      <link href="http://0.0.0.0:4000/notacaomusical/musescore" rel="alternate" type="text/html" title="Editor de partituras gratuito e de código aberto" />
+      <link href="http://localhost:4000/notacaomusical/musescore" rel="alternate" type="text/html" title="Editor de partituras gratuito e de código aberto" />
       <published>2000-01-01T00:00:00-02:00</published>
       <updated>2000-01-01T00:00:00-02:00</updated>
-      <id>http://0.0.0.0:4000/notacaomusical/musescore</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/musescore">&lt;p&gt;Entre os mais conhecidos softwares para edição de partituras, figuram &lt;em&gt;Sibelius&lt;/em&gt; e &lt;em&gt;Finale&lt;/em&gt;, que consistiram durante décadas no padrão da indústria musical.&lt;/p&gt;
+      <id>http://localhost:4000/notacaomusical/musescore</id>
+      <content type="html" xml:base="http://localhost:4000/notacaomusical/musescore">&lt;p&gt;Entre os mais conhecidos softwares para edição de partituras, figuram &lt;em&gt;Sibelius&lt;/em&gt; e &lt;em&gt;Finale&lt;/em&gt;, que consistiram durante décadas no padrão da indústria musical.&lt;/p&gt;
 
 &lt;p&gt;Recentemente, uma aplicação de código aberto ganhou espaço, sobretudo por envolver uma comunidade de programadores de software livre. Trata-se do &lt;a href=&quot;https://musescore.org&quot;&gt;&lt;em&gt;MuseScore&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
@@ -171,11 +171,11 @@
   
     <entry>
       <title type="html">Sequenciador online interativo destrincha a estrutura da música popular</title>
-      <link href="http://0.0.0.0:4000/notacaomusical/ableton" rel="alternate" type="text/html" title="Sequenciador online interativo destrincha a estrutura da música popular" />
+      <link href="http://localhost:4000/notacaomusical/ableton" rel="alternate" type="text/html" title="Sequenciador online interativo destrincha a estrutura da música popular" />
       <published>2000-01-01T00:00:00-02:00</published>
       <updated>2000-01-01T00:00:00-02:00</updated>
-      <id>http://0.0.0.0:4000/notacaomusical/ableton</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/ableton">&lt;p&gt;A Ableton é uma companhia alemã que produz o software &lt;a href=&quot;https://www.ableton.com/en/trial&quot;&gt;Ableton Live&lt;/a&gt;, uma DAW (Digital Audio Workstation) bastante conhecida pelos músicos profissionais.&lt;/p&gt;
+      <id>http://localhost:4000/notacaomusical/ableton</id>
+      <content type="html" xml:base="http://localhost:4000/notacaomusical/ableton">&lt;p&gt;A Ableton é uma companhia alemã que produz o software &lt;a href=&quot;https://www.ableton.com/en/trial&quot;&gt;Ableton Live&lt;/a&gt;, uma DAW (Digital Audio Workstation) bastante conhecida pelos músicos profissionais.&lt;/p&gt;
 
 &lt;p&gt;Mais acessível, o site &lt;a href=&quot;https://learningmusic.ableton.com&quot;&gt;&lt;em&gt;Learning Music&lt;/em&gt;&lt;/a&gt;, da mesma companhia, é um conjunto de ferramentas interativas que ajudam a compreender a estrutura das canções populares estilo pop-rock (com bateria, baixo, harmonia e linha melódica vocal).&lt;/p&gt;
 

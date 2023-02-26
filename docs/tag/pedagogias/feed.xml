@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
-  <link href="http://0.0.0.0:4000/notacaomusical/tag/pedagogias/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://0.0.0.0:4000/notacaomusical/" rel="alternate" type="text/html" />
-  <updated>2022-02-18T15:08:09-03:00</updated>
-  <id>http://0.0.0.0:4000/notacaomusical/tag/pedagogias/feed.xml</id>
+  <link href="http://localhost:4000/notacaomusical/tag/pedagogias/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/notacaomusical/" rel="alternate" type="text/html" />
+  <updated>2023-02-25T22:43:59-03:00</updated>
+  <id>http://localhost:4000/notacaomusical/tag/pedagogias/feed.xml</id>
 
   
   
@@ -45,11 +45,11 @@
   
     <entry>
       <title type="html">Takadimi, solfejo rítmico ocidental inspirado no Konnakol</title>
-      <link href="http://0.0.0.0:4000/notacaomusical/takadimi" rel="alternate" type="text/html" title="Takadimi, solfejo rítmico ocidental inspirado no Konnakol" />
+      <link href="http://localhost:4000/notacaomusical/takadimi" rel="alternate" type="text/html" title="Takadimi, solfejo rítmico ocidental inspirado no Konnakol" />
       <published>2022-02-05T16:49:00-03:00</published>
       <updated>2022-02-05T16:49:00-03:00</updated>
-      <id>http://0.0.0.0:4000/notacaomusical/takadimi</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/takadimi">&lt;p&gt;Além de &lt;em&gt;O Passo&lt;/em&gt;, outro sistema de solmização rítmica muito utilizado em todo o mundo é &lt;strong&gt;Takadimi&lt;/strong&gt;, desenvolvido ao longo da década de 1990 por Richard Hoffman, William Pelto e John W. White.&lt;/p&gt;
+      <id>http://localhost:4000/notacaomusical/takadimi</id>
+      <content type="html" xml:base="http://localhost:4000/notacaomusical/takadimi">&lt;p&gt;Além de &lt;em&gt;O Passo&lt;/em&gt;, outro sistema de solmização rítmica muito utilizado em todo o mundo é &lt;strong&gt;Takadimi&lt;/strong&gt;, desenvolvido ao longo da década de 1990 por Richard Hoffman, William Pelto e John W. White.&lt;/p&gt;
 
 &lt;p&gt;As raízes do método Takadimi estão nas vocalizações rítmicas indianas, mas a metodologia foi desenvolvida e experimentada no contexto do ensino musical em universidades norte-americanas. A abordagem tamém recupera criticamente outros sistemas de silabação rítmica, como os criados por Zoltán Kodály Edwin Gordon.&lt;/p&gt;
 
@@ -110,11 +110,11 @@
   
     <entry>
       <title type="html">Ensino musical a partir de práticas informais de aprendizagem</title>
-      <link href="http://0.0.0.0:4000/notacaomusical/percepcao-e-musica-popular" rel="alternate" type="text/html" title="Ensino musical a partir de práticas informais de aprendizagem" />
+      <link href="http://localhost:4000/notacaomusical/percepcao-e-musica-popular" rel="alternate" type="text/html" title="Ensino musical a partir de práticas informais de aprendizagem" />
       <published>2022-02-05T16:49:00-03:00</published>
       <updated>2022-02-05T16:49:00-03:00</updated>
-      <id>http://0.0.0.0:4000/notacaomusical/percepcao-e-musica-popular</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/percepcao-e-musica-popular">&lt;p&gt;Muitos estabelecimentos regulares de ensino de música empregam metodologias que podemos denominar &lt;em&gt;práticas formais de aprendizagem&lt;/em&gt;, na ótica da sociologia da educação musical de Lucy Green.&lt;/p&gt;
+      <id>http://localhost:4000/notacaomusical/percepcao-e-musica-popular</id>
+      <content type="html" xml:base="http://localhost:4000/notacaomusical/percepcao-e-musica-popular">&lt;p&gt;Muitos estabelecimentos regulares de ensino de música empregam metodologias que podemos denominar &lt;em&gt;práticas formais de aprendizagem&lt;/em&gt;, na ótica da sociologia da educação musical de Lucy Green.&lt;/p&gt;
 
 &lt;p&gt;Comumente, estas maneiras de aprender requerem o conhecimento prévio ou concomitante da notação musical tradicional, envolvem a apreciação e a interpretação de peças do repertório ocidental clássico (sobretudo do Barroco, Classicismo e Romantismo), e se dão por meio de atividades individuais, altamente especializadas, e voltadas historicamente à formação de concertistas.&lt;/p&gt;
 
@@ -171,11 +171,11 @@
   
     <entry>
       <title type="html">Método O Passo</title>
-      <link href="http://0.0.0.0:4000/notacaomusical/o-passo" rel="alternate" type="text/html" title="Método O Passo" />
+      <link href="http://localhost:4000/notacaomusical/o-passo" rel="alternate" type="text/html" title="Método O Passo" />
       <published>2022-02-05T16:49:00-03:00</published>
       <updated>2022-02-05T16:49:00-03:00</updated>
-      <id>http://0.0.0.0:4000/notacaomusical/o-passo</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/o-passo">&lt;p&gt;&lt;em&gt;O Passo&lt;/em&gt; é um método de educação musical criado em 1996 e, desde então, difundido em vários países. O método propõe uma abordagem democrática e inclusiva para a aprendizagem musical.&lt;/p&gt;
+      <id>http://localhost:4000/notacaomusical/o-passo</id>
+      <content type="html" xml:base="http://localhost:4000/notacaomusical/o-passo">&lt;p&gt;&lt;em&gt;O Passo&lt;/em&gt; é um método de educação musical criado em 1996 e, desde então, difundido em vários países. O método propõe uma abordagem democrática e inclusiva para a aprendizagem musical.&lt;/p&gt;
 
 &lt;p&gt;Assista a entrevista com seu criador, o professor Lucas Ciavatta, que traz ainda depoimentos de vários músicos e pesquisadores.&lt;/p&gt;
 
@@ -216,11 +216,11 @@
   
     <entry>
       <title type="html">Interações rítmicas funcionais ou posicionais</title>
-      <link href="http://0.0.0.0:4000/notacaomusical/interacoes-ritmicas-posicionais" rel="alternate" type="text/html" title="Interações rítmicas funcionais ou posicionais" />
+      <link href="http://localhost:4000/notacaomusical/interacoes-ritmicas-posicionais" rel="alternate" type="text/html" title="Interações rítmicas funcionais ou posicionais" />
       <published>2022-02-05T16:49:00-03:00</published>
       <updated>2022-02-05T16:49:00-03:00</updated>
-      <id>http://0.0.0.0:4000/notacaomusical/interacoes-ritmicas-posicionais</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/interacoes-ritmicas-posicionais">&lt;p&gt;Uma abordagem funcional ou posicional para a percepção de ritmo estabelece como conceitos essenciais a pulsação e as posições dos ataques dos sons no tempo.&lt;/p&gt;
+      <id>http://localhost:4000/notacaomusical/interacoes-ritmicas-posicionais</id>
+      <content type="html" xml:base="http://localhost:4000/notacaomusical/interacoes-ritmicas-posicionais">&lt;p&gt;Uma abordagem funcional ou posicional para a percepção de ritmo estabelece como conceitos essenciais a pulsação e as posições dos ataques dos sons no tempo.&lt;/p&gt;
 
 &lt;p&gt;Por esta ótica, o &lt;em&gt;sabor&lt;/em&gt; rítmico de cada som é primariamente definido, não pelas durações de tempo (mais longas ou curtas), mas sim pelas &lt;em&gt;posições dos ataques em relação à pulsação&lt;/em&gt;.&lt;/p&gt;
 
@@ -273,11 +273,11 @@
   
     <entry>
       <title type="html">Folhas de dicas ou referências rápidas</title>
-      <link href="http://0.0.0.0:4000/notacaomusical/folhas-de-dicas" rel="alternate" type="text/html" title="Folhas de dicas ou referências rápidas" />
+      <link href="http://localhost:4000/notacaomusical/folhas-de-dicas" rel="alternate" type="text/html" title="Folhas de dicas ou referências rápidas" />
       <published>2022-02-05T16:49:00-03:00</published>
       <updated>2022-02-05T16:49:00-03:00</updated>
-      <id>http://0.0.0.0:4000/notacaomusical/folhas-de-dicas</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/folhas-de-dicas">&lt;p&gt;Estas folhas de dicas, ou &lt;em&gt;cheat sheets&lt;/em&gt;, são materiais em PDF que resumem alguns dos conceitos fundamentais da teoria musical, por meio de diagramas, símbolos, imagens e textos.&lt;/p&gt;
+      <id>http://localhost:4000/notacaomusical/folhas-de-dicas</id>
+      <content type="html" xml:base="http://localhost:4000/notacaomusical/folhas-de-dicas">&lt;p&gt;Estas folhas de dicas, ou &lt;em&gt;cheat sheets&lt;/em&gt;, são materiais em PDF que resumem alguns dos conceitos fundamentais da teoria musical, por meio de diagramas, símbolos, imagens e textos.&lt;/p&gt;
 
 &lt;p&gt;A proposta é do site de Toby Rush, &lt;a href=&quot;https://tobyrush.com/theorypages&quot;&gt;&lt;em&gt;Music Theory for Musicians and Normal People&lt;/em&gt;&lt;/a&gt; (título humorístico, que pode ser traduzido como “Teoria musical para músicos e pessoas normais”).&lt;/p&gt;
 
@@ -315,11 +315,11 @@
   
     <entry>
       <title type="html">Pesquisa em pedagogia da teoria musical</title>
-      <link href="http://0.0.0.0:4000/notacaomusical/JMTP" rel="alternate" type="text/html" title="Pesquisa em pedagogia da teoria musical" />
+      <link href="http://localhost:4000/notacaomusical/JMTP" rel="alternate" type="text/html" title="Pesquisa em pedagogia da teoria musical" />
       <published>2022-02-05T16:49:00-03:00</published>
       <updated>2022-02-05T16:49:00-03:00</updated>
-      <id>http://0.0.0.0:4000/notacaomusical/JMTP</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/JMTP">&lt;p&gt;O site do periódico &lt;a href=&quot;https://jmtp.appstate.edu&quot;&gt;&lt;em&gt;Journal of Music Theory Pedagogy&lt;/em&gt;&lt;/a&gt; traz centenas de artigos de acesso livre e gratuito. São abordagens - as mais diversas - para o ensino de teoria e percepção, estruturação musical e treinamento auditivo. Vale conhecer!&lt;/p&gt;</content>
+      <id>http://localhost:4000/notacaomusical/JMTP</id>
+      <content type="html" xml:base="http://localhost:4000/notacaomusical/JMTP">&lt;p&gt;O site do periódico &lt;a href=&quot;https://jmtp.appstate.edu&quot;&gt;&lt;em&gt;Journal of Music Theory Pedagogy&lt;/em&gt;&lt;/a&gt; traz centenas de artigos de acesso livre e gratuito. São abordagens - as mais diversas - para o ensino de teoria e percepção, estruturação musical e treinamento auditivo. Vale conhecer!&lt;/p&gt;</content>
 
       
       
@@ -349,11 +349,11 @@
   
     <entry>
       <title type="html">A mão guidoniana</title>
-      <link href="http://0.0.0.0:4000/notacaomusical/mao-guidoniana" rel="alternate" type="text/html" title="A mão guidoniana" />
+      <link href="http://localhost:4000/notacaomusical/mao-guidoniana" rel="alternate" type="text/html" title="A mão guidoniana" />
       <published>2000-01-01T00:00:00-02:00</published>
       <updated>2000-01-01T00:00:00-02:00</updated>
-      <id>http://0.0.0.0:4000/notacaomusical/mao-guidoniana</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/mao-guidoniana">&lt;p&gt;Você sabia que o solfejo, ou leitura musical cantada à primeira vista, tem uma história que ultrapassa um milênio?&lt;/p&gt;
+      <id>http://localhost:4000/notacaomusical/mao-guidoniana</id>
+      <content type="html" xml:base="http://localhost:4000/notacaomusical/mao-guidoniana">&lt;p&gt;Você sabia que o solfejo, ou leitura musical cantada à primeira vista, tem uma história que ultrapassa um milênio?&lt;/p&gt;
 
 &lt;p&gt;O vídeo a seguir foi publicado pelo canal &lt;a href=&quot;https://www.youtube.com/c/EarlyMusicSourcescom&quot;&gt;&lt;em&gt;Early Music Sources&lt;/em&gt;&lt;/a&gt; (Arquivos de Música Antiga, em tradução livre), dedicado às práticas musicais dos períodos medieval, renascentista e barroco. Ele é um pouco mais longo e demanda uma certa concentração para que seja plenamente compreendido.&lt;/p&gt;
 

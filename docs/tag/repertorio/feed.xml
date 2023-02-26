@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
-  <link href="http://0.0.0.0:4000/notacaomusical/tag/repertorio/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://0.0.0.0:4000/notacaomusical/" rel="alternate" type="text/html" />
-  <updated>2022-02-18T15:08:09-03:00</updated>
-  <id>http://0.0.0.0:4000/notacaomusical/tag/repertorio/feed.xml</id>
+  <link href="http://localhost:4000/notacaomusical/tag/repertorio/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/notacaomusical/" rel="alternate" type="text/html" />
+  <updated>2023-02-25T22:43:59-03:00</updated>
+  <id>http://localhost:4000/notacaomusical/tag/repertorio/feed.xml</id>
 
   
   
@@ -45,11 +45,11 @@
   
     <entry>
       <title type="html">O piano roll</title>
-      <link href="http://0.0.0.0:4000/notacaomusical/piano-roll" rel="alternate" type="text/html" title="O piano roll" />
+      <link href="http://localhost:4000/notacaomusical/piano-roll" rel="alternate" type="text/html" title="O piano roll" />
       <published>2022-02-05T16:49:00-03:00</published>
       <updated>2022-02-05T16:49:00-03:00</updated>
-      <id>http://0.0.0.0:4000/notacaomusical/piano-roll</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/piano-roll">&lt;p&gt;Você conhece o &lt;em&gt;piano roll&lt;/em&gt;? Originalmente, consistia de uma forma de armazenamento musical por meio de rolos de papel perfurados.&lt;/p&gt;
+      <id>http://localhost:4000/notacaomusical/piano-roll</id>
+      <content type="html" xml:base="http://localhost:4000/notacaomusical/piano-roll">&lt;p&gt;Você conhece o &lt;em&gt;piano roll&lt;/em&gt;? Originalmente, consistia de uma forma de armazenamento musical por meio de rolos de papel perfurados.&lt;/p&gt;
 
 &lt;p&gt;Você já deve ter assistido a filmes de faroeste, em que uma pianola (um piano mecânico, pneumático ou elétrico) executa música de maneira automática, isto é, sem a presença de um intérprete. Esta adaptação mecânica do piano foi muito presente no final do século XIX e começo do século XX. Muitos compositores e intérpretes, inclusive, deixaram registradas suas performances por meio deste dispositivo.&lt;/p&gt;
 
@@ -103,11 +103,11 @@
   
     <entry>
       <title type="html">Música popular transcrita para o piano roll</title>
-      <link href="http://0.0.0.0:4000/notacaomusical/hook-theory" rel="alternate" type="text/html" title="Música popular transcrita para o piano roll" />
+      <link href="http://localhost:4000/notacaomusical/hook-theory" rel="alternate" type="text/html" title="Música popular transcrita para o piano roll" />
       <published>2022-02-05T16:49:00-03:00</published>
       <updated>2022-02-05T16:49:00-03:00</updated>
-      <id>http://0.0.0.0:4000/notacaomusical/hook-theory</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/hook-theory">&lt;p&gt;Um grande desafio para o ensino de teoria e percepção musical é a incorporação de música popular, tanto em termos de repertório quanto de práticas de aprendizagem.&lt;/p&gt;
+      <id>http://localhost:4000/notacaomusical/hook-theory</id>
+      <content type="html" xml:base="http://localhost:4000/notacaomusical/hook-theory">&lt;p&gt;Um grande desafio para o ensino de teoria e percepção musical é a incorporação de música popular, tanto em termos de repertório quanto de práticas de aprendizagem.&lt;/p&gt;
 
 &lt;p&gt;Embora internacionalmente, se encontrem muitos exemplos, sobretudo no mercado editorial norte-americano, ainda são poucos os materiais didáticos em português que contemplam extensivamente a música popular (com algumas exceções, como as publicações de Adamo Prince e a recente tradução em português dos livros de Teoria Musical da &lt;em&gt;Berklee&lt;/em&gt;).&lt;/p&gt;
 
@@ -147,11 +147,11 @@
   
     <entry>
       <title type="html">Transcrições manuscritas de passagens conhecidas de Hip Hop</title>
-      <link href="http://0.0.0.0:4000/notacaomusical/hip-hop-transcriptions" rel="alternate" type="text/html" title="Transcrições manuscritas de passagens conhecidas de Hip Hop" />
+      <link href="http://localhost:4000/notacaomusical/hip-hop-transcriptions" rel="alternate" type="text/html" title="Transcrições manuscritas de passagens conhecidas de Hip Hop" />
       <published>2022-02-05T16:49:00-03:00</published>
       <updated>2022-02-05T16:49:00-03:00</updated>
-      <id>http://0.0.0.0:4000/notacaomusical/hip-hop-transcriptions</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/hip-hop-transcriptions">&lt;p&gt;Quem disse que só se estuda ditado rítmico com música de concerto?&lt;/p&gt;
+      <id>http://localhost:4000/notacaomusical/hip-hop-transcriptions</id>
+      <content type="html" xml:base="http://localhost:4000/notacaomusical/hip-hop-transcriptions">&lt;p&gt;Quem disse que só se estuda ditado rítmico com música de concerto?&lt;/p&gt;
 
 &lt;p&gt;Originalmente um Tumblr, esta página do Instagram apresenta detalhadas transcrições de bateria, percussão, voz, baixo, piano, guitarra etc., na forma de pequenos trechos selecionados.&lt;/p&gt;
 
@@ -196,11 +196,11 @@
   
     <entry>
       <title type="html">Fontes confiáveis de partituras</title>
-      <link href="http://0.0.0.0:4000/notacaomusical/fontes-partituras" rel="alternate" type="text/html" title="Fontes confiáveis de partituras" />
+      <link href="http://localhost:4000/notacaomusical/fontes-partituras" rel="alternate" type="text/html" title="Fontes confiáveis de partituras" />
       <published>2022-02-05T16:49:00-03:00</published>
       <updated>2022-02-05T16:49:00-03:00</updated>
-      <id>http://0.0.0.0:4000/notacaomusical/fontes-partituras</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/fontes-partituras">&lt;p&gt;A busca de partituras deve ser feita em fontes confiáveis. Isto significa ser tão criterioso quanto com a busca de fontes bibliográficas, ou de gravações de referência.&lt;/p&gt;
+      <id>http://localhost:4000/notacaomusical/fontes-partituras</id>
+      <content type="html" xml:base="http://localhost:4000/notacaomusical/fontes-partituras">&lt;p&gt;A busca de partituras deve ser feita em fontes confiáveis. Isto significa ser tão criterioso quanto com a busca de fontes bibliográficas, ou de gravações de referência.&lt;/p&gt;
 
 &lt;p&gt;Por isso, há de se ter certo cuidado com os resultados de pesquisas feitas no Google, que podem retornar partituras e cifras de qualidade duvidosa, isto é, que não representam adequadamente as obras.&lt;/p&gt;
 
@@ -268,11 +268,11 @@
   
     <entry>
       <title type="html">Coletânea de solfejos</title>
-      <link href="http://0.0.0.0:4000/notacaomusical/eyes-and-ears" rel="alternate" type="text/html" title="Coletânea de solfejos" />
+      <link href="http://localhost:4000/notacaomusical/eyes-and-ears" rel="alternate" type="text/html" title="Coletânea de solfejos" />
       <published>2022-02-05T16:49:00-03:00</published>
       <updated>2022-02-05T16:49:00-03:00</updated>
-      <id>http://0.0.0.0:4000/notacaomusical/eyes-and-ears</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/eyes-and-ears">&lt;p&gt;A coletânea de solfejos &lt;em&gt;Eyes and Ears: An Anthology of Melodies for Sight-Singing&lt;/em&gt;, de autoria de Benjamin Crowell, apresenta 400 melodias que podem ser utilizadas para o desenvolvimento da leitura cantada à primeira vista.&lt;/p&gt;
+      <id>http://localhost:4000/notacaomusical/eyes-and-ears</id>
+      <content type="html" xml:base="http://localhost:4000/notacaomusical/eyes-and-ears">&lt;p&gt;A coletânea de solfejos &lt;em&gt;Eyes and Ears: An Anthology of Melodies for Sight-Singing&lt;/em&gt;, de autoria de Benjamin Crowell, apresenta 400 melodias que podem ser utilizadas para o desenvolvimento da leitura cantada à primeira vista.&lt;/p&gt;
 
 &lt;p&gt;As melodias estão ordenadas de uma maneira similar à sequência que experimentamos ao longo da disciplina Linguagem Musical. Há ainda algumas anotações didáticas úteis para a auto-instrução.&lt;/p&gt;
 
@@ -308,11 +308,11 @@
   
     <entry>
       <title type="html">Dicionários de temas musicais</title>
-      <link href="http://0.0.0.0:4000/notacaomusical/dicionario" rel="alternate" type="text/html" title="Dicionários de temas musicais" />
+      <link href="http://localhost:4000/notacaomusical/dicionario" rel="alternate" type="text/html" title="Dicionários de temas musicais" />
       <published>2022-02-05T16:49:00-03:00</published>
       <updated>2022-02-05T16:49:00-03:00</updated>
-      <id>http://0.0.0.0:4000/notacaomusical/dicionario</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/dicionario">&lt;p&gt;Muitas vezes conhecemos uma melodia mas não sabemos seu nome, compositor, nem tampouco como encontrá-la, sobretudo quando não temos acesso a informações extramusicais.&lt;/p&gt;
+      <id>http://localhost:4000/notacaomusical/dicionario</id>
+      <content type="html" xml:base="http://localhost:4000/notacaomusical/dicionario">&lt;p&gt;Muitas vezes conhecemos uma melodia mas não sabemos seu nome, compositor, nem tampouco como encontrá-la, sobretudo quando não temos acesso a informações extramusicais.&lt;/p&gt;
 
 &lt;p&gt;Metadados como título e compositor ou trechos da letra facilitam esse trabalhado de busca, quando se trata de uma canção. Mas e quando tudo o que sabemos é cantarolar a melodia?&lt;/p&gt;
 

@@ -4,7 +4,7 @@
     <title> - Articles</title>
     <description>recursos para a aprendizagem de leitura e escrita musical</description>
     <link>
-    http://0.0.0.0:4000</link>
+    http://localhost:4000</link>
     
       
       <item>
@@ -23,8 +23,8 @@
         
         <pubDate>Mon, 07 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/visualizacao-circular-ritmo</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/visualizacao-circular-ritmo</guid>
+        http://localhost:4000/visualizacao-circular-ritmo</link>
+        <guid isPermaLink="true">http://localhost:4000/visualizacao-circular-ritmo</guid>
       </item>
       
     
@@ -45,8 +45,8 @@
         
         <pubDate>Mon, 07 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/notas-no-instrumento</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/notas-no-instrumento</guid>
+        http://localhost:4000/notas-no-instrumento</link>
+        <guid isPermaLink="true">http://localhost:4000/notas-no-instrumento</guid>
       </item>
       
     
@@ -60,8 +60,8 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/piano-roll</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/piano-roll</guid>
+        http://localhost:4000/piano-roll</link>
+        <guid isPermaLink="true">http://localhost:4000/piano-roll</guid>
       </item>
       
     
@@ -75,8 +75,8 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/hook-theory</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/hook-theory</guid>
+        http://localhost:4000/hook-theory</link>
+        <guid isPermaLink="true">http://localhost:4000/hook-theory</guid>
       </item>
       
     
@@ -90,8 +90,8 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/hip-hop-transcriptions</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/hip-hop-transcriptions</guid>
+        http://localhost:4000/hip-hop-transcriptions</link>
+        <guid isPermaLink="true">http://localhost:4000/hip-hop-transcriptions</guid>
       </item>
       
     
@@ -105,8 +105,8 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/fontes-partituras</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/fontes-partituras</guid>
+        http://localhost:4000/fontes-partituras</link>
+        <guid isPermaLink="true">http://localhost:4000/fontes-partituras</guid>
       </item>
       
     
@@ -120,8 +120,8 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/eyes-and-ears</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/eyes-and-ears</guid>
+        http://localhost:4000/eyes-and-ears</link>
+        <guid isPermaLink="true">http://localhost:4000/eyes-and-ears</guid>
       </item>
       
     
@@ -135,8 +135,8 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/dicionario</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/dicionario</guid>
+        http://localhost:4000/dicionario</link>
+        <guid isPermaLink="true">http://localhost:4000/dicionario</guid>
       </item>
       
     
@@ -150,8 +150,8 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/takadimi</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/takadimi</guid>
+        http://localhost:4000/takadimi</link>
+        <guid isPermaLink="true">http://localhost:4000/takadimi</guid>
       </item>
       
     
@@ -165,8 +165,8 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/percepcao-e-musica-popular</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/percepcao-e-musica-popular</guid>
+        http://localhost:4000/percepcao-e-musica-popular</link>
+        <guid isPermaLink="true">http://localhost:4000/percepcao-e-musica-popular</guid>
       </item>
       
     
@@ -180,8 +180,8 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/o-passo</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/o-passo</guid>
+        http://localhost:4000/o-passo</link>
+        <guid isPermaLink="true">http://localhost:4000/o-passo</guid>
       </item>
       
     
@@ -195,8 +195,8 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/interacoes-ritmicas-posicionais</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/interacoes-ritmicas-posicionais</guid>
+        http://localhost:4000/interacoes-ritmicas-posicionais</link>
+        <guid isPermaLink="true">http://localhost:4000/interacoes-ritmicas-posicionais</guid>
       </item>
       
     
@@ -210,8 +210,8 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/folhas-de-dicas</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/folhas-de-dicas</guid>
+        http://localhost:4000/folhas-de-dicas</link>
+        <guid isPermaLink="true">http://localhost:4000/folhas-de-dicas</guid>
       </item>
       
     
@@ -224,8 +224,8 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/JMTP</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/JMTP</guid>
+        http://localhost:4000/JMTP</link>
+        <guid isPermaLink="true">http://localhost:4000/JMTP</guid>
       </item>
       
     
@@ -239,8 +239,8 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/tim-rescala</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/tim-rescala</guid>
+        http://localhost:4000/tim-rescala</link>
+        <guid isPermaLink="true">http://localhost:4000/tim-rescala</guid>
       </item>
       
     
@@ -254,8 +254,8 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/expressividade-e-fraseado</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/expressividade-e-fraseado</guid>
+        http://localhost:4000/expressividade-e-fraseado</link>
+        <guid isPermaLink="true">http://localhost:4000/expressividade-e-fraseado</guid>
       </item>
       
     
@@ -269,8 +269,8 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/dicionario-termos-musicais</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/dicionario-termos-musicais</guid>
+        http://localhost:4000/dicionario-termos-musicais</link>
+        <guid isPermaLink="true">http://localhost:4000/dicionario-termos-musicais</guid>
       </item>
       
     
@@ -284,8 +284,8 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/boas-praticas</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/boas-praticas</guid>
+        http://localhost:4000/boas-praticas</link>
+        <guid isPermaLink="true">http://localhost:4000/boas-praticas</guid>
       </item>
       
     
@@ -306,8 +306,8 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/reconhecer-os-graus-da-escala</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/reconhecer-os-graus-da-escala</guid>
+        http://localhost:4000/reconhecer-os-graus-da-escala</link>
+        <guid isPermaLink="true">http://localhost:4000/reconhecer-os-graus-da-escala</guid>
       </item>
       
     
@@ -328,8 +328,8 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/notas-na-pauta</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/notas-na-pauta</guid>
+        http://localhost:4000/notas-na-pauta</link>
+        <guid isPermaLink="true">http://localhost:4000/notas-na-pauta</guid>
       </item>
       
     
@@ -350,8 +350,8 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/intervalos</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/intervalos</guid>
+        http://localhost:4000/intervalos</link>
+        <guid isPermaLink="true">http://localhost:4000/intervalos</guid>
       </item>
       
     
@@ -365,8 +365,8 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/funcao-tonal-melodia</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/funcao-tonal-melodia</guid>
+        http://localhost:4000/funcao-tonal-melodia</link>
+        <guid isPermaLink="true">http://localhost:4000/funcao-tonal-melodia</guid>
       </item>
       
     
@@ -387,8 +387,8 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/formacao-das-escalas</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/formacao-das-escalas</guid>
+        http://localhost:4000/formacao-das-escalas</link>
+        <guid isPermaLink="true">http://localhost:4000/formacao-das-escalas</guid>
       </item>
       
     
@@ -402,8 +402,8 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/escalas-no-teclado</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/escalas-no-teclado</guid>
+        http://localhost:4000/escalas-no-teclado</link>
+        <guid isPermaLink="true">http://localhost:4000/escalas-no-teclado</guid>
       </item>
       
     
@@ -424,8 +424,8 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/armaduras-de-clave</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/armaduras-de-clave</guid>
+        http://localhost:4000/armaduras-de-clave</link>
+        <guid isPermaLink="true">http://localhost:4000/armaduras-de-clave</guid>
       </item>
       
     
@@ -439,8 +439,8 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/afinacao</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/afinacao</guid>
+        http://localhost:4000/afinacao</link>
+        <guid isPermaLink="true">http://localhost:4000/afinacao</guid>
       </item>
       
     
@@ -461,8 +461,8 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/acordes</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/acordes</guid>
+        http://localhost:4000/acordes</link>
+        <guid isPermaLink="true">http://localhost:4000/acordes</guid>
       </item>
       
     
@@ -476,8 +476,8 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/noteflight-e-flat</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/noteflight-e-flat</guid>
+        http://localhost:4000/noteflight-e-flat</link>
+        <guid isPermaLink="true">http://localhost:4000/noteflight-e-flat</guid>
       </item>
       
     
@@ -491,8 +491,8 @@
         
         <pubDate>Sat, 05 Feb 2022 16:49:00 -0300</pubDate>
         <link>
-        http://0.0.0.0:4000/chrome-music-lab</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/chrome-music-lab</guid>
+        http://localhost:4000/chrome-music-lab</link>
+        <guid isPermaLink="true">http://localhost:4000/chrome-music-lab</guid>
       </item>
       
     
@@ -506,8 +506,8 @@
         
         <pubDate>Sat, 01 Jan 2000 00:00:00 -0200</pubDate>
         <link>
-        http://0.0.0.0:4000/mao-guidoniana</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/mao-guidoniana</guid>
+        http://localhost:4000/mao-guidoniana</link>
+        <guid isPermaLink="true">http://localhost:4000/mao-guidoniana</guid>
       </item>
       
     
@@ -532,8 +532,8 @@
         
         <pubDate>Sat, 01 Jan 2000 00:00:00 -0200</pubDate>
         <link>
-        http://0.0.0.0:4000/musescore</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/musescore</guid>
+        http://localhost:4000/musescore</link>
+        <guid isPermaLink="true">http://localhost:4000/musescore</guid>
       </item>
       
     
@@ -547,8 +547,8 @@
         
         <pubDate>Sat, 01 Jan 2000 00:00:00 -0200</pubDate>
         <link>
-        http://0.0.0.0:4000/ableton</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/ableton</guid>
+        http://localhost:4000/ableton</link>
+        <guid isPermaLink="true">http://localhost:4000/ableton</guid>
       </item>
       
     

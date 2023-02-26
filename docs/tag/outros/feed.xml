@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
-  <link href="http://0.0.0.0:4000/notacaomusical/tag/outros/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://0.0.0.0:4000/notacaomusical/" rel="alternate" type="text/html" />
-  <updated>2022-02-18T15:08:09-03:00</updated>
-  <id>http://0.0.0.0:4000/notacaomusical/tag/outros/feed.xml</id>
+  <link href="http://localhost:4000/notacaomusical/tag/outros/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/notacaomusical/" rel="alternate" type="text/html" />
+  <updated>2023-02-25T22:43:59-03:00</updated>
+  <id>http://localhost:4000/notacaomusical/tag/outros/feed.xml</id>
 
   
   
@@ -45,11 +45,11 @@
   
     <entry>
       <title type="html">Visualização circular do ritmo</title>
-      <link href="http://0.0.0.0:4000/notacaomusical/visualizacao-circular-ritmo" rel="alternate" type="text/html" title="Visualização circular do ritmo" />
+      <link href="http://localhost:4000/notacaomusical/visualizacao-circular-ritmo" rel="alternate" type="text/html" title="Visualização circular do ritmo" />
       <published>2022-02-07T16:49:00-03:00</published>
       <updated>2022-02-07T16:49:00-03:00</updated>
-      <id>http://0.0.0.0:4000/notacaomusical/visualizacao-circular-ritmo</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/visualizacao-circular-ritmo">&lt;p&gt;Uma demanda de etnomusicólogos&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; que estudam tradições musicais não ocidentais é o registro gráfico de sons e ritmos que diferem da métrica e das escalas usuais na música de concerto de matriz europeia, que pode ser necessário para algumas formas de análise.&lt;/p&gt;
+      <id>http://localhost:4000/notacaomusical/visualizacao-circular-ritmo</id>
+      <content type="html" xml:base="http://localhost:4000/notacaomusical/visualizacao-circular-ritmo">&lt;p&gt;Uma demanda de etnomusicólogos&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; que estudam tradições musicais não ocidentais é o registro gráfico de sons e ritmos que diferem da métrica e das escalas usuais na música de concerto de matriz europeia, que pode ser necessário para algumas formas de análise.&lt;/p&gt;
 
 &lt;p&gt;A partitura convencional, muitas vezes, não é o meio mais adequado para esse registro, pois acomoda melhor as estruturas sonoras e práticas da música de concerto de tradição europeia e, em alguma medida, da música popular dos séculos XX e XXI.&lt;/p&gt;
 
@@ -103,11 +103,11 @@
   
     <entry>
       <title type="html">“Estudo para piano”, de Tim Rescala</title>
-      <link href="http://0.0.0.0:4000/notacaomusical/tim-rescala" rel="alternate" type="text/html" title="&quot;Estudo para piano&quot;, de Tim Rescala" />
+      <link href="http://localhost:4000/notacaomusical/tim-rescala" rel="alternate" type="text/html" title="&quot;Estudo para piano&quot;, de Tim Rescala" />
       <published>2022-02-05T16:49:00-03:00</published>
       <updated>2022-02-05T16:49:00-03:00</updated>
-      <id>http://0.0.0.0:4000/notacaomusical/tim-rescala</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/tim-rescala">&lt;p&gt;O estudo musical, embora gratificante e prazeroso, se dá também por repetições e treinamentos que podem ser exaustivos, a depender do objetivo pretendido.&lt;/p&gt;
+      <id>http://localhost:4000/notacaomusical/tim-rescala</id>
+      <content type="html" xml:base="http://localhost:4000/notacaomusical/tim-rescala">&lt;p&gt;O estudo musical, embora gratificante e prazeroso, se dá também por repetições e treinamentos que podem ser exaustivos, a depender do objetivo pretendido.&lt;/p&gt;
 
 &lt;p&gt;No caminho para a proficiência, isto é, para um desempenho de alto nível, as repetições podem parecer, aos ouvidos externos, intermináveis! E isto vale também para o treinamento auditivo: solfejo, ditado…&lt;/p&gt;
 
@@ -151,11 +151,11 @@
   
     <entry>
       <title type="html">Expressividade musical</title>
-      <link href="http://0.0.0.0:4000/notacaomusical/expressividade-e-fraseado" rel="alternate" type="text/html" title="Expressividade musical" />
+      <link href="http://localhost:4000/notacaomusical/expressividade-e-fraseado" rel="alternate" type="text/html" title="Expressividade musical" />
       <published>2022-02-05T16:49:00-03:00</published>
       <updated>2022-02-05T16:49:00-03:00</updated>
-      <id>http://0.0.0.0:4000/notacaomusical/expressividade-e-fraseado</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/expressividade-e-fraseado">&lt;p&gt;É importante equilibrar o estudo concentrado com os tempos de descontração. Melhor ainda se for com um mestre do humor, Rowan Atkinson, o Mr. Bean.&lt;/p&gt;
+      <id>http://localhost:4000/notacaomusical/expressividade-e-fraseado</id>
+      <content type="html" xml:base="http://localhost:4000/notacaomusical/expressividade-e-fraseado">&lt;p&gt;É importante equilibrar o estudo concentrado com os tempos de descontração. Melhor ainda se for com um mestre do humor, Rowan Atkinson, o Mr. Bean.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://www.youtube.com/embed/Wra2l6z7sdc&quot; allow=&quot;autoplay; encrypted-media&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
 
@@ -201,11 +201,11 @@
   
     <entry>
       <title type="html">Dicionário de termos musicais (em inglês)</title>
-      <link href="http://0.0.0.0:4000/notacaomusical/dicionario-termos-musicais" rel="alternate" type="text/html" title="Dicionário de termos musicais (em inglês)" />
+      <link href="http://localhost:4000/notacaomusical/dicionario-termos-musicais" rel="alternate" type="text/html" title="Dicionário de termos musicais (em inglês)" />
       <published>2022-02-05T16:49:00-03:00</published>
       <updated>2022-02-05T16:49:00-03:00</updated>
-      <id>http://0.0.0.0:4000/notacaomusical/dicionario-termos-musicais</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/dicionario-termos-musicais">&lt;p&gt;No campo da pedagogia da teoria e percepção musical, a literatura em língua inglesa é ampla e aprofundada. Além disso, o idioma é muito utilizado em eventos científicos no campo da cognição musical, que muito interessa aos professores de linguagem musical.&lt;/p&gt;
+      <id>http://localhost:4000/notacaomusical/dicionario-termos-musicais</id>
+      <content type="html" xml:base="http://localhost:4000/notacaomusical/dicionario-termos-musicais">&lt;p&gt;No campo da pedagogia da teoria e percepção musical, a literatura em língua inglesa é ampla e aprofundada. Além disso, o idioma é muito utilizado em eventos científicos no campo da cognição musical, que muito interessa aos professores de linguagem musical.&lt;/p&gt;
 
 &lt;p&gt;Por estas e outras razões, vale conhecer &lt;a href=&quot;https://www.meloteca.com/dicionario-de-musica-ingles-portugues&quot;&gt;aqui&lt;/a&gt; o dicionário online de termos musicais do site &lt;em&gt;Meloteca&lt;/em&gt;.&lt;/p&gt;
 
@@ -243,11 +243,11 @@
   
     <entry>
       <title type="html">Boas práticas de escrita musical</title>
-      <link href="http://0.0.0.0:4000/notacaomusical/boas-praticas" rel="alternate" type="text/html" title="Boas práticas de escrita musical" />
+      <link href="http://localhost:4000/notacaomusical/boas-praticas" rel="alternate" type="text/html" title="Boas práticas de escrita musical" />
       <published>2022-02-05T16:49:00-03:00</published>
       <updated>2022-02-05T16:49:00-03:00</updated>
-      <id>http://0.0.0.0:4000/notacaomusical/boas-praticas</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/notacaomusical/boas-praticas">&lt;p&gt;As boas práticas de escrita musical devem ser conhecidas pelos estudantes universitários de música, para que as partituras que venham a produzir sigam as regras da grafia musical vigente.&lt;/p&gt;
+      <id>http://localhost:4000/notacaomusical/boas-praticas</id>
+      <content type="html" xml:base="http://localhost:4000/notacaomusical/boas-praticas">&lt;p&gt;As boas práticas de escrita musical devem ser conhecidas pelos estudantes universitários de música, para que as partituras que venham a produzir sigam as regras da grafia musical vigente.&lt;/p&gt;
 
 &lt;p&gt;Ao respeitar as convenções estabelecidas nas edições profissionais, tornam-se menos ambíguas e facilitam o trabalho de decodificação que é realizado no momento da leitura. Alguns recursos ajudam nesta tarefa; segue uma lista com algumas obras e sites essenciais.&lt;/p&gt;
 
