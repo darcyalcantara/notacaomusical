@@ -26,8 +26,8 @@ twitter: # replace by your username
 facebook: # replace by your username
 
 # Disqus
-disqus: False
-disqus_shortname: # replace with your disqus username
+disqus: True
+disqus_shortname: notacao-musical# replace with your disqus username
 
 # Google Analytics
 google_analytics: # replace with your GA tracking identifier
