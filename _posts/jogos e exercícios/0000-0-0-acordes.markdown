@@ -68,7 +68,7 @@ A configuração padrão define apenas tríades maiores, menores, aumentadas e d
 ### Formação de acordes
 <p></p>
 
-Agora, o jogo é no sentido contrário: é a vez de construir os escravos, selecionando as notas que, combinadas, formarão tríades ou tétradas.
+Agora, o jogo é no sentido contrário: é a vez de construir os acordes, selecionando as notas que, combinadas, formarão tríades ou tétradas.
 
 Para começar, sugere-se deixar as opções que já aparecem no site como padrão, e ir aos poucos acrescentando desafios.
 
